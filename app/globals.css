@@ -136,6 +136,8 @@ button {
 }
 
 .header-flag {
+  width: 24px;
+  height: 24px;
   border-radius: 4px;
   flex-shrink: 0;
 }
