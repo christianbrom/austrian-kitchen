@@ -5,9 +5,10 @@ import type { Recipe } from "@/data/recipes";
 
 interface RecipeCardProps {
   recipe: Recipe;
+  index?: number;
 }
 
-export default function RecipeCard({ recipe }: RecipeCardProps) {
+export default function RecipeCard({ recipe, index = 99 }: RecipeCardProps) {
   const t = useTranslations();
   const locale = useLocale();
   const recipeT = useTranslations(`recipes.${recipe.slug}`);
@@ -23,7 +24,9 @@ export default function RecipeCard({ recipe }: RecipeCardProps) {
           alt={recipeT("title")}
           width={640}
           height={440}
-          priority
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority={index < 4}
+          loading={index < 4 ? "eager" : "lazy"}
         />
         <div className="recipe-card-badges">
           <span className="badge badge-time">

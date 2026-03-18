@@ -41,8 +41,8 @@ export default function HomePage() {
         <section className="recipes-container">
           {filteredRecipes.length > 0 ? (
             <div className="recipes-grid">
-              {filteredRecipes.map((recipe) => (
-                <RecipeCard key={recipe.slug} recipe={recipe} />
+              {filteredRecipes.map((recipe, index) => (
+                <RecipeCard key={recipe.slug} recipe={recipe} index={index} />
               ))}
             </div>
           ) : (
