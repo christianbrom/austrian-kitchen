@@ -1,0 +1,1715 @@
+{
+  "meta": {
+    "title": "Österreichische Küche — Traditionelle Rezepte",
+    "description": "Entdecken Sie authentische österreichische Rezepte mit Schritt-für-Schritt-Anleitungen"
+  },
+  "home": {
+    "hero": "Österreichische Küche",
+    "subtitle": "Traditionelle Rezepte aus dem Herzen Österreichs",
+    "searchPlaceholder": "Rezepte suchen...",
+    "noResults": "Keine Rezepte in dieser Kategorie gefunden.",
+    "cookTime": "Min",
+    "prepTime": "Vorbereitung",
+    "difficulty": {
+      "easy": "Einfach",
+      "medium": "Mittel",
+      "hard": "Schwer"
+    }
+  },
+  "categories": {
+    "all": "Alle",
+    "main-course": "Hauptspeisen",
+    "knodel": "Knödel",
+    "soup": "Suppen",
+    "pancakes": "Nachspeisen",
+    "dessert": "Torten & Süßes",
+    "bakery": "Brot & Gebäck",
+    "street-food": "Imbiss"
+  },
+  "recipe": {
+    "backToHome": "← Zurück zu Rezepten",
+    "servings": "Portionen",
+    "ingredients": "Zutaten",
+    "shoppingList": "Einkaufsliste",
+    "steps": "Zubereitung",
+    "step": "Schritt",
+    "prepTime": "Vorbereitungszeit",
+    "cookTime": "Kochzeit",
+    "totalTime": "Gesamtzeit",
+    "minutes": "Min",
+    "difficulty": "Schwierigkeit"
+  },
+  "languages": {
+    "en": "English",
+    "de": "Deutsch",
+    "ru": "Русский"
+  },
+  "recipes": {
+    "wiener-schnitzel": {
+      "title": "Wiener Schnitzel",
+      "description": "Das Quintessenz der österreichischen Küche — ein perfekt goldenes, knuspriges paniertes Kalbsschnitzel, serviert mit Zitrone und Kartoffelsalat.",
+      "ingredients": {
+        "veal-cutlets": "Kalbsschnitzel (oder Schweineschnitzel)",
+        "flour": "Weizenmehl",
+        "eggs": "Eier",
+        "breadcrumbs": "Feines Paniermehl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "lemon": "Zitrone (zum Servieren)",
+        "oil": "Pflanzenöl oder Butterschmalz (zum Braten)",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die Kalbsschnitzel zwischen zwei Lagen Frischhaltefolie legen und mit einem Fleischklopfer auf ca. 4 mm Dicke plattieren. Das sorgt für gleichmäßiges Garen und maximale Knusprigkeit.",
+        "Beide Seiten jedes Schnitzels großzügig mit Salz und frisch gemahlenem schwarzem Pfeffer würzen.",
+        "Eine Panierstraße mit drei flachen Tellern aufbauen: Mehl im ersten, verquirlte Eier im zweiten und feines Paniermehl im dritten.",
+        "Jedes Schnitzel zuerst in Mehl wenden und überschüssiges Mehl abklopfen. Dann in die verquirlten Eier tauchen und abtropfen lassen. Zum Schluss in das Paniermehl drücken und gleichmäßig von beiden Seiten bedecken. Das Paniermehl nicht zu fest andrücken — eine lockere Panade ergibt die typisch wellige, knusprige Kruste.",
+        "Reichlich Öl oder Butterschmalz in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Das Fett sollte etwa 1-2 cm tief sein und ca. 170°C erreichen.",
+        "Die panierten Schnitzel vorsichtig in das heiße Fett legen. Die Pfanne sanft schwenken, damit das Fett über die Oberseite des Schnitzels fließt — das ist das Geheimnis der aufgehenden Panade.",
+        "Etwa 2-3 Minuten pro Seite braten, bis sie goldbraun sind. Die Kruste sollte knusprig und leicht wellig sein, nicht flach am Fleisch anliegen.",
+        "Die Schnitzel herausnehmen und kurz auf einem Rost oder Küchenpapier abtropfen lassen. Niemals abdecken — das hält die Kruste knusprig.",
+        "Sofort auf einem warmen Teller servieren, mit einem Stück frischer Zitrone und Petersilie garniert. Traditionell wird es mit Kartoffelsalat oder Petersilienkartoffeln serviert."
+      ]
+    },
+    "pariser-schnitzel": {
+      "title": "Pariser Schnitzel",
+      "description": "Ein eleganter österreichischer Klassiker — Kalbfleisch nur in Mehl und Ei gewendet (ohne Paniermehl), in Butter goldbraun gebraten. Schlichter, aber raffiniert.",
+      "ingredients": {
+        "veal-cutlets": "Kalbsschnitzel",
+        "flour": "Weizenmehl",
+        "eggs": "Eier",
+        "butter": "Butter",
+        "oil": "Pflanzenöl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "lemon": "Zitrone (zum Servieren)"
+      },
+      "steps": [
+        "Die Kalbsschnitzel zwischen Frischhaltefolie auf ca. 5 mm Dicke plattieren. Das Pariser Schnitzel ist etwas dicker als die Wiener Variante, da es keine Paniermehlkruste hat.",
+        "Beide Seiten mit Salz und frisch gemahlenem schwarzem Pfeffer würzen.",
+        "Zwei Stationen vorbereiten: Mehl im ersten Teller, gut verquirlte Eier (mit einer Prise Salz gewürzt) im zweiten. Kein Paniermehl — das macht den ‚Pariser' Stil aus.",
+        "Jedes Schnitzel in Mehl wenden und alles Überschüssige abklopfen. Dann in die verquirlten Eier tauchen und gleichmäßig beschichten.",
+        "Butter und einen Schuss Öl in einer großen Pfanne bei mittlerer Hitze erhitzen. Die Temperatur sollte moderat sein — Butter verbrennt bei hoher Hitze.",
+        "Die Schnitzel ca. 2-3 Minuten pro Seite braten, bis die Eihülle goldbraun ist. Die Beschichtung ist dünner und zarter als beim panierten Schnitzel.",
+        "Sofort auf warmen Tellern mit Zitronenspalten servieren. Passt hervorragend zu Reis, Petersilienkartoffeln oder einem frischen gemischten Salat."
+      ]
+    },
+    "cordon-bleu": {
+      "title": "Cordon Bleu",
+      "description": "Ein luxuriös gefülltes Schnitzel — zartes Schweinefleisch mit Schinken und schmelzendem Emmentaler gefüllt, paniert und goldbraun gebraten. Ein echter Wirtshaus-Klassiker.",
+      "ingredients": {
+        "pork-cutlets": "Dicke Schweineschnitzel (aus dem Rücken)",
+        "ham": "Kochschinken in Scheiben",
+        "emmental": "Emmentaler in Scheiben",
+        "flour": "Weizenmehl",
+        "eggs": "Eier",
+        "breadcrumbs": "Feines Paniermehl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "oil": "Pflanzenöl (zum Frittieren)",
+        "lemon": "Zitrone (zum Servieren)",
+        "toothpicks": "Zahnstocher"
+      },
+      "steps": [
+        "Jedes Schweineschnitzel als Tasche aufschneiden: horizontal durch die Mitte fast ganz durchschneiden, dann wie ein Buch aufklappen. Zwischen Frischhaltefolie sanft auf gleichmäßige Dicke (ca. 6 mm) plattieren. Keine Löcher machen.",
+        "Die Innenseite jedes Schnitzels mit Salz und Pfeffer würzen. Eine Scheibe Schinken und eine Scheibe Emmentaler auf eine Hälfte legen. Die andere Hälfte darüberklappen. Die Ränder fest zusammendrücken.",
+        "Die Ränder mit Zahnstochern sichern, damit die Füllung beim Braten nicht herausläuft. Der Verschluss muss dicht sein — jede Lücke bedeutet auslaufender Käse im heißen Öl.",
+        "Panierstraße aufbauen: Mehl, verquirlte Eier, feines Paniermehl. Jedes gefüllte Schnitzel vorsichtig nacheinander beschichten — erst Mehl, dann Ei, dann Paniermehl. Vorsichtig handhaben.",
+        "Für noch mehr Sicherheit und Knusprigkeit doppelt panieren: nach der ersten Schicht nochmals in Ei und Paniermehl tauchen.",
+        "Öl in einer tiefen Pfanne oder Topf auf 160-165°C erhitzen. Niedrigere Temperatur als beim normalen Schnitzel, weil das dickere Fleisch länger braucht und der Käse schmelzen muss.",
+        "Ca. 5-6 Minuten pro Seite frittieren bis tiefgoldbraun. Der Käse innen sollte vollständig geschmolzen und das Schweinefleisch durchgegart sein.",
+        "Auf einem Rost abtropfen lassen. Zahnstocher vor dem Servieren entfernen!",
+        "Sofort mit Zitronenspalten und Pommes frites oder Kartoffelsalat servieren. Beim Anschneiden sollte der geschmolzene Käse schön Fäden ziehen."
+      ]
+    },
+    "tafelspitz": {
+      "title": "Tafelspitz",
+      "description": "Kaiser Franz Josephs Lieblingsgericht — erstklassiges Siedefleisch, stundenlang in aromatischer Brühe gegart, serviert mit Apfelkren und Schnittlauchsauce. Der Gipfel der Wiener Küche.",
+      "ingredients": {
+        "beef-tafelspitz": "Tafelspitz vom Rind (Hüferschwanzel oder Tafelstück)",
+        "beef-bones": "Rinderknochen (Markknochen)",
+        "onions": "Zwiebeln (halbiert, ungeschält)",
+        "carrots": "Karotten",
+        "celery-root": "Sellerieknolle",
+        "leek": "Lauch",
+        "parsnip": "Pastinake",
+        "bay-leaves": "Lorbeerblätter",
+        "peppercorns": "Schwarze Pfefferkörner",
+        "salt": "Salz",
+        "chives": "Frischer Schnittlauch",
+        "horseradish": "Frischer Kren (Meerrettich)",
+        "apples": "Säuerliche Äpfel (für den Apfelkren)",
+        "sour-cream": "Sauerrahm"
+      },
+      "steps": [
+        "Die Rinderknochen in einen großen Topf legen, mit kaltem Wasser bedecken (ca. 4 Liter) und zum Kochen bringen. Den grauen Schaum sorgfältig abschöpfen — das ist entscheidend für eine klare, goldene Brühe.",
+        "Die Zwiebeln halbieren (Schale dran lassen für die Farbe) und die Schnittflächen in einer trockenen Pfanne dunkelbraun anrösten. Dieser traditionelle Trick gibt der Brühe eine schöne bernsteinfarbene Farbe und tiefen Geschmack.",
+        "Die gerösteten Zwiebeln, Lorbeerblätter und Pfefferkörner zur Brühe geben. 30 Minuten sanft simmern lassen, um eine Geschmacksbasis aufzubauen.",
+        "Das Tafelspitz-Stück in die sanft siedende Brühe geben. Wichtig: Das Wasser darf nie stark kochen — nur leise Bläschen. Starkes Kochen macht das Fleisch zäh und die Brühe trüb.",
+        "Nach 1 Stunde sanftem Simmern die Karotten, Sellerieknolle, Lauch und Pastinake hinzufügen. Dieses Wurzelwerk ist für den authentischen österreichischen Geschmack unverzichtbar.",
+        "Weitere 1,5-2 Stunden sanft köcheln lassen, bis das Fleisch butterweich aber noch in Form ist. Eine Gabel sollte leicht hineingleiten, aber das Fleisch sollte nicht zerfallen.",
+        "Während das Fleisch kocht, den Apfelkren zubereiten: Äpfel und frischen Kren fein reiben, mit einem Esslöffel Zitronensaft und einer Prise Zucker mischen. Der geriebene Apfel soll die Schärfe des Krens ausgleichen.",
+        "Die Schnittlauchsauce zubereiten: Sauerrahm mit fein geschnittenem Schnittlauch, einem Schuss Rindsbrühe, Salz und einem Spritzer Essig mischen.",
+        "Den fertigen Tafelspitz aus der Brühe nehmen, gegen die Faser in dicke Scheiben schneiden. Auf vorgewärmten Tellern anrichten.",
+        "Das aufgeschnittene Fleisch mit Apfelkren und Schnittlauchsauce servieren. Klare Brühe mit Wurzelgemüse in Schalen dazu reichen. Traditionell begleitet von Cremespinat und Rösti oder Salzkartoffeln."
+      ]
+    },
+    "zwiebelrostbraten": {
+      "title": "Zwiebelrostbraten",
+      "description": "Ein Wiener Beisl-Klassiker — saftig gebratenes Rindersteak, gekrönt mit einem Turm aus knusprigen Röstzwiebeln, serviert mit kräftiger Bratensauce und Braterdäpfeln.",
+      "ingredients": {
+        "beef-steaks": "Rindssteaks (Rostbraten, Rib-Eye oder Beiried)",
+        "onions": "Große Zwiebeln (für Röstzwiebeln)",
+        "flour": "Weizenmehl",
+        "butter": "Butter",
+        "oil": "Pflanzenöl",
+        "beef-stock": "Rinderfond",
+        "red-wine": "Rotwein (trocken)",
+        "mustard": "Dijon-Senf",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die Steaks 30 Minuten vor dem Braten aus dem Kühlschrank nehmen. Die Ränder leicht einschneiden, damit sie sich nicht wölben. Beide Seiten großzügig mit Salz und Pfeffer würzen.",
+        "Die Zwiebeln in dünne Ringe schneiden. Trennen und leicht mit Mehl bestäuben, Überschüssiges abschütteln. Die Mehlschicht erzeugt die unwiderstehliche Knusprigkeit.",
+        "Die bemehlten Zwiebelringe portionsweise bei 170°C in heißem Öl tiefgoldbraun und knusprig frittieren — ca. 3-4 Minuten. Auf Küchenpapier abtropfen und leicht salzen. Diese können etwas im Voraus zubereitet werden.",
+        "Dünn Senf auf beiden Seiten der Steaks verstreichen — der klassische Wiener Trick, der Tiefe verleiht, ohne als ‚Senfgeschmack' erkennbar zu sein.",
+        "Butter und Öl in einer schweren Pfanne bei starker Hitze erhitzen bis es raucht. Die Steaks 2-3 Minuten pro Seite für medium-rare anbraten. Nicht bewegen — eine tiefe dunkle Kruste ist nötig.",
+        "Steaks herausnehmen und auf einem warmen Teller ruhen lassen. In der gleichen Pfanne mit Rotwein ablöschen und alle Bratenstücke vom Boden lösen. Rinderfond dazugeben und auf die Hälfte einkochen.",
+        "Zum Schluss ein Stück kalte Butter in die Sauce einrühren — das gibt ihr eine glänzende, samtige Konsistenz.",
+        "Jedes Steak auf einen warmen Teller setzen, den Bratensaft darüber und rundherum gießen. Mit einem großzügigen Berg knuspriger Röstzwiebeln krönen.",
+        "Mit frischer Petersilie garnieren. Sofort mit Braterdäpfeln oder Semmelknödeln servieren."
+      ]
+    },
+    "schweinsbraten": {
+      "title": "Schweinsbraten",
+      "description": "Der ultimative österreichische Sonntagsbraten — langsam geschmortes Schweineschulter mit unglaublich knuspriger Kruste, serviert mit Semmelknödeln und Sauerkraut. Purer Genuss.",
+      "ingredients": {
+        "pork-shoulder": "Schweineschulter mit Schwarte (Schopfbraten)",
+        "onions": "Zwiebeln (geviertelt)",
+        "garlic": "Knoblauchzehen",
+        "carrots": "Karotten (grob geschnitten)",
+        "caraway": "Kümmel",
+        "salt": "Grobes Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "dark-beer": "Dunkles Bier",
+        "beef-stock": "Rinderfond",
+        "bay-leaves": "Lorbeerblätter"
+      },
+      "steps": [
+        "Die Schwarte des Schweinebratens mit einem sehr scharfen Messer engmaschig einschneiden (ca. 1 cm Abstand). Durch Schwarte und Fett schneiden, aber nicht ins Fleisch. Das ist für die perfekte Kruste unverzichtbar.",
+        "Grobes Salz großzügig in die eingeschnittene Schwarte reiben, in jeden Schnitt drücken. Knoblauch (gehackt), Kümmel, Pfeffer und mehr Salz mischen, dann diese Gewürzmischung auf der Fleischseite (nicht der Schwarte) einreiben.",
+        "Das Fleisch mit der Schwarte nach unten in einen kalten Bräter legen, mit den geviertelten Zwiebeln, Karotten und Lorbeerblättern darunter. Dunkles Bier und die Hälfte des Fonds angießen.",
+        "Bei 180°C ca. 1 Stunde mit der Schwarte nach unten braten. Dieses anfängliche Dampfgaren löst das Fett und gart die Schwarte von unten vor.",
+        "Den Braten wenden, sodass die Schwarte nach oben zeigt. Die Schwarte sollte nun weich und biegsam sein. Mit etwas Salzwasser bepinseln.",
+        "Die Ofentemperatur auf 220°C erhöhen. Weitere 30-45 Minuten rösten und die Krustenbildung regelmäßig kontrollieren. Wenn sie nicht gleichmäßig aufgeht, die flachen Stellen mit Bratensaft bestreichen.",
+        "Wenn die Kruste rundherum golden und knusprig ist, die Hitze auf 170°C reduzieren und weiterbraten, bis die Kerntemperatur 75°C erreicht, ca. weitere 30-45 Minuten.",
+        "Den Braten herausnehmen und 15 Minuten ruhen lassen (nicht abdecken — das weicht die Kruste auf).",
+        "Für die Bratensauce: Den Bratensaft abseihen, überschüssiges Fett abschöpfen, restlichen Fond dazugeben und auf dem Herd einkochen, bis die Sauce kräftig schmeckt. Mit Salz und Pfeffer abschmecken.",
+        "Den Braten in dicke Scheiben tranchieren, wobei jedes Stück einen Streifen goldener Kruste haben sollte. Mit Semmelknödeln und warmem Sauerkraut servieren, großzügig mit Bratensauce übergießen."
+      ]
+    },
+    "backhendl": {
+      "title": "Backhendl",
+      "description": "Österreichs Antwort auf Brathähnchen — Hühnerteile in Zitrone mariniert, in feinem Paniermehl gewendet und splittrig-knusprig ausgebacken. Ein Wiener Klassiker seit dem 18. Jahrhundert.",
+      "ingredients": {
+        "chicken-pieces": "Ganzes Huhn (in 8 Teile zerlegt)",
+        "flour": "Weizenmehl",
+        "eggs": "Eier",
+        "breadcrumbs": "Feines Paniermehl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "paprika": "Edelsüßes Paprikapulver",
+        "lemon": "Zitrone (zum Marinieren und Servieren)",
+        "oil": "Pflanzenöl (zum Frittieren)",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Das Huhn in 8 Teile zerlegen (2 Brüste halbiert, 2 Keulen, 2 Unterschenkel, 2 Flügel). Abspülen und gut trocknen — das ist entscheidend, damit die Panade haftet.",
+        "Die Hühnerteile in Zitronensaft, Salz, Pfeffer und edelsüßem Paprika mindestens 30 Minuten marinieren (bis zu 2 Stunden im Kühlschrank). Die Zitrone macht das Fleisch zart und gibt den typischen Wiener Geschmack.",
+        "Das Huhn aus der Marinade nehmen und gründlich trockentupfen. Jede Feuchtigkeit verhindert, dass die Panade richtig haftet.",
+        "Die klassische Wiener Panierstraße aufbauen: Mehl, verquirlte Eier und feines Paniermehl. Das Mehl mit einer Prise Salz und Paprika würzen.",
+        "Jedes Stück panieren: erst Mehl (abklopfen), dann Ei (abtropfen lassen), dann Paniermehl. Das Paniermehl locker auftragen — die gleiche Technik wie beim Wiener Schnitzel.",
+        "Öl in einem tiefen Topf oder Dutch Oven auf 160°C erhitzen. Die niedrigere Temperatur (im Vergleich zum Schnitzel) ist wichtig, weil die Hühnerteile dicker sind und länger zum Durchgaren brauchen.",
+        "Das Huhn portionsweise frittieren: dunkles Fleisch (Keulen, Unterschenkel) zuerst für 12-14 Minuten, dann weißes Fleisch (Brust, Flügel) für 10-12 Minuten. Gelegentlich wenden.",
+        "Das Huhn ist fertig, wenn die Kerntemperatur 75°C erreicht und die Kruste tiefgoldbraun ist. Auf einem Rost abtropfen lassen.",
+        "Auf einer warmen Platte mit Zitronenspalten und frischer Petersilie servieren. Traditionelle Beilage ist Wiener Erdäpfelsalat mit Kürbiskernöl."
+      ]
+    },
+    "gulasch": {
+      "title": "Wiener Gulasch",
+      "description": "Das Fundament der österreichischen Hausmannskost — zartes Rindfleisch, stundenlang in reicher Paprika-Zwiebel-Sauce geschmort. Das Geheimnis: gleich viel Zwiebeln wie Fleisch.",
+      "ingredients": {
+        "beef-chuck": "Rinderschulter (in 3-cm-Würfel geschnitten)",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "paprika-sweet": "Edelsüßes ungarisches Paprikapulver",
+        "tomato-paste": "Tomatenmark",
+        "garlic": "Knoblauchzehen",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "vinegar": "Rotweinessig",
+        "beef-stock": "Rinderfond",
+        "lard": "Schweineschmalz oder Pflanzenöl",
+        "salt": "Salz"
+      },
+      "steps": [
+        "Die goldene Regel des Wiener Gulasch: gleich viel Zwiebeln wie Fleisch nach Gewicht verwenden. Die Zwiebeln fein würfeln — sie werden sich in der Sauce auflösen und die dicke, samtige Konsistenz erzeugen.",
+        "Schmalz in einem schweren Dutch Oven erhitzen. Die gewürfelten Zwiebeln bei mittlerer bis niedriger Hitze 20-25 Minuten unter häufigem Rühren tiefgoldbraun rösten. Diesen Schritt nicht hetzen — gut karamellisierte Zwiebeln sind die Seele des Gulasch.",
+        "Vom Herd nehmen, das Paprikapulver hinzufügen und sofort umrühren. Paprika verbrennt leicht und wird bitter — das Hinzufügen abseits der Hitze schützt den Geschmack. Sofort einen Spritzer Essig dazugeben, um das Paprika aufzublühen und seine Farbe zu intensivieren.",
+        "Zurück auf die Hitze setzen, Tomatenmark, gehackten Knoblauch, Kümmel und Majoran hinzufügen. Eine Minute umrühren bis es duftet.",
+        "Die Rindfleischwürfel hinzufügen. Anders als bei den meisten Eintöpfen wird das Fleisch NICHT vorher angebraten — beim authentischen Wiener Gulasch kommt das Fleisch roh hinein und gart in der Zwiebel-Paprika-Sauce.",
+        "Rinderfond angießen, gerade genug um das Fleisch zu bedecken. Mit Salz würzen, zum sanften Simmern bringen, zudecken und 2-2,5 Stunden kochen. Gelegentlich umrühren.",
+        "Das Gulasch ist fertig, wenn das Rindfleisch butterweich ist und die Sauce dick, reichhaltig und fast cremig von den aufgelösten Zwiebeln. Wenn zu dünn, 15 Minuten offen einkochen.",
+        "In tiefen Schüsseln mit einem großzügigen Schwung Sauce servieren. Traditionelle Beilage ist ein Semmelknödel oder Nockerl. Ein Klecks Sauerrahm ist optional, aber willkommen."
+      ]
+    },
+    "saftgulasch": {
+      "title": "Saftgulasch",
+      "description": "Die extra-saucige Version des Wiener Gulasch — noch MEHR Zwiebeln als üblich, für eine intensiv reichhaltige, samtige Sauce. Der König der Gulaschvariationen.",
+      "ingredients": {
+        "beef-chuck": "Rinderschulter (in 3-cm-Würfel geschnitten)",
+        "onions": "Zwiebeln (fein gewürfelt — extra viel!)",
+        "paprika-sweet": "Edelsüßes ungarisches Paprikapulver (großzügig)",
+        "tomato-paste": "Tomatenmark",
+        "garlic": "Knoblauchzehen",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "vinegar": "Rotweinessig",
+        "beef-stock": "Rinderfond (weniger als beim normalen Gulasch)",
+        "lard": "Schweineschmalz oder Pflanzenöl",
+        "salt": "Salz",
+        "lemon-zest": "Zitronenschale"
+      },
+      "steps": [
+        "Saftgulasch bedeutet ‚Saft-Gulasch' — die Sauce ist der Star. Verwende 1:1 oder sogar mehr Zwiebeln als Fleisch. Extrem fein würfeln, damit sie völlig in der Sauce aufgehen.",
+        "Schmalz im Dutch Oven erhitzen. Die große Menge gewürfelter Zwiebeln bei mittlerer bis niedriger Hitze 25-30 Minuten garen, bis sie tief karamellisiert und fast brei-artig sind. Das Geheimnis des ‚Safts'.",
+        "Vom Herd nehmen, großzügig Paprikapulver hinzufügen und sofort umrühren. Essig dazugeben um das Paprika aufzublühen. Die Farbe sollte ein tiefes, leuchtendes Rot sein.",
+        "Tomatenmark, gehackten Knoblauch, Kümmel, Majoran und eine Prise Zitronenschale hinzufügen. Die Zitronenschale gibt eine subtile Frische, die die schwere Sauce hebt.",
+        "Die Rindfleischwürfel (roh, ohne Anbraten) hinzufügen und umrühren, um sie mit der Zwiebel-Paprika-Mischung zu beschichten.",
+        "Nur so viel Rinderfond angießen, dass das Fleisch knapp bedeckt ist — weniger Flüssigkeit als beim normalen Gulasch, weil die aufgelösten Zwiebeln reichlich Sauce erzeugen.",
+        "Sehr sanft simmern, zugedeckt, 2,5-3 Stunden. Gelegentlich umrühren. Das lange, langsame Garen lässt die Zwiebeln komplett auflösen zu einer dicken, fast seidigen Sauce.",
+        "Das fertige Saftgulasch sollte merklich mehr Sauce als Fleischstücke haben, und die Sauce sollte einen Löffel dick umhüllen. Mit Semmelknödel servieren, um jeden Tropfen aufzusaugen."
+      ]
+    },
+    "fiakergulasch": {
+      "title": "Fiakergulasch",
+      "description": "Benannt nach Wiens Fiakerkutschern — ein deftiges Gulasch serviert mit Spiegelei, Frankfurter Würstl, Semmelknödel und Essiggurkerl-Fächer. Die barocke Krönung aller Gulasch-Varianten.",
+      "ingredients": {
+        "beef-chuck": "Rinderschulter (in 3-cm-Würfel geschnitten)",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "paprika-sweet": "Edelsüßes ungarisches Paprikapulver",
+        "tomato-paste": "Tomatenmark",
+        "garlic": "Knoblauchzehen",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "vinegar": "Rotweinessig",
+        "beef-stock": "Rinderfond",
+        "lard": "Schweineschmalz oder Pflanzenöl",
+        "eggs": "Eier (zum Braten)",
+        "frankfurters": "Frankfurter Würstl",
+        "gherkins": "Essiggurkerl (als Garnierung)",
+        "semmelknoedel": "Semmelknödel"
+      },
+      "steps": [
+        "Ein klassisches Wiener Gulasch als Basis zubereiten: Die fein gewürfelten Zwiebeln im Schmalz bei mittlerer bis niedriger Hitze 20-25 Minuten tief karamellisieren.",
+        "Vom Herd nehmen, Paprikapulver und einen Spritzer Essig hinzufügen und umrühren. Tomatenmark, Knoblauch, Kümmel und Majoran dazugeben.",
+        "Die rohen Rindfleischwürfel dazugeben, mit Rinderfond bedecken. Mit Salz würzen, sanft simmern lassen, zugedeckt, 2-2,5 Stunden bis das Fleisch butterweich und die Sauce dick ist.",
+        "Etwa 15 Minuten vor dem Servieren die Frankfurter Würstl in siedendem (nicht kochendem!) Wasser erhitzen. Kochendes Wasser lässt die Haut platzen — immer unter 75°C bleiben.",
+        "Die Semmelknödel nach Rezept zubereiten, oder fertige in siedendem Wasser erhitzen.",
+        "Die Eier in Butter als Spiegeleier braten — die Dotter sollten flüssig sein, da sie sich in die Gulaschsauce mischen für extra Reichhaltigkeit.",
+        "Die Essiggurkerl fächern: Dünne Längsschnitte entlang jedes Gurkerls machen, ohne die Basis durchzuschneiden, dann auffächern. Das ist die klassische Wiener Garnierung.",
+        "Anrichten: Das Gulasch in einen tiefen Teller schöpfen. Einen Semmelknödel daneben setzen, das Frankfurter Würstl dazulegen.",
+        "Das Gulasch mit dem Spiegelei krönen. Den Gurkenfächer auf dem Teller anordnen.",
+        "Der Fiaker (Kutscher) hätte dies mit einer Hand gegessen, während er seine Pferdekutsche durch Wien lenkte — deftig, komplett und zutiefst befriedigend."
+      ]
+    },
+    "rindsgulasch": {
+      "title": "Rindsgulasch",
+      "description": "Eine deftigere Version des Wiener Gulasch mit Rindshaxe für extra Tiefe, plus einer Note gerösteter Paprikaschote für Farbe und Süße.",
+      "ingredients": {
+        "beef-shin": "Rindshaxe (in Stücke geschnitten)",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "paprika-sweet": "Edelsüßes ungarisches Paprikapulver",
+        "paprika-hot": "Scharfes Paprikapulver",
+        "tomato-paste": "Tomatenmark",
+        "garlic": "Knoblauchzehen",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "vinegar": "Rotweinessig",
+        "beef-stock": "Rinderfond",
+        "lard": "Schweineschmalz oder Pflanzenöl",
+        "salt": "Salz",
+        "bell-pepper": "Rote Paprikaschote"
+      },
+      "steps": [
+        "Zwiebeln fein würfeln (gleiches Gewicht wie das Fleisch). Die Paprikaschote über offener Flamme oder unter dem Grill verkohlen, dann schälen, entkernen und würfeln.",
+        "Schmalz im Dutch Oven erhitzen. Zwiebeln 20-25 Minuten bei mittlerer bis niedriger Hitze tiefgoldbraun rösten. Geduld hier erzeugt die reichhaltige, dicke Sauce.",
+        "Vom Herd nehmen, Edelsüß-Paprika und scharfes Paprikapulver hinzufügen, sofort umrühren. Essig dazugeben um die Gewürze aufzublühen.",
+        "Tomatenmark, gehackten Knoblauch, Kümmel, Majoran und die gewürfelte geröstete Paprikaschote hinzufügen.",
+        "Die Rindshaxe-Stücke (roh, ohne Anbraten) dazugeben. Das Bindegewebe und Mark der Haxe wird in die Sauce schmelzen und außergewöhnlichen Körper und Reichhaltigkeit erzeugen.",
+        "Rinderfond angießen bis das Fleisch bedeckt ist. Mit Salz würzen. Sanft simmern, zugedeckt, 2,5-3 Stunden. Rindshaxe braucht länger als Schulter, aber das Ergebnis ist geschmackvoller.",
+        "Das Gulasch ist fertig, wenn das Fleisch vollkommen zart ist und die Sauce eine fast gelatinöse Reichhaltigkeit vom aufgelösten Kollagen hat.",
+        "In tiefen Schüsseln mit Semmelknödel oder frischem Brot servieren. Die Kombination von süßem und scharfem Paprika gibt dieser Version ein komplexeres Geschmacksprofil."
+      ]
+    },
+    "paprikahendl": {
+      "title": "Paprikahendl",
+      "description": "Österreichs geliebtes Paprikahuhn — zartes Huhn in cremiger Paprikasauce mit einem großzügigen Klecks Sauerrahm, serviert auf fluffigen Nockerln.",
+      "ingredients": {
+        "chicken-pieces": "Ganzes Huhn (in 8 Teile zerlegt)",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "paprika-sweet": "Edelsüßes ungarisches Paprikapulver",
+        "tomato-paste": "Tomatenmark",
+        "sour-cream": "Sauerrahm",
+        "flour": "Weizenmehl",
+        "garlic": "Knoblauchzehen",
+        "bell-pepper": "Grüne Paprikaschote",
+        "chicken-stock": "Hühnerfond",
+        "butter": "Butter",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer"
+      },
+      "steps": [
+        "Die Hühnerteile großzügig mit Salz und Pfeffer würzen. In einem schweren Dutch Oven in Butter von allen Seiten goldbraun anbraten — ca. 4 Minuten pro Seite. Herausnehmen und beiseite stellen.",
+        "Im selben Topf die fein gewürfelten Zwiebeln 8-10 Minuten weich und glasig dünsten. Gehackten Knoblauch und gewürfelte Paprikaschote dazugeben, 2 weitere Minuten garen.",
+        "Vom Herd nehmen, Paprikapulver hinzufügen und sofort umrühren — abseits der Hitze um Verbrennen zu vermeiden. Tomatenmark zugeben und gut verrühren.",
+        "Zurück auf die Hitze setzen, die angebratenen Hühnerteile wieder in den Topf legen. Hühnerfond angießen. Zum sanften Simmern bringen, zudecken und 35-40 Minuten garen bis das Huhn durch ist.",
+        "Die Hühnerteile herausnehmen. Sauerrahm mit einem Esslöffel Mehl verrühren (das verhindert Gerinnen), dann in die Sauce rühren. 5 Minuten köcheln bis eingedickt.",
+        "Das Huhn zurück in die Sauce geben, sanft 5 weitere Minuten garen, damit die Aromen sich verbinden. Die Sauce sollte cremig, leuchtend rot-orange sein.",
+        "Abschmecken — Paprikahendl sollte kräftig gewürzt sein mit einem ausgeprägten Paprikageschmack, ausbalanciert durch die Creme.",
+        "Auf Nockerln, Spätzle oder breiten Eiernudeln servieren. Mit einem letzten Klecks Sauerrahm und einer Prise Paprika garnieren."
+      ]
+    },
+    "beuschel": {
+      "title": "Beuschel",
+      "description": "Ein klassisches Wiener Innereien-Gericht — ein feines, säuerliches Ragout aus Kalbslunge und -herz in cremiger Sauce mit Kapern und Zitrone. Alt-Wiener Küche vom Feinsten.",
+      "ingredients": {
+        "veal-lung": "Kalbslunge",
+        "veal-heart": "Kalbsherz",
+        "onions": "Zwiebel",
+        "carrots": "Karotte",
+        "celery": "Selleriestange",
+        "bay-leaves": "Lorbeerblätter",
+        "peppercorns": "Pfefferkörner",
+        "butter": "Butter",
+        "flour": "Weizenmehl",
+        "vinegar": "Weißweinessig",
+        "capers": "Kapern",
+        "anchovy-paste": "Sardellenpaste",
+        "lemon-juice": "Zitronensaft",
+        "sour-cream": "Sauerrahm",
+        "mustard": "Dijon-Senf",
+        "sugar": "Zucker",
+        "salt": "Salz"
+      },
+      "steps": [
+        "Die ganze Kalbslunge und das Herz in einen großen Topf mit kaltem Wasser geben. Zwiebel (halbiert), Karotte, Sellerie, Lorbeerblätter und Pfefferkörner hinzufügen. Langsam zum Simmern bringen.",
+        "Sanft ca. 1,5 Stunden simmern, bis Lunge und Herz weich sind. Niemals stark kochen lassen — die Lunge wird bei hohen Temperaturen gummiartig.",
+        "Die gegarten Innereien herausnehmen und etwas abkühlen lassen. Die Brühe abseihen und 500 ml aufbewahren. Lunge und Herz in dünne Streifen schneiden (ca. 5 mm breit).",
+        "Die Einmach (Mehlschwitze) machen: Butter in einem Topf schmelzen, Mehl einrühren und 2-3 Minuten hellblond anschwitzen. Das ist eine klassische Wiener Einbrenn — die Basis der Sauce.",
+        "Nach und nach die reservierte Brühe einquirlen bis glatt. Essig, Kapern, Sardellenpaste, Zitronensaft und Senf hinzufügen. Die Kombination aus säuerlichen, salzigen und herzhaften Aromen macht Beuschel einzigartig.",
+        "Die Sauce 10 Minuten simmern. Sauerrahm und eine Prise Zucker hinzufügen, um die Säure auszubalancieren. Salz abschmecken.",
+        "Die geschnittenen Lunge- und Herzstreifen in die Sauce geben. Zusammen 10-15 Minuten simmern, damit das Fleisch die Aromen aufnimmt.",
+        "Die Sauce sollte cremig, säuerlich und komplex sein. Abschmecken und die Balance von Essig, Zitrone und Zucker anpassen — eine angenehme Säure sollte spürbar sein.",
+        "Mit Semmelknödeln servieren, die für das Aufsaugen der reichhaltigen Sauce unerlässlich sind. Mit frischer Petersilie garnieren."
+      ]
+    },
+    "geselchtes-mit-kraut": {
+      "title": "Geselchtes mit Kraut",
+      "description": "Geselchtes mit Sauerkraut — ein rustikaler österreichischer Bauernhof-Klassiker. Das rauchige, salzige Fleisch mit dem säuerlich-süßen Sauerkraut ist pures alpines Wohlfühlessen.",
+      "ingredients": {
+        "smoked-pork": "Geselchtes (gepökeltes und geräuchertes Schweinefleisch)",
+        "sauerkraut": "Sauerkraut",
+        "onions": "Zwiebel (gewürfelt)",
+        "lard": "Schweineschmalz oder Gänsefett",
+        "caraway": "Kümmel",
+        "juniper-berries": "Wacholderbeeren",
+        "bay-leaf": "Lorbeerblatt",
+        "potatoes": "Erdäpfel (zum Kochen)",
+        "water": "Wasser oder helles Bier",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer"
+      },
+      "steps": [
+        "Das Geselchte in einen Topf legen, mit kaltem Wasser bedecken und zum sanften Simmern bringen. Ca. 60-90 Minuten (je nach Dicke) garen, bis das Fleisch zart aber noch formstabil ist.",
+        "In der Zwischenzeit das Sauerkraut zubereiten: Schmalz in einem separaten Topf erhitzen. Die gewürfelte Zwiebel glasig anschwitzen. Das Sauerkraut (abgetropft, aber nicht ausgepresst), Kümmel, Wacholderbeeren und Lorbeerblatt dazugeben.",
+        "Wasser oder helles Bier zum Sauerkraut gießen, bis es gerade bedeckt ist. Sanft 45-60 Minuten köcheln und gelegentlich umrühren. Das Kraut sollte zart sein und die Flüssigkeit größtenteils aufgesogen.",
+        "Erdäpfel schälen und in Salzwasser weich kochen. In manchen Regionen werden stattdessen Semmelknödel dazu serviert.",
+        "Das Geselchte aus der Kochflüssigkeit nehmen und in dicke Scheiben schneiden (ca. 1 cm). Das Fleisch sollte innen feucht und rauchig-rosa sein.",
+        "Das Sauerkraut abschmecken — es sollte eine ausgewogene Säure haben. Wenn zu sauer, eine Prise Zucker dazugeben. Wenn zu mild, einen Spritzer Essig.",
+        "Das aufgeschnittene Geselchte auf dem Sauerkraut auf warmen Tellern anrichten, mit Salzkartoffeln daneben. Optional einen Klecks scharfen Senf dazu."
+      ]
+    },
+    "blunzngroestl": {
+      "title": "Blunzngröstl",
+      "description": "Ein deftiges österreichisches Pfannengericht aus Blutwurst, knusprigen Kartoffeln und Zwiebeln, gekrönt mit einem Spiegelei. Bauernkost, zum geliebten Wirtshaus-Klassiker erhoben.",
+      "ingredients": {
+        "blood-sausage": "Blutwurst (Blunzn)",
+        "potatoes": "Festkochende Erdäpfel (vorgekocht)",
+        "onions": "Zwiebeln (in Ringe geschnitten)",
+        "lard": "Schweineschmalz oder Butterschmalz",
+        "eggs": "Eier (zum Draufbraten)",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Die Erdäpfel in der Schale weich kochen (nicht zerfallen) — idealerweise am Vortag. Kalte Kartoffeln braten besser und werden knuspriger. Schälen und ca. 5 mm dick schneiden.",
+        "Die Blutwurst aus der Haut lösen und in ca. 1 cm dicke Scheiben schneiden. Vorsichtig handhaben — Blutwurst ist weich und fällt leicht auseinander.",
+        "Schmalz großzügig in einer großen Gusseisenpfanne oder schweren Pfanne erhitzen. Die Zwiebelringe dazugeben und ca. 8 Minuten goldbraun braten.",
+        "Die Erdäpfelscheiben in einer Schicht dazugeben. 3-4 Minuten ohne Rühren braten, damit eine goldene Kruste entsteht, dann wenden. Mit Kümmel und Majoran würzen.",
+        "Wenn die Erdäpfel golden und knusprig sind, vorsichtig die Blutwurstscheiben unterheben. 3-4 Minuten garen bis die Wurst durchgewärmt ist. Vorsichtig handhaben, damit die Scheiben möglichst ganz bleiben.",
+        "Das Gröstl zur Seite schieben, die Eier in den freien Platz aufschlagen. Als Spiegeleier braten bis das Eiweiß gestockt, aber das Eigelb noch flüssig ist. Mit Salz und Pfeffer würzen.",
+        "Das Gröstl direkt aus der Pfanne oder angerichtet mit dem Spiegelei obendrauf servieren, großzügig mit Schnittlauch bestreut. Das flüssige Eigelb mischt sich beim Essen hinein."
+      ]
+    },
+    "tiroler-groestl": {
+      "title": "Tiroler Gröstl",
+      "description": "Tirols berühmter Erdäpfel-Fleisch-Gröstl — gestriges Siedefleisch und Kartoffeln werden zu einem knusprigen, goldenen Pfannengericht mit Spiegelei verwandelt.",
+      "ingredients": {
+        "boiled-beef": "Übriggebliebenes Siedefleisch (oder Bratenreste)",
+        "potatoes": "Festkochende Erdäpfel (vorgekocht)",
+        "onions": "Zwiebeln (in Ringe geschnitten)",
+        "butter": "Butter (oder Butterschmalz)",
+        "eggs": "Eier (zum Draufbraten)",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "chives": "Frischer Schnittlauch",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die vorgekochten Erdäpfel (idealerweise vom Vortag) in ca. 5 mm dicke Scheiben schneiden. Das übrige Fleisch in dünne Streifen oder kleine Würfel schneiden.",
+        "Butter großzügig in einer großen Gusseisenpfanne erhitzen. Die Zwiebelringe dazugeben und tiefgoldbraun braten, ca. 8-10 Minuten. In Tirol sagt man, die Zwiebeln sollen ‚in der Pfanne singen'.",
+        "Die Erdäpfelscheiben in einer Schicht dazugeben. Dem Drang zu rühren widerstehen — eine tiefgoldene Kruste am Boden entwickeln lassen, ca. 4-5 Minuten. Mit Kümmel und Majoran würzen.",
+        "Die Erdäpfel wenden, dann die Fleischstreifen dazugeben. Weitere 4-5 Minuten braten, bis das Fleisch durchgewärmt und die Erdäpfel beidseitig knusprig sind.",
+        "Mulden in der Mischung formen und die Eier hineinschlagen. Kurz abdecken (1-2 Minuten), damit das Eiweiß stockt und das Eigelb flüssig bleibt.",
+        "Alles mit Salz, Pfeffer und einem großzügigen Schauer gehacktem Schnittlauch und Petersilie würzen.",
+        "Direkt in der Pfanne am Tisch servieren — das ist Bergkost, zum gemeinsamen Genießen gedacht. In Tirol ist ein grüner Salat mit Kürbiskernöl-Dressing die traditionelle Beilage."
+      ]
+    },
+    "jaegerpfanne": {
+      "title": "Jägerpfanne",
+      "description": "Die Jägerpfanne — zarte Schweinemedaillons mit wilden Schwammerln, Paprikaschoten und einer reichen Rahmsauce. Ein rustikales österreichisches Gericht aus der Alpenwald-Tradition.",
+      "ingredients": {
+        "pork-medallions": "Schweinefilet (in Medaillons geschnitten)",
+        "mushrooms": "Gemischte Schwammerl (Champignons, Eierschwammerl)",
+        "onions": "Zwiebeln (gewürfelt)",
+        "bell-pepper": "Paprikaschoten (rot und grün, in Streifen)",
+        "cream": "Schlagobers",
+        "beef-stock": "Rinderfond",
+        "butter": "Butter",
+        "flour": "Weizenmehl",
+        "paprika-sweet": "Edelsüßes Paprikapulver",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Das Schweinefilet in 2 cm dicke Medaillons schneiden. Großzügig mit Salz, Pfeffer und Paprikapulver würzen. Die Schwammerl putzen und in Scheiben schneiden; die Paprikaschoten in Streifen schneiden.",
+        "Butter in einer großen schweren Pfanne erhitzen. Die Schweinemedaillons bei großer Hitze 2 Minuten pro Seite goldbraun anbraten. Herausnehmen und beiseite stellen — sie werden in der Sauce fertig gegart.",
+        "In derselben Pfanne die gewürfelten Zwiebeln glasig dünsten, ca. 3 Minuten. Die Schwammerl dazugeben und garen, bis sie ihre Flüssigkeit abgeben und anfangen zu bräunen, ca. 5-6 Minuten.",
+        "Die Paprikastreifen dazugeben und 2-3 Minuten garen, bis sie etwas weich aber noch farbenfroh sind.",
+        "Das Gemüse mit Mehl bestäuben, 1 Minute umrühren, dann den Rinderfond angießen. Die braunen Bratenstücke vom Pfannenboden lösen — dieser Deglazierschritt fängt maximalen Geschmack ein.",
+        "Das Schlagobers dazugeben und zum sanften Simmern bringen. Die Sauce sollte zu einer samtigen, umhüllenden Konsistenz eindicken. Mit Salz, Pfeffer und Paprikapulver abschmecken.",
+        "Die Schweinemedaillons zurück in die Pfanne geben und in der Sauce einbetten. Sanft 5-7 Minuten simmern, um das Schweinefleisch fertig zu garen und alle Aromen zu verbinden.",
+        "Reichlich mit frischer Petersilie garnieren. Mit Semmelknödel, Nockerln oder frischem, knusprigem Brot servieren, um die reiche Jägersauce aufzutunken."
+      ]
+    },
+    "knoedel-mit-ei": {
+      "title": "Knödel mit Ei",
+      "description": "Das ultimative österreichische Wohlfühlessen — übriggebliebene Semmelknödel in Scheiben geschnitten und mit fluffigem Rührei und frischem Schnittlauch angebraten. Einfach, sättigend und überall in Österreich geliebt.",
+      "ingredients": {
+        "bread-dumplings": "Semmelknödel (vom Vortag)",
+        "eggs": "Eier",
+        "butter": "Butter",
+        "milk": "Milch",
+        "chives": "Frischer Schnittlauch",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer"
+      },
+      "steps": [
+        "Verwende Semmelknödel vom Vortag — sie halten beim Schneiden und Braten viel besser die Form. Wenn frische verwendet werden, erst komplett auskühlen lassen. In ca. 1 cm dicke Scheiben schneiden.",
+        "Butter großzügig in einer großen beschichteten Pfanne bei mittlerer Hitze erhitzen. Wenn sie schäumt, die Knödelscheiben in einer Schicht einlegen. Pro Seite 3-4 Minuten goldbraun und leicht knusprig braten.",
+        "Während die Knödel braten, die Eier kräftig mit einem Schuss Milch, Salz und Pfeffer verquirlen. Die Milch macht die Eierspeis extra fluffig.",
+        "Die gebratenen Knödelscheiben zur Seite schieben oder kurz herausnehmen. Die Eiermischung hineingießen und ca. 30 Sekunden am Boden stocken lassen, dann sanft rühren.",
+        "Die Eierspeis mit den Knödelscheiben vorsichtig vermengen. Die Eier sollten weich und cremig sein — nicht trocken.",
+        "Vom Herd nehmen, solange die Eier noch leicht flüssig sind — die Restwärme gart sie perfekt fertig.",
+        "Sofort auf warmen Tellern servieren, großzügig mit frisch geschnittenem Schnittlauch bestreut. Ein grüner Salat mit Kürbiskernöl-Dressing ist die klassische Beilage."
+      ]
+    },
+    "hascheehoernchen": {
+      "title": "Hascheehörnchen",
+      "description": "Österreichs geliebte Hörnchenpasta — Hörnchen mit würzigem Faschiertem, süß karamellisierten Zwiebeln und einer ordentlichen Portion Paprika. Ein Alltagsklassiker in jeder österreichischen Küche.",
+      "ingredients": {
+        "elbow-pasta": "Hörnchen (Hörnchennudeln)",
+        "ground-beef": "Faschiertes (Rind oder gemischt)",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "garlic": "Knoblauchzehen",
+        "paprika-sweet": "Edelsüßes Paprikapulver",
+        "tomato-paste": "Tomatenmark",
+        "marjoram": "Getrockneter Majoran",
+        "oil": "Pflanzenöl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die Hörnchen in einem großen Topf mit Salzwasser al dente kochen — ca. 1 Minute weniger als auf der Packung. Abseihen und etwas Kochwasser aufheben.",
+        "Öl in einer großen Pfanne erhitzen. Die fein gewürfelten Zwiebeln bei mittlerer Hitze 8-10 Minuten tiefgoldbraun und süß rösten. Diese Karamellisierung ist entscheidend.",
+        "Das Faschierte dazugeben und mit einem Kochlöffel fein zerbröseln. Braten bis es gebräunt ist und alle Flüssigkeit verdampft ist, ca. 8 Minuten. Mit Salz und Pfeffer würzen.",
+        "Knoblauch dazugeben und 1 Minute anbraten. Tomatenmark einrühren und eine weitere Minute rösten.",
+        "Vom Herd nehmen, Paprikapulver und Majoran dazugeben und sofort umrühren. Paprika abseits der Hitze zugeben verhindert Verbrennen — die gleiche Technik wie beim Gulasch.",
+        "Die abgegossenen Hörnchen in die Pfanne geben und bei mittlerer Hitze 2-3 Minuten mit allem vermengen. Bei Bedarf etwas Kochwasser dazugießen.",
+        "Abschmecken — Hascheehörnchen soll kräftig gewürzt sein mit deutlichem Paprikageschmack. Mit frischer Petersilie garniert servieren."
+      ]
+    },
+    "reisfleisch": {
+      "title": "Reisfleisch",
+      "description": "Österreichisches Reisfleisch — ein deftiges, paprikarotes Eintopfgericht, bei dem zartes Schweinefleisch mit Reis in würziger Brühe köchelt. Wie ein Risotto trifft auf Gulasch — purer österreichischer Genuss.",
+      "ingredients": {
+        "pork-shoulder": "Schweineschulter (in 2-cm-Würfel geschnitten)",
+        "rice": "Langkornreis",
+        "onions": "Zwiebeln (fein gewürfelt)",
+        "garlic": "Knoblauchzehen",
+        "bell-pepper": "Rote Paprikaschote (gewürfelt)",
+        "tomato-paste": "Tomatenmark",
+        "paprika-sweet": "Edelsüßes Paprikapulver",
+        "beef-stock": "Rinderfond (warm)",
+        "oil": "Pflanzenöl",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Das Schweinefleisch in kleine 2-cm-Würfel schneiden. Großzügig mit Salz, Pfeffer und 1 EL Paprikapulver würzen. Öl in einem schweren Dutch Oven bei großer Hitze erhitzen.",
+        "Die Fleischwürfel portionsweise rundum scharf anbraten — nicht zu viele auf einmal, sonst wird es gedämpft. Herausnehmen und beiseite stellen.",
+        "Im selben Topf die Zwiebeln 5-6 Minuten weich und goldbraun anschwitzen. Knoblauch und gewürfelte Paprikaschote dazugeben, 2 weitere Minuten garen.",
+        "Vom Herd nehmen, restliches Paprikapulver und Tomatenmark einrühren. Zurück auf mittlere Hitze und 1 Minute rösten bis es duftet.",
+        "Das Fleisch zurück in den Topf geben. Den ungewaschenen Reis dazugeben und umrühren, damit alles von der Paprikamischung umhüllt ist.",
+        "Den warmen Rinderfond angießen, einmal umrühren, zum Simmern bringen. Fest zudecken und bei niedriger Hitze 20-25 Minuten kochen, bis der Reis gar ist.",
+        "Mit einer Gabel auflockern, abschmecken. Die Konsistenz sollte feucht und cremig sein, nicht trocken. Mit frischer Petersilie garniert servieren."
+      ]
+    },
+    "faschierte-laibchen": {
+      "title": "Faschierte Laibchen",
+      "description": "Österreichische Fleischlaibchen — eine Mischung aus Rind und Schwein mit eingeweichter Semmel, zu dicken Laibchen geformt und goldbraun in der Pfanne gebraten. Jede österreichische Oma hat das beste Rezept.",
+      "ingredients": {
+        "ground-beef-pork": "Gemischtes Faschiertes (Rind und Schwein)",
+        "bread-roll": "Semmel vom Vortag",
+        "eggs": "Ei",
+        "onions": "Zwiebel (fein gewürfelt)",
+        "garlic": "Knoblauchzehe",
+        "mustard": "Österreichischer Senf (mittelscharf)",
+        "marjoram": "Getrockneter Majoran",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "oil": "Pflanzenöl",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die altbackene Semmel in warmem Wasser oder Milch 10 Minuten einweichen bis sie komplett weich ist. Alle überschüssige Flüssigkeit gründlich ausdrücken — die eingeweichte Semmel ist das Geheimnis saftiger Laibchen.",
+        "Die Zwiebel fein würfeln und in etwas Öl glasig und leicht goldbraun anschwitzen, ca. 5 Minuten. Komplett auskühlen lassen.",
+        "In einer großen Schüssel das Faschierte, die ausgedrückte Semmel (zerkrümelt), abgekühlte Zwiebeln, Ei, gehackten Knoblauch, Senf, Majoran, Salz und Pfeffer mit den Händen gut vermengen.",
+        "Die Masse 15-20 Minuten im Kühlschrank rasten lassen. Kaltes Fleisch lässt sich besser formen und hält besser zusammen.",
+        "Mit nassen Händen 8 dicke, flache Laibchen formen (ca. 2 cm dick). In die Mitte eine leichte Vertiefung drücken — das verhindert, dass sie sich beim Braten aufwölben.",
+        "Öl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Pro Seite 4-5 Minuten braten, bis eine tiefgoldbraune Kruste entsteht.",
+        "Die Hitze auf mittelniedrig reduzieren und weitere 3-4 Minuten fertigbraten, damit sie durchgegart sind.",
+        "Sofort mit cremigem Erdäpfelpüree, Preiselbeeren und einem grünen Salat servieren. In Österreich bekommt man immer alle drei zusammen."
+      ]
+    },
+    "grenadiermarsch": {
+      "title": "Grenadiermarsch",
+      "description": "Benannt nach den österreichischen Grenadieren — ein sparsames, sättigendes Gericht aus Nudeln und Erdäpfeln, gebraten mit karamellisierten Zwiebeln und rauchigem Speck. Soldatenkost, die zivile Herzen eroberte.",
+      "ingredients": {
+        "potatoes": "Festkochende Erdäpfel (geschält, gewürfelt)",
+        "short-pasta": "Fleckerl oder kurze Nudeln",
+        "onions": "Zwiebeln (in Ringe geschnitten)",
+        "smoked-bacon": "Geräucherter Speck (gewürfelt)",
+        "butter": "Butter",
+        "caraway": "Kümmel",
+        "marjoram": "Getrockneter Majoran",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Die Erdäpfel in Salzwasser bissfest kochen, ca. 15 Minuten. Separat die Nudeln al dente kochen. Beides abseihen und ausdampfen lassen.",
+        "Den gewürfelten Speck in einer großen schweren Pfanne bei mittlerer Hitze knusprig auslassen, ca. 5-6 Minuten. Die knusprigen Speckstücke herausnehmen und aufheben.",
+        "Butter zum Speckfett geben. Die Zwiebelringe darin tiefgoldbraun und karamellisiert braten — 8-10 Minuten. Die süßen Zwiebeln sind unverzichtbar.",
+        "Die gekochten Erdäpfelwürfel in einer Schicht dazugeben. Eine goldene Kruste am Boden entwickeln lassen, 3-4 Minuten ohne Umrühren. Mit Kümmel und Majoran würzen.",
+        "Die gekochten Nudeln dazugeben, alles zusammen schwenken. Weiterbraten und gelegentlich gegen den Pfannenboden drücken für mehr knusprige Stellen.",
+        "Die knusprigen Speckstücke wieder dazugeben. Mit Salz und Pfeffer abschmecken.",
+        "Heiß servieren, mit frischer Petersilie garniert. Ein einfacher grüner Salat mit Essig und Öl ist die klassische Beilage."
+      ]
+    },
+    "eiernockerl": {
+      "title": "Eiernockerl",
+      "description": "Ein geliebter Wirtshaus-Klassiker — weiche, buttrige Nockerln mit goldenem Rührei vermengt und mit frischem Schnittlauch bedeckt. Einfach, schnell und unwiderstehlich gut.",
+      "ingredients": {
+        "flour": "Weizenmehl",
+        "eggs": "Eier",
+        "milk": "Milch",
+        "butter": "Butter",
+        "salt": "Salz",
+        "nutmeg": "Frisch geriebene Muskatnuss",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Nockerlteig zubereiten: Mehl, 1 Ei, Milch, eine Prise Salz und Muskatnuss zu einem glatten, dickflüssigen Teig verrühren. 10 Minuten rasten lassen.",
+        "Einen großen Topf mit Salzwasser zum Kochen bringen. Mit einem Nockerlhobel oder einem kleinen Brett und Messer kleine Teigstücke direkt ins kochende Wasser schneiden.",
+        "Die Nockerln sinken zuerst ab und steigen zur Oberfläche, wenn sie fertig sind — ca. 3-4 Minuten. Mit einer Schaumkelle herausnehmen und gut abtropfen.",
+        "Großzügig Butter in einer großen Pfanne erhitzen bis sie schäumt. Die abgetropften Nockerln darin schwenken und einige Ecken leicht golden und knusprig werden lassen.",
+        "Die restlichen Eier mit einem Schuss Milch, Salz und Pfeffer verquirlen. Über die gebutterten Nockerln gießen.",
+        "Die Eier sanft unter die Nockerln heben, die Eierspeis weich und cremig halten. Vom Herd nehmen, solange sie noch leicht feucht ist.",
+        "Auf warmen Tellern aufhäufen und großzügig mit frisch geschnittenem Schnittlauch bestreuen. Mit einem einfachen grünen Salat servieren."
+      ]
+    },
+    "krautfleckerl": {
+      "title": "Krautfleckerl",
+      "description": "Quadratische Nudeln mit langsam karamellisiertem, süß-herzhaftem Kraut — eines von Österreichs ikonischen vegetarischen Wohlfühlgerichten. Die Magie liegt in der Geduld: langsames Garen verwandelt bescheidenes Kraut in etwas Außergewöhnliches.",
+      "ingredients": {
+        "fleckerl-pasta": "Fleckerl (quadratische Nudeln)",
+        "white-cabbage": "Weißkraut (fein geschnitten)",
+        "onions": "Zwiebel (gewürfelt)",
+        "sugar": "Zucker (zum Karamellisieren)",
+        "lard": "Schweineschmalz oder Butter",
+        "caraway": "Kümmel",
+        "vinegar": "Weißweinessig",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer"
+      },
+      "steps": [
+        "Das Kraut entstrünken, die harten äußeren Blätter entfernen und sehr fein hobeln — je dünner die Streifen, desto besser die Karamellisierung.",
+        "Das Schmalz in einer großen, weiten Pfanne erhitzen. Den Zucker dazugeben und goldbraun schmelzen lassen — das ist die Karamellisierungsbasis für den typischen süß-herzhaften Geschmack.",
+        "Das feingeschnittene Kraut zum karamellisierten Zucker geben — es scheint eine riesige Menge, schrumpft aber dramatisch. Gut durchrühren, mit Salz, Pfeffer und Kümmel würzen.",
+        "Langsam bei mittlerer bis niedriger Hitze 30-40 Minuten garen, gelegentlich umrühren. Das Kraut wird nach und nach weich, schrumpft, wird goldbraun und entwickelt tiefe, süße Aromen. Geduld ist alles.",
+        "In der Zwischenzeit die Fleckerl in Salzwasser al dente kochen. Abseihen und etwas Kochwasser aufheben.",
+        "Wenn das Kraut tief karamellisiert und golden ist, einen Spritzer Essig dazugeben, um die Aromen aufzufrischen.",
+        "Die gekochten Nudeln mit dem karamellisierten Kraut vermengen. Bei Bedarf etwas Kochwasser dazugeben. Heiß servieren — Krautfleckerl schmeckt am nächsten Tag sogar noch besser."
+      ]
+    },
+    "schinkenfleckerl": {
+      "title": "Schinkenfleckerl",
+      "description": "Österreichs ultimativer Wohlfühl-Auflauf — quadratische Nudeln mit Schinken in cremiger Eier-Rahm-Sauerrahm-Masse überbacken bis die Oberfläche goldbraun und aufgegangen ist. Ein Gericht, das überall Heimat schafft.",
+      "ingredients": {
+        "fleckerl-pasta": "Fleckerl (quadratische Nudeln)",
+        "ham": "Kochschinken (in kleine Würfel geschnitten)",
+        "eggs": "Eier (getrennt)",
+        "sour-cream": "Sauerrahm",
+        "cream": "Schlagobers",
+        "butter": "Butter",
+        "cheese": "Geriebener Emmentaler oder Gruyère",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "nutmeg": "Frisch geriebene Muskatnuss",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Die Fleckerl in Salzwasser knapp al dente kochen — sie garen im Ofen weiter. Gut abseihen und mit einem Stück Butter vermischen.",
+        "Backofen auf 180°C vorheizen. Eine große Auflaufform großzügig mit Butter einfetten.",
+        "Die Eier trennen. Die Dotter mit Sauerrahm, Schlagobers, Salz, Pfeffer und einer großzügigen Prise Muskatnuss verrühren. Diese Masse macht die Schinkenfleckerl luxuriös cremig.",
+        "Das Eiklar zu steifem Schnee schlagen. Das ist das österreichische Geheimnis — der untergehobene Schnee lässt den Auflauf wunderbar aufgehen und gibt ihm Soufflé-artige Leichtigkeit.",
+        "Den Eischnee vorsichtig unter die Dotter-Rahm-Mischung heben. Nicht zu viel rühren — so viel Luft wie möglich erhalten.",
+        "Die Nudeln, den gewürfelten Schinken und die Eier-Rahm-Masse in einer großen Schüssel sanft vermengen. In die gebutterte Auflaufform füllen.",
+        "Den geriebenen Käse gleichmäßig darüber verteilen. Kleine Butterstückchen darauf setzen.",
+        "25-30 Minuten backen, bis die Oberfläche goldbraun und aufgegangen ist. 5 Minuten rasten lassen vor dem Anschneiden. Mit einem grünen Salat servieren."
+      ]
+    },
+    "semmelknoedel": {
+      "title": "Semmelknödel",
+      "description": "Das Fundament der österreichischen Küche — weiche, fluffige Knödel aus altbackenen Semmeln, in Milch und Eiern eingeweicht. Der perfekte Begleiter zu Braten, Gulasch und Schwammerlsaucen.",
+      "ingredients": {
+        "bread-rolls": "Altbackene Semmeln (gewürfelt)",
+        "milk": "Warme Milch",
+        "eggs": "Eier",
+        "onions": "Zwiebel (fein gewürfelt)",
+        "butter": "Butter",
+        "flour": "Mehl",
+        "parsley": "Frische Petersilie (gehackt)",
+        "salt": "Salz",
+        "nutmeg": "Frisch geriebene Muskatnuss"
+      },
+      "steps": [
+        "Die altbackenen Semmeln in kleine Würfel schneiden (ca. 1 cm). Das Brot muss altbacken sein — frisches Brot ergibt matschige, schwere Knödel. Die Würfel in eine große Schüssel geben.",
+        "Die Milch sanft erwärmen (nicht heiß, nur warm). Über die Brotwürfel gießen und vorsichtig umrühren. 15-20 Minuten einweichen lassen. Das Brot sollte feucht sein, aber nicht im Wasser schwimmen.",
+        "In der Zwischenzeit die Zwiebel fein würfeln und in Butter glasig und leicht gold anschwitzen, ca. 5 Minuten. Etwas abkühlen lassen.",
+        "Die Eier verquirlen und zum eingeweichten Brot geben, zusammen mit den abgekühlten Zwiebeln, gehackter Petersilie, Mehl, Salz und einer Prise Muskatnuss. Alles behutsam mit den Händen vermengen — nicht zu viel kneten, sonst werden die Knödel fest.",
+        "Die Masse 10 Minuten rasten lassen. Sie sollte zusammenhalten, wenn man eine Handvoll drückt. Zu nass: etwas Mehl nachgeben; zu trocken: einen Schuss Milch dazu.",
+        "Mit nassen Händen tennisballgroße Knödel formen. Nicht zu fest drücken — lockeres Formen ergibt leichtere Knödel.",
+        "Einen großen Topf Salzwasser zum sanften Sieden bringen (kein sprudelndes Kochen — das würde sie auseinanderreißen). Die Knödel vorsichtig hineinlegen. 15-20 Minuten offen kochen. Sie schwimmen oben, wenn sie fertig sind.",
+        "Mit einer Schaumkelle herausnehmen und sofort servieren. Klassische Begleiter: Schweinsbraten mit Sauce, Schwammerlrahmsauce oder einfach mit brauner Butter und knusprigen Semmelbröseln."
+      ]
+    },
+    "serviettenknoedel": {
+      "title": "Serviettenknödel",
+      "description": "Ein Knödelteig in einem Tuch gegart und in dicke Scheiben geschnitten. Elegant, einfacher als einzelne Knödel und perfekt zum Aufsaugen reichhaltiger Saucen.",
+      "ingredients": {
+        "bread-rolls": "Altbackene Semmeln (gewürfelt)",
+        "milk": "Warme Milch",
+        "eggs": "Eier (getrennt)",
+        "onions": "Zwiebel (fein gewürfelt)",
+        "butter": "Butter",
+        "flour": "Mehl",
+        "parsley": "Frische Petersilie (gehackt)",
+        "salt": "Salz",
+        "nutmeg": "Frisch geriebene Muskatnuss"
+      },
+      "steps": [
+        "Altbackene Semmeln in kleine Würfel schneiden. Die Milch erwärmen und über das Brot gießen. 15-20 Minuten einweichen, bis das Brot weich aber nicht matschig ist.",
+        "Die fein gewürfelte Zwiebel in Butter glasig anschwitzen. Leicht abkühlen lassen.",
+        "Die Eier trennen. Die Dotter mit Salz und Muskatnuss verrühren und unter die eingeweichte Brotmasse mischen, zusammen mit den abgekühlten Zwiebeln, Petersilie und Mehl.",
+        "Das Eiklar zu steifem Schnee schlagen. Vorsichtig unter die Brotmasse heben — das macht den Serviettenknödel leicht und luftig im Vergleich zum normalen Semmelknödel.",
+        "Ein großes, sauberes Baumwolltuch (traditionell eine Serviette — daher der Name) auslegen. Anfeuchten und mit Mehl bestäuben. Die Masse zu einer langen Rolle formen (ca. 7 cm Durchmesser) und auf das Tuch legen.",
+        "Das Tuch fest um die Knödelrolle wickeln und beide Enden mit Küchengarn fest zubinden, wie eine große Wurst. Sie wird beim Kochen aufgehen.",
+        "In einen großen Topf mit sanft siedendem Salzwasser einlegen. 25-30 Minuten garen, einmal in der Mitte wenden. Das Wasser soll nur leise sieden, nie sprudelnd kochen.",
+        "Herausnehmen, auswickeln und 5 Minuten rasten lassen. In 2 cm dicke Scheiben schneiden mit einem scharfen Messer oder — auf traditionelle Art — mit einem Faden. Mit Schwammerlsauce, Bratensaft oder Rahmspinat servieren."
+      ]
+    },
+    "kartoffelknoedel": {
+      "title": "Kartoffelknödel",
+      "description": "Seidig-glatte Erdäpfelknödel — gekochte Erdäpfel zu einem zarten Teig verarbeitet und zu perfekten Kugeln geformt. Leichter als sie aussehen — die traumhafte Beilage zu Braten und Sauce.",
+      "ingredients": {
+        "potatoes": "Mehlige Erdäpfel",
+        "potato-starch": "Kartoffelstärke",
+        "eggs": "Eigelb",
+        "flour": "Mehl",
+        "butter": "Butter (zum Beträufeln)",
+        "breadcrumbs": "Feine Semmelbrösel (zum Beträufeln)",
+        "salt": "Salz",
+        "nutmeg": "Frisch geriebene Muskatnuss"
+      },
+      "steps": [
+        "Die Erdäpfel ungeschält und im Ganzen in Salzwasser kochen, bis sie ganz weich sind, ca. 25-30 Minuten. Wichtig: Mehlige Erdäpfel verwenden — speckige ergeben nicht die richtige Konsistenz.",
+        "Abseihen und noch heiß schälen (ein Küchentuch zum Halten verwenden). Sofort dampfend heiß durch eine Kartoffelpresse oder ein feines Passiersieb drücken. Niemals einen Mixer verwenden — das ergibt Kleister.",
+        "Die passierten Erdäpfel auf einer sauberen Oberfläche ausbreiten und einige Minuten ausdampfen lassen. Das entzieht überschüssige Feuchtigkeit und verhindert gummiartige Knödel.",
+        "Eigelb, Kartoffelstärke, Mehl, Salz und Muskatnuss zu den abgekühlten Erdäpfeln geben. Behutsam zu einem glatten Teig verkneten — so wenig wie möglich bearbeiten. Der Teig sollte weich, aber nicht klebrig sein.",
+        "Den Teig in Portionen teilen und mit bemehlten Händen zu tennisballgroßen Kugeln rollen. Wer eine Überraschung in der Mitte möchte, kann einen Crouton-Würfel hineindrücken.",
+        "Einen großen Topf Salzwasser zum sanften Sieden bringen. Die Knödel vorsichtig hineingleiten lassen. Sie sinken zuerst ab, dann steigen sie nach ca. 15-18 Minuten an die Oberfläche — dann sind sie fertig.",
+        "Während die Knödel kochen, Butter in einem kleinen Topf schmelzen und Semmelbrösel darin goldbraun und duftend rösten.",
+        "Die Knödel mit einer Schaumkelle herausnehmen, auf einem warmen Teller anrichten und großzügig mit der gerösteten Bröselbutter beträufeln. Zum Schweinsbraten, Rinderbraten oder einer Schwammerlsauce servieren."
+      ]
+    },
+    "speckknoedel": {
+      "title": "Speckknödel",
+      "description": "Tiroler Speckknödel — der klassische Semmelknödel, angereichert mit rauchigem Speck und serviert in einer klaren, goldenen Rindsuppe. Bergküche vom Feinsten — deftig, wärmend und zutiefst befriedigend.",
+      "ingredients": {
+        "bread-rolls": "Altbackene Semmeln (gewürfelt)",
+        "smoked-bacon": "Geräucherter Tiroler Speck (gewürfelt)",
+        "milk": "Warme Milch",
+        "eggs": "Eier",
+        "onions": "Zwiebel (fein gewürfelt)",
+        "butter": "Butter",
+        "flour": "Mehl",
+        "chives": "Frischer Schnittlauch",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "beef-stock": "Klare Rindsuppe (zum Servieren)"
+      },
+      "steps": [
+        "Die Semmeln in kleine Würfel schneiden und in eine große Schüssel geben. Die Milch erwärmen und darüber gießen. 15-20 Minuten einweichen lassen.",
+        "Den Speck in kleine Würfel schneiden (ca. 5 mm). In einer Pfanne bei mittlerer Hitze auslassen, bis die Ränder leicht knusprig sind und das Fett ausgetreten ist, ca. 5 Minuten. Nicht zu stark bräunen — sie sollen weich bleiben, nicht knusprig.",
+        "In derselben Pfanne mit dem Speckfett die gewürfelte Zwiebel glasig anschwitzen, ca. 3 Minuten. Die Speck-Zwiebel-Mischung etwas abkühlen lassen.",
+        "Die Eier verquirlen und zum eingeweichten Brot geben, zusammen mit der Speck-Zwiebel-Mischung, Mehl, geschnittenem Schnittlauch, Salz und Pfeffer. Alles behutsam mit den Händen vermengen. Nicht überarbeiten.",
+        "Die Masse 10 Minuten rasten lassen. Zum Test einen kleinen Knödel formen — fällt er auseinander, etwas Mehl nachgeben. Ist er zu fest, einen Schuss Milch dazu.",
+        "Mit nassen Händen tennisballgroße Knödel formen. Die Speckstücke sollen überall sichtbar sein — das ist die Schönheit der Speckknödel.",
+        "In sanft siedendes Salzwasser einlegen. 18-20 Minuten garen. Sie schwimmen nahe der Oberfläche, wenn sie fertig sind.",
+        "In der Zwischenzeit die klare Rindsuppe erhitzen. Die Speckknödel in tiefen Tellern servieren, die heiße Suppe darüber schöpfen und mit frisch geschnittenem Schnittlauch garnieren. In Tirol wird das als Hauptgericht serviert."
+      ]
+    },
+    "frittatensuppe": {
+      "title": "Frittatensuppe",
+      "description": "Österreichs beliebteste Suppe — dünne, herzhafte Kräuterpalatschinken, in nudelartige Streifen geschnitten und in klarer Rindsuppe serviert. Der ultimative österreichische Vorspeiseklassiker.",
+      "ingredients": {
+        "eggs": "Eier",
+        "flour": "Mehl",
+        "milk": "Milch",
+        "butter": "Butter (zum Braten)",
+        "salt": "Salz",
+        "chives": "Frischer Schnittlauch",
+        "beef-stock": "Klare Rindsuppe"
+      },
+      "steps": [
+        "Den Palatschinkenteig zubereiten: Eier, Mehl, Milch und eine Prise Salz glatt verrühren — keine Klümpchen. Der Teig sollte dünn sein, wie flüssiger Rahm. 10 Minuten rasten lassen.",
+        "Eine dünne Schicht Butter in einer beschichteten Pfanne bei mittlerer Hitze erhitzen. Gerade so viel Teig eingießen, dass der Boden dünn bedeckt ist. Die Pfanne schwenken, um gleichmäßig zu verteilen.",
+        "Backen, bis die Unterseite goldbraun ist, ca. 1-2 Minuten. Wenden und die andere Seite noch eine Minute backen. Die Fritatten sollen dünn und leicht goldbraun sein.",
+        "Die fertigen Palatschinken auf einem Teller stapeln und etwas abkühlen lassen. Aus dem Teig sollten 4-5 dünne Palatschinken werden.",
+        "Jede Palatschinke fest zu einer Zigarre aufrollen, dann quer in dünne Streifen schneiden (ca. 5 mm breit). Das sind die Fritatten — die 'Nudeln' der Suppe.",
+        "Die klare Rindsuppe aufkochen. Die Qualität der Suppe ist alles — die beste hausgemachte oder gekaufte klare Rindsuppe verwenden.",
+        "Die Frittatenstreifen auf warme Teller verteilen, die heiße Suppe darübergießen und großzügig mit frisch geschnittenem Schnittlauch garnieren. Sofort servieren."
+      ]
+    },
+    "leberknoedelsuppe": {
+      "title": "Leberknödelsuppe",
+      "description": "Kräftige Leberknödel in duftender Rindsuppe — ein rustikaler österreichischer Klassiker, der aus bescheidener Leber etwas zutiefst Herzhaftes und Tröstendes macht. Ein echtes Wirtshaus-Gericht.",
+      "ingredients": {
+        "beef-liver": "Rindsleber (fein faschiert)",
+        "bread-rolls": "Altbackene Semmeln",
+        "eggs": "Ei",
+        "onions": "Zwiebel (fein gewürfelt)",
+        "butter": "Butter",
+        "marjoram": "Getrockneter Majoran",
+        "parsley": "Frische Petersilie (gehackt)",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "beef-stock": "Klare Rindsuppe"
+      },
+      "steps": [
+        "Die Sehnen von der Leber entfernen und durch den Fleischwolf oder im Mixer fein faschieren. Es sollte eine glatte Paste sein — Stücke machen die Knödel unangenehm.",
+        "Die altbackenen Semmeln in kleine Würfel schneiden. Sie müssen wirklich altbacken sein — das ist entscheidend für die richtige Konsistenz und Bindung.",
+        "Die Zwiebel fein würfeln und in Butter glasig und leicht gold anschwitzen, ca. 5 Minuten. Abkühlen lassen.",
+        "In einer großen Schüssel die faschierte Leber, Brotwürfel, abgekühlte Zwiebeln, Ei, Majoran, gehackte Petersilie, Salz und Pfeffer vermengen. Alles gut mit den Händen durchkneten.",
+        "Die Masse 15-20 Minuten rasten lassen, damit das Brot die Feuchtigkeit aufnimmt. Sie sollte fest genug sein, um die Form zu halten, aber noch feucht.",
+        "Mit nassen Händen tennisballgroße Knödel formen. Nicht zu fest drücken.",
+        "Einen großen Topf Salzwasser zum sanften Sieden bringen. Die Knödel vorsichtig einlegen und 15-18 Minuten garen. Sie werden fest und schwimmen oben, wenn sie fertig sind.",
+        "Die klare Rindsuppe erhitzen. Einen oder zwei Leberknödel in jeden Teller setzen, die heiße Suppe darüber schöpfen und mit Schnittlauch und Petersilie garnieren."
+      ]
+    },
+    "griessnockerlsuppe": {
+      "title": "Grießnockerlsuppe",
+      "description": "Flaumige Grießnockerl in goldener Rindsuppe — unglaublich leicht und buttrig. Diese elegante Suppe ist die Essenz der österreichischen Suppenküche, einfach und doch zutiefst befriedigend.",
+      "ingredients": {
+        "butter": "Weiche Butter (Zimmertemperatur)",
+        "semolina": "Feiner Grieß",
+        "eggs": "Ei",
+        "salt": "Salz",
+        "nutmeg": "Frisch geriebene Muskatnuss",
+        "chives": "Frischer Schnittlauch",
+        "beef-stock": "Klare Rindsuppe"
+      },
+      "steps": [
+        "Die weiche Butter schaumig schlagen — das ist das Geheimnis luftiger Nockerl. Die Butter muss Zimmertemperatur haben, nicht geschmolzen sein.",
+        "Das Ei gründlich einrühren, bis es vollständig eingearbeitet ist. Salz und eine Prise Muskatnuss dazugeben.",
+        "Den Grieß nach und nach einrühren, bis ein glatter, dicker Teig entsteht. Nicht zu lange rühren — nur vorsichtig unterheben.",
+        "Zudecken und mindestens 30 Minuten (bis zu 2 Stunden) im Kühlschrank rasten lassen. Diese Rastzeit ist unverzichtbar — der Grieß quillt auf und die Nockerl halten ihre Form.",
+        "Die Rindsuppe zum sanften Sieden bringen. Mit zwei in heißer Suppe getauchten Teelöffeln kleine ovale Nockerl formen und direkt in die siedende Suppe gleiten lassen.",
+        "Sanft 10-12 Minuten garen, mit leicht geöffnetem Deckel. Sie werden aufgehen und fast doppelt so groß werden. Die Suppe nie kochen lassen — das würde sie zerfallen lassen.",
+        "Sofort in der Suppe servieren, mit frisch geschnittenem Schnittlauch garniert. Die Nockerl sollen innen flaumig und außen seidig sein."
+      ]
+    },
+    "erdaepfelsuppe": {
+      "title": "Erdäpfelsuppe",
+      "description": "Cremige österreichische Erdäpfelsuppe — bescheiden, wärmend und wunderbar tröstend. Samtig glatt mit einem Hauch Majoran und einem Schuss Kürbiskernöl. Das Lieblingsrezept jeder Großmutter.",
+      "ingredients": {
+        "potatoes": "Mehlige Erdäpfel (geschält, gewürfelt)",
+        "onions": "Zwiebel (gewürfelt)",
+        "garlic": "Knoblauchzehen",
+        "carrots": "Karotte (gewürfelt)",
+        "celery": "Selleriestange (gewürfelt)",
+        "butter": "Butter",
+        "cream": "Schlagobers",
+        "beef-stock": "Rindsuppe",
+        "marjoram": "Getrockneter Majoran",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Butter in einem großen Topf bei mittlerer Hitze schmelzen. Die gewürfelte Zwiebel glasig anschwitzen, ca. 5 Minuten. Knoblauch dazugeben und noch eine Minute mitrösten.",
+        "Die gewürfelten Erdäpfel, Karotte und Sellerie dazugeben. Umrühren und 2-3 Minuten mitdünsten, damit alles von der Butter überzogen wird.",
+        "Mit der Rindsuppe aufgießen und Majoran dazugeben. Aufkochen lassen, dann auf kleiner Flamme 20-25 Minuten köcheln, bis alles Gemüse ganz weich ist.",
+        "Mit dem Stabmixer glatt pürieren. Für ein besonders seidiges Ergebnis durch ein feines Sieb passieren. Das Schlagobers einrühren.",
+        "Großzügig mit Salz, Pfeffer und eventuell etwas mehr Majoran abschmecken. Die Suppe sollte samtig und cremig sein — bei Bedarf mehr Suppe nachgießen.",
+        "Für den authentischen österreichischen Touch Croutons machen: altbackenes Brot würfeln und in Butter rundum goldbraun und knusprig braten.",
+        "In warmen Tellern servieren, mit Croutons, einem Schuss steirischem Kürbiskernöl und reichlich frischem Schnittlauch."
+      ]
+    },
+    "kuerbiscremesuppe": {
+      "title": "Kürbiscremesuppe",
+      "description": "Leuchtend orange Kürbiscremesuppe — das steirische Herbstgericht schlechthin, verfeinert mit einem Rahm-Strudel und einem großzügigen Schuss dunkelgrünem Kürbiskernöl. Samtweich, wärmend und unverkennbar österreichisch.",
+      "ingredients": {
+        "hokkaido-pumpkin": "Hokkaidokürbis (entkernt, gewürfelt)",
+        "onions": "Zwiebel (gewürfelt)",
+        "garlic": "Knoblauchzehen",
+        "ginger": "Frischer Ingwer (geschält)",
+        "butter": "Butter",
+        "cream": "Schlagobers",
+        "vegetable-stock": "Gemüsebrühe",
+        "pumpkin-seed-oil": "Steirisches Kürbiskernöl",
+        "pumpkin-seeds": "Geröstete Kürbiskerne",
+        "salt": "Salz",
+        "pepper": "Weißer Pfeffer",
+        "nutmeg": "Frisch geriebene Muskatnuss"
+      },
+      "steps": [
+        "Beim Hokkaidokürbis kann die Schale dranbleiben — sie wird weich und lässt sich wunderbar mitpürieren. Kerne entfernen, in 2 cm Würfel schneiden. Bei anderen Kürbissorten zuerst schälen.",
+        "Butter in einem großen Topf schmelzen. Die gewürfelte Zwiebel glasig anschwitzen. Knoblauch und geriebenen Ingwer dazugeben und eine Minute mitdünsten, bis es duftet.",
+        "Die Kürbiswürfel dazugeben, in der Butter wenden und 3-4 Minuten mitrösten. Das bringt mehr Geschmack als einfaches Kochen.",
+        "Mit der Gemüsebrühe aufgießen. Aufkochen, dann auf kleiner Flamme 20-25 Minuten köcheln, bis der Kürbis ganz weich und zerfällt.",
+        "Mit dem Stabmixer seidig glatt pürieren. Das Schlagobers einrühren und mit Salz, weißem Pfeffer und Muskatnuss abschmecken. Die Suppe sollte leuchtend orange und samtweich sein.",
+        "Die Kürbiskerne in einer trockenen Pfanne rösten, bis sie anfangen zu knacken und golden werden, ca. 3-4 Minuten. Genau aufpassen — sie verbrennen schnell.",
+        "In warmen Tellern mit einem Rahm-Strudel, einem großzügigen Schuss steirischem Kürbiskernöl (das dunkelgrüne — da gibt es keine Alternative) und gerösteten Kürbiskernen servieren."
+      ]
+    },
+    "germknoedel": {
+      "title": "Germknödel",
+      "description": "Ein himmlischer gedämpfter Germteig-Knödel gefüllt mit dunklem Powidl, ertränkt in zerlassener Butter, Mohn und Staubzucker — der König der österreichischen süßen Knödel.",
+      "ingredients": {
+        "flour": "Glattes Mehl",
+        "milk": "Vollmilch (lauwarm)",
+        "butter": "Butter (zerlassen)",
+        "fresh-yeast": "Frische Germ",
+        "egg-yolks": "Eidotter",
+        "sugar": "Zucker",
+        "salt": "Salz",
+        "plum-jam": "Powidl (Zwetschkenmus)",
+        "poppy-seeds": "Gemahlener Mohn",
+        "powdered-sugar": "Staubzucker",
+        "vanilla-sugar": "Vanillezucker"
+      },
+      "steps": [
+        "Die Milch auf Körpertemperatur erwärmen — sie soll sich am Handgelenk neutral anfühlen. Die frische Germ in die Milch bröseln mit einer Prise Zucker und 10 Minuten gehen lassen. Das ist der Test: wenn es nicht schäumt, ist die Germ tot.",
+        "Das Mehl in eine große Schüssel sieben, eine Mulde machen. Das Germgemisch, die zerlassene Butter, Eidotter, Zucker, Vanillezucker und eine Prise Salz hineingeben. Gut 10 Minuten kneten, bis der Teig seidig glatt, elastisch ist und sich sauber von der Schüssel löst.",
+        "Mit einem feuchten Tuch abdecken und an einem warmen Ort ca. 1 Stunde gehen lassen, bis er sich verdoppelt hat. Der Teig soll aufgegangen und prall sein.",
+        "Den Teig zusammenschlagen und in 4 gleiche Teile teilen (oder 8 für kleinere Knödel). Jedes Stück flach drücken, einen großzügigen Esslöffel Powidl in die Mitte geben und die Ränder sorgfältig zusammendrücken. Mit bemehlten Händen zu glatten Kugeln rollen.",
+        "Die gefüllten Knödel auf einer bemehlten Fläche nochmals 15-20 Minuten zugedeckt rasten lassen, bis sie leicht aufgehen.",
+        "Über siedendem Wasser ca. 15-18 Minuten dämpfen (größere bis zu 20 Minuten). Den Deckel NICHT öffnen während des Dämpfens — der plötzliche Temperaturabfall lässt sie zusammenfallen. Sie sollen glänzend, aufgegangen und beim sanften Drücken zurückfedern.",
+        "Sofort servieren: jeden Germknödel in einem See aus heißer zerlassener Butter ertränken, großzügig mit gemahlenem Mohn und Staubzucker bestreuen. Am Tisch aufschneiden, damit die dunkle Powidlfüllung sichtbar wird."
+      ]
+    },
+    "mohnnudeln": {
+      "title": "Mohnnudeln",
+      "description": "Weiche Kartoffelnudeln — fingerförmige Schupfnudeln — in zerlassener Butter mit gemahlenem Mohn und Staubzucker gewälzt. Ein beliebtes österreichisches süßes Hauptgericht.",
+      "ingredients": {
+        "potatoes": "Mehlige Erdäpfel",
+        "flour": "Glattes Mehl",
+        "egg": "Ei",
+        "butter": "Butter",
+        "poppy-seeds": "Gemahlener Mohn",
+        "powdered-sugar": "Staubzucker",
+        "salt": "Salz",
+        "potato-starch": "Erdäpfelstärke"
+      },
+      "steps": [
+        "Die Erdäpfel in der Schale weich kochen, ca. 25-30 Minuten. Abseihen und noch heiß schälen — mit einem Küchentuch halten. Sofort durch eine Erdäpfelpresse drücken. Der Trick ist, sie heiß zu verarbeiten für den glattesten Teig.",
+        "Die gepressten Erdäpfel etwas abkühlen lassen, dann Mehl, Erdäpfelstärke, Ei und eine Prise Salz dazugeben. Rasch zu einem glatten Teig verkneten — nicht zu lange bearbeiten, sonst werden die Nudeln zäh und gummiartig.",
+        "Teigportionen auf einer leicht bemehlten Fläche zu langen Rollen von ca. 2cm Dicke formen. In fingerlange Stücke (ca. 5-6cm) schneiden und jedes einzeln sanft rollen, die Enden leicht verjüngen für die klassische Torpedoform.",
+        "Einen großen Topf leicht gesalzenes Wasser zum sanften Sieden bringen (nicht sprudelnd kochen!). Die Nudeln portionsweise kochen — sie sind fertig, wenn sie an die Oberfläche steigen, ca. 3-4 Minuten. Mit einem Schaumlöffel herausnehmen.",
+        "Inzwischen die Butter in einer großen Pfanne bei mittlerer Hitze schmelzen. In einer separaten Schüssel den gemahlenen Mohn mit Staubzucker mischen.",
+        "Die gekochten Nudeln vorsichtig in der zerlassenen Butter schwenken, bis sie gut überzogen und leicht golden sind. Auf einen Teller geben und großzügig in der Mohn-Zucker-Mischung wälzen. Mit extra Staubzucker bestäuben und warm servieren."
+      ]
+    },
+    "topfenknoedel": {
+      "title": "Topfenknödel",
+      "description": "Leichte, flaumige Topfenknödel in goldenen Butterbrösel gehüllt, mit Staubzucker bestäubt und mit fruchtiger Beerensauce serviert.",
+      "ingredients": {
+        "quark": "Topfen (gut abgetropft)",
+        "butter": "Butter",
+        "egg": "Eier",
+        "semolina": "Feiner Grieß",
+        "breadcrumbs": "Semmelbrösel (fein)",
+        "sugar": "Zucker",
+        "vanilla-sugar": "Vanillezucker",
+        "lemon-zest": "Zitronenschale",
+        "salt": "Salz",
+        "powdered-sugar": "Staubzucker",
+        "berry-compote": "Beerenkompott"
+      },
+      "steps": [
+        "Der Topfen muss sehr gut abgetropft sein — ist er zu nass, fallen die Knödel auseinander. Durch ein Sieb drücken oder in ein sauberes Tuch einwickeln und die überschüssige Flüssigkeit ausdrücken. Dieser Schritt ist entscheidend.",
+        "40g weiche Butter mit Zucker, Vanillezucker und Zitronenschale schaumig rühren. Die Eier einzeln einrühren. Den gut abgetropften Topfen einrühren, dann vorsichtig den Grieß unterrühren. Mit einer winzigen Prise Salz würzen.",
+        "Den Teig mindestens 30 Minuten im Kühlschrank rasten lassen — der Grieß muss die Feuchtigkeit aufnehmen. Der Teig soll fest genug zum Formen sein, aber noch weich.",
+        "Mit nassen Händen den Teig zu runden Knödeln in Tennisballgröße formen. Nicht zu fest zusammendrücken — sie sollen locker bleiben.",
+        "In leicht gesalzenem Wasser simmern (nicht kochen!) lassen, ca. 12-15 Minuten. Sie steigen an die Oberfläche wenn sie fast fertig sind. Einen testen — die Mitte soll flaumig sein, nicht dicht.",
+        "Während die Knödel kochen, die restliche Butter in einer Pfanne schmelzen und die Semmelbrösel goldbraun und aromatisch rösten. Die gekochten Knödel in den Butterbrösel wälzen, mit Staubzucker bestäuben und mit warmem Beerenkompott servieren."
+      ]
+    },
+    "palatschinken": {
+      "title": "Palatschinken",
+      "description": "Hauchdünne österreichische Pfannkuchen gefüllt mit Marillenmarmelade und mit Staubzucker bestreut — die Essenz der Wiener Mehlspeisentradition.",
+      "ingredients": {
+        "flour": "Glattes Mehl",
+        "milk": "Vollmilch",
+        "eggs": "Eier",
+        "butter": "Butter (zerlassen, + extra für die Pfanne)",
+        "sugar": "Zucker",
+        "salt": "Salz",
+        "vanilla-sugar": "Vanillezucker",
+        "apricot-jam": "Marillenmarmelade",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Die Eier mit Zucker, Vanillezucker und Salz glatt rühren. Nach und nach die Milch einrühren, dann das Mehl einsieben und dabei rühren, um Klumpen zu vermeiden. Die zerlassene Butter zum Schluss einrühren. Der Teig soll dünn sein — wie Schlagobers. 20 Minuten rasten lassen.",
+        "Eine flache Crêpe-Pfanne oder beschichtete Pfanne bei mittlerer bis hoher Hitze erhitzen. Mit einer ganz dünnen Schicht Butter bepinseln — gerade genug, dass nichts klebt. Die Pfanne muss heiß sein, aber nicht rauchen.",
+        "Eine dünne Schicht Teig in die Pfanne gießen und sofort schwenken, um den Boden gleichmäßig zu bedecken. Backen, bis die Unterseite golden ist (ca. 45-60 Sekunden), dann mit einem Pfannenwender oder einem mutigen Schwung wenden. Die andere Seite ca. 30 Sekunden backen.",
+        "Jede Palatschinke noch warm großzügig mit Marillenmarmelade bestreichen und dann straff aufrollen. Im niedrig temperierten Backofen warm halten, während die restlichen gebacken werden.",
+        "2-3 gerollte Palatschinken pro Teller anrichten, großzügig mit Staubzucker bestäuben und sofort servieren. Für den Restaurant-Touch den Zucker kurz unter dem Grill karamellisieren."
+      ]
+    },
+    "kaiserschmarrn": {
+      "title": "Kaiserschmarrn",
+      "description": "Des Kaisers zerrissener, flaumiger karamellisierter Pfannkuchen — goldene Stücke mit Staubzucker bestäubt und mit Zwetschkenröster serviert. Österreichs berühmtestes Dessert.",
+      "ingredients": {
+        "flour": "Glattes Mehl",
+        "milk": "Vollmilch",
+        "eggs": "Eier (getrennt)",
+        "butter": "Butter",
+        "sugar": "Zucker",
+        "raisins": "Rosinen",
+        "rum": "Rum (zum Einweichen der Rosinen)",
+        "vanilla-sugar": "Vanillezucker",
+        "salt": "Salz",
+        "powdered-sugar": "Staubzucker",
+        "plum-compote": "Zwetschkenröster"
+      },
+      "steps": [
+        "Die Rosinen mindestens 30 Minuten in Rum einweichen (über Nacht ist noch besser). Das verwandelt sie von traurigem Dörrobst in kleine Geschmacksbomben.",
+        "Die Eier trennen. Die Dotter mit Zucker, Vanillezucker und einer Prise Salz dick und cremig rühren. Die Milch einrühren, dann das Mehl unterheben bis gerade eben verbunden — ein paar Klumpen sind in Ordnung, nicht zu viel rühren.",
+        "Das Eiweiß mit einer Prise Salz zu steifem Schnee schlagen. Das ist das Geheimnis für flaumigen Kaiserschmarrn — er muss wirklich steif sein. Vorsichtig in drei Portionen unter den Teig heben und dabei so viel Luft wie möglich erhalten.",
+        "Großzügig Butter in einer großen, ofenfesten Pfanne bei mittlerer Hitze schmelzen. Den Teig hineingießen, die rum-getränkten Rosinen darüber verteilen und braten, bis der Boden golden ist, ca. 3-4 Minuten.",
+        "Die Pfanne in den auf 200°C vorgeheizten Backofen stellen und ca. 8-10 Minuten backen, bis er oben aufgegangen und golden ist. Die Mitte soll gerade fest sein, nicht trocken.",
+        "Mit zwei Gabeln den Pfannkuchen direkt in der Pfanne in grobe, unregelmäßige Stücke zerreißen. Zurück auf den Herd stellen, noch ein Stück Butter dazugeben und die Stücke bei hoher Hitze kurz karamellisieren. Sehr großzügig mit Staubzucker bestäuben und direkt aus der Pfanne mit warmem Zwetschkenröster servieren."
+      ]
+    },
+    "sachertorte": {
+      "title": "Sachertorte",
+      "description": "Wiens legendäre Schokoladentorte — ein dichter, saftiger Schokoladenbiskuit mit Marillenmarmelade unter einer spiegelglatten dunklen Schokoladeglasur, serviert mit ungesüßtem Schlagobers.",
+      "ingredients": {
+        "dark-chocolate": "Zartbitterschokolade (70% Kakao)",
+        "butter": "Butter (weich, zimmerwarm)",
+        "powdered-sugar": "Staubzucker",
+        "egg-yolks": "Eidotter",
+        "egg-whites": "Eiklar",
+        "flour": "Glattes Mehl",
+        "sugar": "Kristallzucker",
+        "apricot-jam": "Marillenmarmelade (passiert)",
+        "chocolate-glaze": "Zartbitterschokolade (für die Glasur)",
+        "heavy-cream": "Schlagobers (für Glasur + zum Servieren)",
+        "vanilla-sugar": "Vanillezucker"
+      },
+      "steps": [
+        "Backofen auf 170°C vorheizen. Eine 26cm Springform einfetten und bemehlen. 200g Zartbitterschokolade sanft über einem Wasserbad schmelzen — sie darf nicht zu heiß werden, sonst klumpt sie. Etwas abkühlen lassen.",
+        "Die weiche Butter mit Staubzucker und Vanillezucker schaumig schlagen — gute 5 Minuten mit dem Handmixer. Die Eidotter einzeln einrühren, jedes vollständig einarbeiten bevor das nächste kommt. Die geschmolzene Schokolade unterrühren.",
+        "In einer separaten, fettfreien Schüssel das Eiklar mit dem Kristallzucker zu steifem, glänzendem Schnee schlagen. Die Schüssel muss fettfrei sein, sonst wird der Schnee nichts.",
+        "Das Mehl über die Schokolademasse sieben und vorsichtig unterheben. Dann den Eischnee in drei Portionen unterheben — mit einem großen Spatel durch die Mitte schneiden und umklappen. So viel Luft wie möglich erhalten.",
+        "In die vorbereitete Form füllen und die Oberfläche glattstreichen. 50-60 Minuten backen, bis ein Stäbchen mit nur wenigen feuchten Krümeln herauskommt. NICHT überbacken — die Torte soll dicht und saftig sein, nicht trocken. 10 Minuten in der Form auskühlen, dann stürzen.",
+        "Wenn komplett ausgekühlt, die Torte horizontal in zwei Schichten schneiden. Die Marillenmarmelade (passiert!) erwärmen und eine großzügige Schicht auf die untere Hälfte streichen. Die obere Hälfte wieder aufsetzen und die gesamte Außenseite der Torte mit warmer Marillenmarmelade bestreichen. Das versiegelt die Torte und gibt der Glasur Halt.",
+        "Für die Glasur: 200ml Schlagobers knapp aufkochen und über 200g gehackte Zartbitterschokolade gießen. 2 Minuten stehen lassen, dann von der Mitte nach außen rühren, bis alles perfekt glatt und glänzend ist. In einem Guss über die Torte gießen und mit einer Palette Messer Deckel und Seiten glätten. Bei Raumtemperatur fest werden lassen — NICHT in den Kühlschrank, sonst verliert die Glasur ihren Glanz.",
+        "Bei Raumtemperatur mit einem großzügigen Klecks ungesüßtem Schlagobers servieren. Das ist unverhandelbar — gesüßtes Schlagobers würde die Balance zerstören."
+      ]
+    },
+    "apfelstrudel": {
+      "title": "Apfelstrudel",
+      "description": "Von Hand ausgezogener, hauchdünner Strudelteig um gewürzte Äpfel, Rosinen und Butterbrösel gewickelt — das Kronjuwel der Wiener Konditorkunst, warm serviert mit Vanillesauce.",
+      "ingredients": {
+        "flour": "Griffiges Mehl",
+        "oil": "Pflanzenöl",
+        "water": "Warmes Wasser",
+        "salt": "Salz",
+        "apples": "Säuerliche Äpfel (Boskop oder Granny Smith)",
+        "breadcrumbs": "Semmelbrösel",
+        "butter": "Butter",
+        "sugar": "Zucker",
+        "raisins": "Rosinen (in Rum eingeweicht)",
+        "cinnamon": "Zimt (gemahlen)",
+        "lemon-juice": "Zitronensaft",
+        "rum": "Rum",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Die Rosinen in Rum einweichen. Für den Teig: Mehl, eine Prise Salz, Öl und warmes Wasser vermischen. 10 Minuten kräftig kneten, bis der Teig seidig glatt und elastisch ist — er soll gegen die Arbeitsfläche klatschen, ohne zu kleben. Zu einer Kugel formen, mit Öl einpinseln, zudecken und mindestens 30 Minuten bei Raumtemperatur rasten lassen.",
+        "Die Äpfel schälen, entkernen und dünn schneiden. Sofort mit Zitronensaft, Zucker und Zimt vermischen.",
+        "Die Semmelbrösel in ca. 50g Butter goldbraun und aromatisch rösten. Das ist die Schicht, die den Apfelsaft aufsaugt und den Strudel knusprig hält — nicht weglassen.",
+        "Einen großen Tisch mit einem sauberen Tuch bedecken und bemehlen. Den Teig in die Mitte legen und so dünn wie möglich ausrollen. Dann mit den Handrücken (Ringe abnehmen!) den Teig von unten vorsichtig ausziehen, von der Mitte nach außen arbeiten. Um den Tisch gehen und gleichmäßig ausziehen, bis man eine Zeitung durchlesen kann. Dicke Ränder abschneiden.",
+        "Den gesamten ausgezogenen Teig mit zerlassener Butter bestreichen. Die gerösteten Semmelbrösel in einem Streifen entlang einer langen Kante verteilen, auf den anderen Seiten einen breiten Rand lassen. Die Apfelmischung über die Brösel schichten.",
+        "Mit Hilfe des Tuches den Strudel von sich weg rollen, von der Apfelseite beginnend, die seitlichen Ränder dabei einschlagen. Mit der Naht nach unten auf ein mit Backpapier belegtes Blech legen, bei Bedarf halbmondförmig biegen.",
+        "Großzügig mit zerlassener Butter bepinseln. Bei 190°C 35-40 Minuten backen, dabei zweimal nachbuttern. Der Strudel ist fertig, wenn er tiefgolden und knusprig-krachend ist.",
+        "10 Minuten auskühlen lassen, dann großzügig mit Staubzucker bestäuben. Warm mit Vanilleeis oder warmer Vanillesauce servieren. Der Strudel soll beim Anschneiden splittern."
+      ]
+    },
+    "linzer-torte": {
+      "title": "Linzer Torte",
+      "description": "Das älteste bekannte Kuchenrezept der Welt — eine gewürzte Nusstorte mit dem charakteristischen Gittermuster über leuchtender Ribiselmarmelade, aus der österreichischen Stadt Linz.",
+      "ingredients": {
+        "flour": "Glattes Mehl",
+        "ground-almonds": "Gemahlene Mandeln",
+        "ground-hazelnuts": "Gemahlene Haselnüsse",
+        "butter": "Butter (kalt, gewürfelt)",
+        "sugar": "Zucker",
+        "egg-yolks": "Eidotter",
+        "cinnamon": "Zimt (gemahlen)",
+        "cloves": "Nelken (gemahlen)",
+        "lemon-zest": "Zitronenschale",
+        "redcurrant-jam": "Ribiselmarmelade",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Mehl, gemahlene Mandeln, gemahlene Haselnüsse, Zucker, Zimt, Nelken und Zitronenschale in einer großen Schüssel vermischen. Die kalte gewürfelte Butter dazugeben und mit den Fingerspitzen zu einer bröselig-krümeligen Masse verreiben. Die Eidotter einarbeiten und rasch zu einem Teig zusammenfügen. Nicht überkneten — er soll mürbe und brüchig sein.",
+        "Den Teig in Frischhaltefolie wickeln und mindestens 1 Stunde kühlen (über Nacht ist ideal). Das macht ihn viel einfacher zu verarbeiten und verhindert das Schrumpfen beim Backen.",
+        "Zwei Drittel des Teiges in den Boden und die Seiten einer 26cm Tarteform drücken (ca. 3cm hoch). Der Boden soll ca. 5mm dick sein. Die Ribiselmarmelade großzügig und gleichmäßig auf dem Boden verteilen — großzügig sein, das ist das Herz der Torte.",
+        "Den restlichen Teig zwischen zwei Blättern Backpapier ausrollen und in 1cm breite Streifen schneiden. In einem klassischen Gittermuster über der Marmelade anordnen. Die Streifenenden am Rand andrücken. Das Gitter mit verquirltem Eidotter für Glanz bestreichen.",
+        "Bei 175°C 45-50 Minuten backen, bis das Gitter tiefgolden ist und die Marmelade durchblubbert. Die Nusskruste verströmt ein unglaubliches Aroma, wenn sie fertig ist.",
+        "In der Form komplett auskühlen lassen — die Marmelade muss fest werden. Vor dem Servieren leicht mit Staubzucker bestäuben. Linzer Torte wird tatsächlich über 2-3 Tage besser, wenn die Gewürze und die Marmelade sich verbinden."
+      ]
+    },
+    "marillenknoedel": {
+      "title": "Marillenknödel",
+      "description": "Goldene Erdäpfelknödel um ganze frische Marillen mit einem Würfelzucker drin gewickelt, in Butterbrösel gewälzt — der Geschmack des österreichischen Sommers.",
+      "ingredients": {
+        "potatoes": "Mehlige Erdäpfel",
+        "flour": "Glattes Mehl",
+        "egg": "Ei",
+        "butter": "Butter",
+        "apricots": "Frische Marillen (reif aber fest)",
+        "sugar-cubes": "Würfelzucker",
+        "breadcrumbs": "Semmelbrösel (fein)",
+        "powdered-sugar": "Staubzucker",
+        "cinnamon": "Zimt (gemahlen)",
+        "salt": "Salz"
+      },
+      "steps": [
+        "Die Erdäpfel in der Schale weich kochen. Abseihen, heiß schälen und durch eine Erdäpfelpresse drücken. Komplett auskühlen lassen — das ist wichtig, warme Erdäpfel machen klebrigen Teig.",
+        "Die ausgekühlten Erdäpfel mit Mehl, Ei und einer Prise Salz mischen. Sanft zu einem glatten Teig verkneten. Nicht überarbeiten — je weniger man ihn bearbeitet, desto lockerer die Knödel.",
+        "Die Marillen waschen, vorsichtig entkernen (möglichst ganz lassen — einen kleinen Schnitt entlang der Naht machen und den Stein herausdrehen). Einen Würfelzucker in jede Marille legen, wo der Kern war.",
+        "Den Teig auf einer bemehlten Fläche ca. 1cm dick ausrollen. In Quadrate schneiden, die groß genug sind, eine Marille zu umhüllen. Eine Marille in die Mitte jedes Quadrats legen, die Ränder hochziehen und komplett verschließen. Mit bemehlten Händen sanft zu glatten Kugeln rollen.",
+        "Die Knödel in einem großen Topf leicht gesalzenem Wasser simmern (nicht kochen!) lassen, ca. 12-15 Minuten. Sie schwimmen oben, wenn sie fertig sind. Mit einem Schaumlöffel herausnehmen.",
+        "Die Butter in einer großen Pfanne schmelzen und die Semmelbrösel goldbraun rösten. Jeden Knödel in den Butterbrösel wälzen, mit Staubzucker gemischt mit Zimt bestäuben und sofort servieren. Die Marille drin soll weich und marmeladig sein."
+      ]
+    },
+    "topfenstrudel": {
+      "title": "Topfenstrudel",
+      "description": "Ein goldener, knuspriger Strudel gefüllt mit süßem Topfen, Rosinen und Zitronenschale — die elegante Schwester des Apfelstrudels, serviert mit warmer Vanillesauce.",
+      "ingredients": {
+        "strudel-dough": "Strudelteigblätter (oder selbstgemacht)",
+        "quark": "Topfen (gut abgetropft)",
+        "butter": "Butter (zerlassen)",
+        "sour-cream": "Sauerrahm",
+        "egg-yolks": "Eidotter",
+        "egg-whites": "Eiklar",
+        "sugar": "Zucker",
+        "vanilla-sugar": "Vanillezucker",
+        "raisins": "Rosinen",
+        "lemon-zest": "Zitronenschale",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Backofen auf 180°C vorheizen. Bei selbstgemachtem Strudelteig diesen nach der Apfelstrudel-Methode vorbereiten und ausziehen. Sonst gekaufte Blätter vorsichtig entfalten.",
+        "Die Eidotter mit Zucker, Vanillezucker und weicher Butter schaumig rühren. Den gut abgetropften Topfen und Sauerrahm unterrühren, dann Rosinen und Zitronenschale dazugeben. Die Füllung soll glatt, cremig und nicht zu nass sein.",
+        "Das Eiklar zu steifem Schnee schlagen und vorsichtig unter die Topfenmasse heben. Das macht die Füllung leicht und souffléartig beim Backen.",
+        "Die Strudelteigblätter mit zerlassener Butter bestreichen und leicht überlappend auflegen. Die Topfenfüllung in einem Streifen entlang einer langen Kante verteilen, an den Seiten 5cm Rand lassen.",
+        "Vorsichtig mit Hilfe des Tuches oder Backpapiers aufrollen. Die seitlichen Ränder dabei einschlagen. Mit der Naht nach unten auf ein mit Backpapier belegtes Blech legen. Die Oberseite großzügig mit zerlassener Butter bepinseln.",
+        "30-35 Minuten backen, bis er golden und knusprig ist. Die Füllung soll gerade fest aber innen noch cremig sein. Großzügig mit Staubzucker bestäuben und warm servieren, idealerweise mit warmer Vanillesauce."
+      ]
+    },
+    "salzstangerl": {
+      "title": "Salzstangerl",
+      "description": "Klassische österreichische Salzstangerl aus Blätterteig — knusprig, buttrig und mit grobem Salz und Kümmel bestreut. Perfekt als Jause oder Beilage.",
+      "ingredients": {
+        "puff-pastry": "Blätterteigplatten",
+        "egg-yolk": "Eigelb (zum Bestreichen)",
+        "coarse-salt": "Grobes Salz",
+        "caraway-seeds": "Kümmel"
+      },
+      "steps": [
+        "Den Ofen auf 200°C vorheizen. Ein Backblech mit Backpapier auslegen.",
+        "Den Blätterteig ausrollen und in lange Dreiecke schneiden (wie Croissant-Formen).",
+        "Jedes Dreieck von der breiten Seite zur Spitze aufrollen und leicht zu einem Kipferl formen.",
+        "Auf das Backblech legen, mit verquirltem Eigelb bestreichen und großzügig mit grobem Salz und Kümmel bestreuen.",
+        "12-15 Minuten backen bis goldbraun und aufgegangen. Warm servieren."
+      ]
+    },
+    "semmel": {
+      "title": "Semmel",
+      "description": "Die ikonische österreichische Kaisersemmel — ein rundes Brötchen mit dem unverwechselbaren fünffachen Sternmuster, knuspriger goldener Kruste und lockerer, luftiger Krume. Die Grundlage jedes österreichischen Frühstücks.",
+      "ingredients": {
+        "flour": "Weizenmehl (griffig)",
+        "fresh-yeast": "Frische Germ (Hefe)",
+        "water": "Wasser (lauwarm)",
+        "butter": "Butter (weich)",
+        "sugar": "Zucker",
+        "salt": "Salz",
+        "malt": "Gerstenmalzpulver (optional)"
+      },
+      "steps": [
+        "Die Germ und den Zucker im lauwarmen Wasser auflösen. 5 Minuten stehen lassen, bis es schäumt. Falls Malzpulver verwendet wird, auch dieses im Wasser auflösen — es gibt der Kruste die charakteristische goldene Farbe und feine Süße.",
+        "Mehl und Salz in einer großen Schüssel mischen. Die Germischung und weiche Butter dazugeben. Kräftig 10-12 Minuten kneten — der Teig muss sehr glatt, elastisch und leicht klebrig aber nicht nass sein. Dieses intensive Kneten erzeugt die lockere, luftige Krume.",
+        "Zudecken und 1 Stunde gehen lassen, bis er sich verdoppelt hat. Der Teig soll federnd und voller Luft sein.",
+        "In 10 gleiche Stücke teilen (ca. 80g pro Stück). Jedes zu einer straffen, glatten Kugel formen, indem die Ränder nach unten gefaltet werden. Das erzeugt Oberflächenspannung für einen guten Aufgang.",
+        "Für das klassische Kaisersemmelmuster: jede Kugel leicht flachdrücken, dann mit einem Semmelstempel oder dem Stiel eines Holzlöffels 5 tiefe Linien sternförmig vom Zentrum aus eindrücken. Oder: 5 Zipfel ausrollen und über die Mitte falten, unter den Teig stecken. Das Muster muss tief genug sein, dass es nach dem Backen noch sichtbar ist.",
+        "Auf ein bemehltes Blech setzen, zudecken und 20-25 Minuten gehen lassen. Backofen auf 230°C vorheizen, mit einer Schale Wasser für Dampf.",
+        "16-18 Minuten backen, bis goldbraun und knusprig. Die Semmel sollen sich für ihre Größe sehr leicht anfühlen und beim Klopfen hohl klingen. Auf einem Gitter auskühlen — die Kruste wird beim Abkühlen weiter knusprig."
+      ]
+    },
+    "mohnflesserl": {
+      "title": "Mohnflesserl",
+      "description": "Wunderschön geflochtene österreichische Gebäckstücke, großzügig mit Mohn bestreut — weicher, leicht süßer Germteig in eleganter gedrehter Form. Ein beliebter österreichischer Bäckereiklassiker.",
+      "ingredients": {
+        "flour": "Weizenmehl (griffig)",
+        "fresh-yeast": "Frische Germ (Hefe)",
+        "milk": "Milch (lauwarm)",
+        "butter": "Butter (weich)",
+        "sugar": "Zucker",
+        "salt": "Salz",
+        "egg": "Ei",
+        "poppy-seeds": "Mohn",
+        "egg-yolk": "Eidotter (zum Bestreichen)"
+      },
+      "steps": [
+        "Die Milch auf Körpertemperatur erwärmen. Die Germ in die Milch bröseln, Zucker dazugeben, umrühren und 5-10 Minuten stehen lassen, bis es schäumt.",
+        "Mehl und Salz in einer großen Schüssel mischen. Die Germischung, weiche Butter und Ei dazugeben. 10 Minuten kneten, bis glatt und elastisch. Der Teig soll etwas reichhaltiger als ein einfacher Brotteig sein. Zudecken und 45-60 Minuten gehen lassen, bis er sich verdoppelt hat.",
+        "Den Teig in 8 gleiche Stücke teilen. Jedes Stück zu einem langen Strang von ca. 40cm ausrollen. Den Strang in der Mitte falten und zusammendrehen, dann die Enden zusammenführen zu einer kleinen Kranzform (die klassische Flesserl-Form). Alternativ drei dünne Stränge zu einem Zopf flechten.",
+        "Jedes Flesserl mit verquirltem Eidotter bestreichen (damit der Mohn haftet). Sofort die Oberseite großzügig in Mohn wälzen oder eintauchen und leicht andrücken. Der Kontrast von dunklem Mohn gegen goldenen Teig ist das Markenzeichen.",
+        "Auf ein mit Backpapier belegtes Blech setzen, zudecken und 20 Minuten gehen lassen. Backofen auf 200°C vorheizen.",
+        "16-18 Minuten backen, bis sie unten goldbraun sind (die Mohnoberseite bleibt dunkel). Die Gebäckstücke sollen sich leicht anfühlen und hohl klingen. Auf einem Gitter auskühlen — Mohnflesserl sind noch leicht warm mit Butter ein Gedicht."
+      ]
+    },
+    "leberkaesesemmel": {
+      "title": "Leberkäsesemmel",
+      "description": "Österreichs ultimatives Streetfood — eine dicke Scheibe frisch gebackener Leberkäse mit karamellisierter Kruste, serviert in einer knusprigen Semmel mit einem großzügigen Streifen süßem Senf.",
+      "ingredients": {
+        "pork-belly": "Schweinebauch (fein faschiert)",
+        "beef": "Rindfleisch (fein faschiert)",
+        "bacon": "Speck (geräuchert)",
+        "onion": "Zwiebel",
+        "salt": "Pökelsalz",
+        "pepper": "Weißer Pfeffer",
+        "marjoram": "Majoran (getrocknet)",
+        "nutmeg": "Muskatnuss",
+        "water": "Eiswasser",
+        "semmel": "Semmel (Kaisersemmel)",
+        "sweet-mustard": "Süßer Senf"
+      },
+      "steps": [
+        "Schweinebauch, Rindfleisch und Speck beim Fleischer sehr fein faschieren lassen (oder in der Küchenmaschine portionsweise kuttern, bis alles völlig glatt ist — das ist der Schlüssel). Die Masse muss eine feine, emulgierte Paste sein, nicht stückig.",
+        "Das fein faschierte Fleisch mit Pökelsalz, weißem Pfeffer, Majoran und einer Prise Muskatnuss vermischen. Die Zwiebel fein würfeln und dazugeben. Das Eiswasser nach und nach unter kräftigem Rühren einarbeiten — das erzeugt die charakteristische glatte, federnde Textur.",
+        "Eine Kastenform (ca. 30cm) mit Backpapier auslegen. Die Fleischmasse fest eindrücken und alle Luftblasen herausstreichen. Die Oberfläche glattstreichen und mit etwas Wasser bepinseln.",
+        "Bei 180°C ca. 75 Minuten backen. Die Oberfläche soll eine tief karamellisierte, goldbraune Kruste entwickeln — das ist das Beste daran. Die Kerntemperatur soll 70°C erreichen.",
+        "10 Minuten ruhen lassen vor dem Aufschneiden. Der Leberkäse soll innen glatt und gleichmäßig sein, mit einem zufriedenstellenden Biss.",
+        "Dicke Scheiben schneiden (mindestens 1,5cm) und in frische Semmel legen mit einem großzügigen Streifen süßem Senf. Der Kontrast von heißem, saftigem Leberkäse gegen die knusprige Semmel macht es zur Ikone."
+      ]
+    },
+    "bosna": {
+      "title": "Bosna",
+      "description": "Salzburgs legendäres Streetfood — eine gegrillte Bratwurst im weißen Weckerl mit rohen Zwiebeln, Senf und Currypulver. In den 1950ern an einem Salzburger Würstelstand erfunden, heute Kult.",
+      "ingredients": {
+        "bratwurst": "Bratwurst (Schwein oder Kalb)",
+        "white-bread-roll": "Weißes Weckerl (länglich, weich)",
+        "onion": "Zwiebeln (weiß, dünn geschnitten)",
+        "mustard": "Senf (gelb)",
+        "curry-powder": "Currypulver"
+      },
+      "steps": [
+        "Die Bratwurst auf dem Grill oder in der Pfanne bei mittlerer bis hoher Hitze schön knusprig und durchgebraten grillen, ca. 8-10 Minuten. Häufig wenden für gleichmäßige Bräunung. Die Haut soll knusprig sein und knacken.",
+        "Während die Wurst grillt, die Zwiebeln in dünne Ringe schneiden. Die Weckerl kurz am Grill oder im Ofen anwärmen — sie sollen weich und leicht angetoastet sein.",
+        "Jedes Weckerl längs aufschneiden, ohne es ganz durchzuschneiden. Eine großzügige Linie Senf hineindrücken.",
+        "Die gegrillte Bratwurst ins Weckerl legen, großzügig mit rohen Zwiebelringen belegen und mit Currypulver bestäuben. Die Kombination aus gegrillter Wurst, scharfer roher Zwiebel, würzigem Senf und warmem Curry macht die Bosna süchtig machend."
+      ]
+    },
+    "kaesekrainer": {
+      "title": "Käsekrainer",
+      "description": "Die Wiener Käsewurst schlechthin — grob gewolftes Schweinefleisch gespickt mit Emmentaler-Würfeln, die beim Grillen zu unwiderstehlichen Käsetaschen schmelzen. Unverzichtbar am Würstelstand.",
+      "ingredients": {
+        "pork": "Schweinsschulter (grob gewolft)",
+        "bacon": "Rückenspeck",
+        "emmental": "Emmentaler (in 5mm Würfel geschnitten)",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "garlic": "Knoblauchzehen",
+        "caraway-seeds": "Kümmel (gemahlen)",
+        "sausage-casing": "Naturdärme (Schwein)",
+        "bread": "Knuspriges Gebäck",
+        "mustard": "Süßer und scharfer Senf"
+      },
+      "steps": [
+        "Fleisch und Ausrüstung vorher gut kühlen — kalte Temperaturen sind entscheidend für eine gute Bindung. Schweinsschulter und Rückenspeck grob durch die mittlere Scheibe wolfen. Der Wolff soll deutlich stückig sein, nicht fein.",
+        "Das gewolfte Fleisch mit Salz, Pfeffer, fein gehacktem Knoblauch und gemahlenem Kümmel mischen, bis die Masse klebrig und gut gebunden ist. Die Emmentaler-Würfel unterheben — in 5mm Würfel geschnitten, damit sie beim Schmelzen deutliche Käsetaschen bilden.",
+        "In Naturdärme füllen und in ca. 15cm lange Würste abdrehen. Luftblasen mit einer Nadel einstechen. Die Würste über Nacht im Kühlschrank durchziehen lassen.",
+        "Bei mittlerer Hitze grillen, häufig wenden, ca. 15-20 Minuten. Der Schlüssel ist Geduld — zu große Hitze lässt den Darm platzen und der geschmolzene Käse rinnt heraus. Die Haut soll verkrusten, während der Käse innen schmilzt und fließt.",
+        "Sofort servieren auf einem Teller mit knusprigem Gebäck, süßem und scharfem Senf daneben. In die Wurst schneiden, um die Flüsse geschmolzenen Käses freizusetzen. Ein kaltes Bier ist nicht optional."
+      ]
+    },
+    "langos": {
+      "title": "Langos",
+      "description": "Goldenes, knuspriges frittiertes Fladenbrot vom österreichischen Christkindlmarkt — belegt mit Knoblauch-Sauerrahm und einem Berg geriebenem Käse. Außen kross, innen flaumig.",
+      "ingredients": {
+        "flour": "Weizenmehl (glatt)",
+        "fresh-yeast": "Frische Germ (Hefe)",
+        "milk": "Milch (lauwarm)",
+        "salt": "Salz",
+        "sugar": "Zucker",
+        "oil": "Pflanzenöl (zum Frittieren)",
+        "sour-cream": "Sauerrahm",
+        "garlic": "Knoblauchzehen",
+        "cheese": "Käse (gerieben, Emmentaler oder Gouda)"
+      },
+      "steps": [
+        "Die Germ und den Zucker in lauwarmer Milch auflösen. 5 Minuten stehen lassen, bis es schäumt. Mit Mehl und Salz zu einem weichen, leicht klebrigen Teig vermengen. 5 Minuten kneten. Zudecken und 30-40 Minuten gehen lassen, bis er sich verdoppelt hat.",
+        "Den Knoblauch pressen und in den Sauerrahm rühren, mit einer Prise Salz. Während der Teig geht, ziehen lassen — das Knoblaucharoma intensiviert sich wunderbar.",
+        "Den Teig in 6 gleiche Stücke teilen. Auf einer bemehlten Fläche jedes Stück mit den Händen zu einer flachen Scheibe von ca. 20cm ausziehen. Von der Mitte vorsichtig ziehen — die Mitte soll dünner sein als der Rand.",
+        "Das Öl auf 180°C erhitzen in einer tiefen Pfanne oder einem Topf. Vorsichtig jeweils ein Langos einlegen. Pro Seite 2-3 Minuten goldbraun und aufgeblasen frittieren. Die Ränder sollen knusprig und blasig sein, die Mitte weich.",
+        "Kurz auf Küchenpapier abtropfen lassen. Sofort großzügig mit Knoblauch-Sauerrahm bestreichen, dann den geriebenen Käse daraufhäufen, solange der Langos noch glühend heiß ist, damit der Käse leicht schmilzt. Sofort essen — Langos wartet auf niemanden."
+      ]
+    },
+    "faschierter-braten": {
+      "title": "Faschierter Braten",
+      "description": "Ein deftiger österreichischer Fleischlaib aus einer würzigen Mischung von Schweine- und Rindfaschiertem, goldbraun gebacken mit knuspriger Kruste. Serviert mit Bratensaft und Kartoffelpüree.",
+      "ingredients": {
+        "ground-pork": "Schweinefaschiertes",
+        "ground-beef": "Rindfaschiertes",
+        "onion": "Zwiebel (fein gewürfelt)",
+        "eggs": "Eier",
+        "breadcrumbs": "Semmelbrösel",
+        "mustard": "Mittelscharfer Senf",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "paprika": "Edelsüßes Paprikapulver",
+        "marjoram": "Getrockneter Majoran",
+        "parsley": "Frische Petersilie"
+      },
+      "steps": [
+        "Den Ofen auf 180°C vorheizen. Die Zwiebel fein würfeln und in etwas Butter glasig dünsten. Abkühlen lassen.",
+        "In einer großen Schüssel das Schweine- und Rindfaschierte vermengen. Die abgekühlten Zwiebeln, Eier, Semmelbrösel, Senf und alle Gewürze hinzufügen. Gründlich vermengen, aber nicht überkneten.",
+        "Die Petersilie fein hacken und unterheben. Kräftig mit Salz und Pfeffer abschmecken.",
+        "Die Masse auf einem mit Backpapier ausgelegten Backblech oder in einer Kastenform zu einem kompakten Laib formen. Die Oberfläche mit nassen Händen glätten.",
+        "Die Oberseite mit etwas Wasser bestreichen und ca. 50-60 Minuten backen, bis die Kerntemperatur 72°C erreicht.",
+        "Nach 30 Minuten eine Tasse Rindsuppe in die Form gießen für den Bratensaft. Den Braten gelegentlich damit begießen.",
+        "10 Minuten ruhen lassen vor dem Aufschneiden. Den Bratensaft abseihen für eine einfache Sauce. Mit Kartoffelpüree und grünem Salat servieren."
+      ]
+    },
+    "wurstknoedel": {
+      "title": "Wurstknödel",
+      "description": "Deftige österreichische Semmelknödel mit Stücken von geräucherter Wurst — ein einfaches, sättigendes Gericht, serviert in klarer Rindsuppe mit frischem Schnittlauch.",
+      "ingredients": {
+        "stale-bread-rolls": "Altbackene Semmeln (gewürfelt)",
+        "smoked-sausage": "Geräucherte Wurst (z.B. Extrawurst oder Braunschweiger)",
+        "milk": "Warme Milch",
+        "eggs": "Eier",
+        "onion": "Zwiebel (fein gewürfelt)",
+        "butter": "Butter",
+        "parsley": "Frische Petersilie",
+        "salt": "Salz",
+        "pepper": "Schwarzer Pfeffer",
+        "flour": "Mehl"
+      },
+      "steps": [
+        "Die altbackenen Semmeln in kleine Würfel schneiden und in eine große Schüssel geben. Die Wurst ebenfalls klein würfeln.",
+        "Die Milch erwärmen und über die Semmelwürfel gießen. 15 Minuten einweichen lassen.",
+        "Die Zwiebel in Butter glasig dünsten. Zusammen mit der gewürfelten Wurst zur Brötchenmasse geben.",
+        "Eier, gehackte Petersilie, Salz, Pfeffer und Mehl hinzufügen. Gut vermengen bis der Teig zusammenhält. 10 Minuten rasten lassen.",
+        "Mit nassen Händen runde Knödel formen (etwa tennisballgroß).",
+        "Die Knödel in leicht siedendes Salzwasser oder Rindsuppe einlegen. Ca. 20 Minuten ziehen lassen, ohne das Wasser kochen zu lassen. In klarer Rindsuppe mit frischem Schnittlauch servieren."
+      ]
+    },
+    "rindsuppe": {
+      "title": "Rindsuppe",
+      "description": "Die Königin der österreichischen Suppen — eine kristallklare, goldene Rinderbrühe, stundenlang mit Wurzelgemüse gekocht. Die Basis für unzählige klassische Suppeneinlagen.",
+      "ingredients": {
+        "beef-bones": "Rinderknochen (Markknochen)",
+        "beef-brisket": "Rinderbrust (Tafelspitz-Schnitt)",
+        "carrots": "Karotten",
+        "celery-root": "Knollensellerie",
+        "leek": "Lauch",
+        "onion": "Zwiebel (halbiert, ungeschält)",
+        "parsley-root": "Petersilienwurzel",
+        "bay-leaf": "Lorbeerblätter",
+        "peppercorns": "Schwarze Pfefferkörner",
+        "salt": "Salz",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Die Rinderknochen in kaltes Wasser geben und zum Kochen bringen. Den Schaum gründlich abschöpfen — das ist der Schlüssel zu einer klaren Brühe.",
+        "Das Rindfleisch hinzufügen. Die Hitze reduzieren und mindestens 2 Stunden sanft köcheln lassen. Die Brühe darf nie stark kochen.",
+        "Die Zwiebel halbieren und die Schnittseite in einer trockenen Pfanne schwärzen — das gibt der Brühe ihre goldene Farbe.",
+        "Nach 2 Stunden das gesamte Gemüse (Karotten, Sellerie, Lauch, Petersilienwurzel, angeröstete Zwiebel), Lorbeerblätter und Pfefferkörner hinzufügen. Noch 1 Stunde köcheln.",
+        "Mit Salz abschmecken. Die Brühe durch ein feines Sieb oder Käsetuch abseihen für perfekte Klarheit.",
+        "Die klare Brühe mit fein geschnittenem Schnittlauch garniert servieren. Klassische Einlagen sind dünne Eiernudeln, Frittaten, Leberknödel oder Grießnockerl."
+      ]
+    },
+    "knoblauchcremesuppe": {
+      "title": "Knoblauchcremesuppe",
+      "description": "Eine seidig-samtiges Knoblauchcremesuppe — ein beliebter österreichischer Klassiker. Reichhaltig und aromatisch, gekrönt mit knusprigen Croûtons und frischen Kräutern.",
+      "ingredients": {
+        "garlic": "Knoblauchzehen",
+        "potatoes": "Kartoffeln (zum Binden)",
+        "butter": "Butter",
+        "cream": "Schlagobers",
+        "vegetable-broth": "Gemüsebrühe",
+        "white-bread": "Weißbrot (für Croûtons)",
+        "salt": "Salz",
+        "pepper": "Weißer Pfeffer",
+        "nutmeg": "Muskatnuss",
+        "chives": "Frischer Schnittlauch"
+      },
+      "steps": [
+        "Knoblauch schälen und grob hacken. Kartoffeln schälen und in kleine Würfel schneiden.",
+        "Butter in einem Topf schmelzen und den Knoblauch bei niedriger Hitze sanft anschwitzen — er darf nicht braun werden, sonst wird er bitter.",
+        "Die Kartoffelwürfel und Gemüsebrühe hinzufügen. Ca. 20 Minuten köcheln bis die Kartoffeln weich sind.",
+        "Mit dem Stabmixer seidig glatt pürieren. Das Schlagobers einrühren, mit Salz, weißem Pfeffer und einer Prise Muskat abschmecken.",
+        "Gutes Weißbrot in kleine Würfel schneiden und in Butter goldbraun rösten. Die Suppe mit Croûtons und frischem Schnittlauch servieren."
+      ]
+    },
+    "topfencreme": {
+      "title": "Topfencreme",
+      "description": "Eine leichte, luftige österreichische süße Topfencreme — die perfekte Beilage zu Palatschinken, oder mit frischem Beerenkompott als erfrischendes Dessert.",
+      "ingredients": {
+        "quark": "Topfen (vollfett)",
+        "cream": "Schlagobers",
+        "powdered-sugar": "Staubzucker",
+        "vanilla-sugar": "Vanillezucker",
+        "lemon-zest": "Zitronenschale",
+        "berries": "Frische gemischte Beeren"
+      },
+      "steps": [
+        "Den Topfen durch ein feines Sieb passieren für eine extra-glatte Konsistenz. Dieser Schritt macht den Unterschied.",
+        "Das Schlagobers steif schlagen. In einer separaten Schüssel den passierten Topfen mit Staubzucker, Vanillezucker und Zitronenschale verrühren.",
+        "Das Schlagobers vorsichtig in zwei Portionen unter die Topfenmasse heben. Darauf achten, das Obers nicht zu zerstören — leichte, schwenkende Bewegungen verwenden.",
+        "Mindestens 30 Minuten kühlen. In Gläsern mit frischem Beerenkompott oder ganzen Beeren servieren. Kann auch als Füllung für Palatschinken verwendet werden."
+      ]
+    },
+    "buchteln": {
+      "title": "Buchteln",
+      "description": "Goldbraune österreichische Germteig-Buchteln, gefüllt mit Powidl (Zwetschkenmus), zusammen gebacken bis fluffig und weich. Serviert mit Staubzucker und warmer Vanillesauce.",
+      "ingredients": {
+        "flour": "Weizenmehl",
+        "fresh-yeast": "Frischer Germ",
+        "milk": "Warme Milch",
+        "butter": "Butter (geschmolzen)",
+        "sugar": "Zucker",
+        "eggs": "Eier",
+        "salt": "Salz",
+        "vanilla-sugar": "Vanillezucker",
+        "lemon-zest": "Zitronenschale",
+        "plum-jam": "Powidl (Zwetschkenmus)",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Den Germ in warmer Milch mit einer Prise Zucker auflösen. 10 Minuten stehen lassen bis schaumig.",
+        "Mehl, Zucker, Vanillezucker, Salz und Zitronenschale mischen. Germgemisch, Eier und die Hälfte der geschmolzenen Butter hinzufügen. Zu einem glatten, weichen Teig verkneten.",
+        "Zugedeckt an einem warmen Ort ca. 1 Stunde gehen lassen bis sich das Volumen verdoppelt hat.",
+        "Den Teig in 12 gleiche Stücke teilen. Jedes Stück flachdrücken, einen Teelöffel Powidl in die Mitte geben und die Ränder zusammendrücken.",
+        "Jede Buchtel in geschmolzene Butter tauchen und mit der Naht nach unten dicht nebeneinander in eine gebutterte Auflaufform setzen.",
+        "Nochmals 20 Minuten gehen lassen. Den Ofen auf 180°C vorheizen.",
+        "20-25 Minuten backen bis die Oberseite goldbraun ist. Großzügig mit Staubzucker bestreuen und warm mit Vanillesauce servieren."
+      ]
+    },
+    "krapfen": {
+      "title": "Krapfen",
+      "description": "Österreichische Faschingskrapfen — in Fett herausgebackene Hefeteig-Bällchen, gefüllt mit Marillenmarmelade. Luftig, fluffig, mit dem typischen hellen Ring in der Mitte.",
+      "ingredients": {
+        "flour": "Weizenmehl",
+        "fresh-yeast": "Frischer Germ",
+        "milk": "Warme Milch",
+        "butter": "Butter (weich)",
+        "egg-yolks": "Eigelb",
+        "sugar": "Zucker",
+        "salt": "Salz",
+        "rum": "Rum",
+        "lemon-zest": "Zitronenschale",
+        "apricot-jam": "Glatte Marillenmarmelade",
+        "oil": "Öl (zum Frittieren)",
+        "powdered-sugar": "Staubzucker"
+      },
+      "steps": [
+        "Den Germ in warmer Milch mit einer Prise Zucker auflösen. 10 Minuten stehen lassen bis schaumig.",
+        "Mehl, Zucker, Salz und Zitronenschale in einer großen Schüssel mischen. Germgemisch, Eigelb, Rum und weiche Butter hinzufügen.",
+        "Mindestens 10 Minuten kräftig kneten bis der Teig seidig glatt und elastisch ist. Das ist entscheidend für die Textur.",
+        "Zugedeckt ca. 1 Stunde gehen lassen bis sich das Volumen verdoppelt hat.",
+        "Auf ca. 1,5 cm Dicke ausrollen. Kreise mit einem runden Ausstecher (ca. 8 cm) ausstechen. Einen Teelöffel Marmelade auf die Hälfte der Kreise geben, mit den restlichen Kreisen bedecken und die Ränder fest zusammendrücken.",
+        "Die gefüllten Krapfen auf einem bemehlten Tuch nochmals 20 Minuten gehen lassen.",
+        "Öl auf 160°C erhitzen. Die Krapfen zugedeckt ca. 3 Minuten backen (das erzeugt den hellen Ring), dann wenden und unbedeckt weitere 3 Minuten backen.",
+        "Auf Küchenpapier abtropfen und noch warm großzügig mit Staubzucker bestreuen."
+      ]
+    },
+    "punschkrapfen": {
+      "title": "Punschkrapfen",
+      "description": "Der ikonische österreichische Petit Four — würfelförmige Törtchen mit rumgetränktem Biskuit, Marillenmarmelade, rosa Fondantglasur oben und Schokoladenboden. Ein Wiener Konditorei-Klassiker.",
+      "ingredients": {
+        "eggs": "Eier",
+        "sugar": "Zucker",
+        "flour": "Weizenmehl",
+        "cocoa": "Kakaopulver",
+        "apricot-jam": "Glatte Marillenmarmelade",
+        "rum": "Dunkler Rum",
+        "powdered-sugar": "Staubzucker (für die Glasur)",
+        "dark-chocolate": "Zartbitterschokolade",
+        "pink-food-coloring": "Rosa Lebensmittelfarbe",
+        "lemon-juice": "Zitronensaft"
+      },
+      "steps": [
+        "Einen Schokoladebiskuit backen: Eier und Zucker dick-schaumig schlagen, Mehl und Kakao unterheben. Bei 180°C auf einem Blech 12-15 Minuten backen. Vollständig auskühlen lassen.",
+        "Den ausgekühlten Biskuit zu feinen Bröseln zerbröseln. Einige saubere Scheiben für die Ober- und Unterschicht aufheben.",
+        "Die Brösel mit Marillenmarmelade und reichlich Rum zu einer feuchten, formbaren Masse vermischen.",
+        "Eine kleine quadratische Form auslegen oder Rechtecke ausschneiden. Schichten: Biskuitboden, Rum-Brösel-Masse, Biskuitdecke.",
+        "Alle Seiten mit warmer Marillenmarmelade (Aprikotur) bestreichen für ein glattes Finish.",
+        "Die rosa Glasur zubereiten: Staubzucker mit Zitronensaft und einem Tropfen rosa Lebensmittelfarbe glatt verrühren. Die Oberseite jedes Krapfens eintauchen.",
+        "Zartbitterschokolade schmelzen und die Unterseite jedes Krapfens eintauchen.",
+        "Auf einem Gitter vollständig fest werden lassen. Die fertigen Punschkrapfen sollten ein rosa Oberteil, einen Schokoladenboden haben und perfekt quadratisch sein."
+      ]
+    },
+    "gugelhupf": {
+      "title": "Gugelhupf",
+      "description": "Der klassische österreichische Marmorkuchen in seiner ikonischen Gugelhupfform — ein beliebter Sonntagnachmittags-Kaffeekuchen mit Vanille- und Schokolade-Wirbeln.",
+      "ingredients": {
+        "butter": "Butter (Zimmertemperatur)",
+        "sugar": "Zucker",
+        "eggs": "Eier",
+        "flour": "Weizenmehl",
+        "milk": "Milch",
+        "baking-powder": "Backpulver",
+        "vanilla-sugar": "Vanillezucker",
+        "cocoa": "Kakaopulver",
+        "rum": "Rum",
+        "powdered-sugar": "Staubzucker (zum Bestäuben)"
+      },
+      "steps": [
+        "Den Ofen auf 170°C vorheizen. Eine Gugelhupfform großzügig mit Butter einfetten und mit Mehl bestäuben.",
+        "Die zimmerwarme Butter mit Zucker und Vanillezucker sehr schaumig schlagen — mindestens 5 Minuten.",
+        "Die Eier einzeln hinzufügen und nach jedem Ei gut rühren.",
+        "Mehl mit Backpulver mischen. Abwechselnd in drei Portionen Mehlmischung und Milch unterheben.",
+        "Den Teig halbieren. Eine Hälfte mit Kakao und Rum vermischen.",
+        "Abwechselnd hellen und dunklen Teig in die Form löffeln. Mit einem Messer ein Marmormuster ziehen.",
+        "45-50 Minuten backen bis ein Holzstäbchen sauber herauskommt. 15 Minuten in der Form abkühlen, dann stürzen. Großzügig mit Staubzucker bestäuben."
+      ]
+    },
+    "bauernbrot": {
+      "title": "Bauernbrot",
+      "description": "Rustikales österreichisches Bauernbrot mit dicker, rissiger Kruste und dichtem, aromatischem Teig — aus einer Mischung von Roggen- und Weizenmehl mit echtem Sauerteig.",
+      "ingredients": {
+        "rye-flour": "Roggenmehl",
+        "wheat-flour": "Weizenmehl",
+        "sourdough-starter": "Aktiver Sauerteig",
+        "water": "Lauwarmes Wasser",
+        "salt": "Salz",
+        "caraway-seeds": "Kümmel",
+        "bread-spice": "Brotgewürz"
+      },
+      "steps": [
+        "Den Sauerteig mit den Mehlen, Wasser, Salz, Kümmel und Brotgewürz vermengen. Ca. 10 Minuten zu einem glatten Teig kneten.",
+        "Zugedeckt bei Zimmertemperatur mindestens 2 Stunden gehen lassen (oder über Nacht im Kühlschrank für mehr Geschmack).",
+        "Den Teig auf einer bemehlten Fläche zu einem runden Laib formen. Auf ein Backblech oder in einen Gärkorb legen.",
+        "Nochmals 45 Minuten gehen lassen. Den Ofen auf 240°C vorheizen mit einer Schale Wasser am Ofenboden für Dampf.",
+        "Die Oberfläche des Laibs mit einem scharfen Messer oder einer Rasierklinge einschneiden.",
+        "15 Minuten bei 240°C backen, dann auf 200°C reduzieren und weitere 35 Minuten backen bis die Kruste dunkelbraun ist.",
+        "Das Brot ist fertig wenn es beim Klopfen auf die Unterseite hohl klingt. Vollständig auf einem Gitter auskühlen lassen."
+      ]
+    },
+    "schwarzbrot": {
+      "title": "Schwarzbrot",
+      "description": "Dichtes, dunkles österreichisches Roggenbrot — langsam gebacken mit reichem, leicht süßem Geschmack durch Melasse. Ein traditionelles Brot, das perfekt zu Butter, Aufschnitt und Käse passt.",
+      "ingredients": {
+        "rye-flour": "Dunkles Roggenmehl",
+        "whole-wheat-flour": "Vollkornmehl",
+        "sourdough-starter": "Aktiver Roggensauerteig",
+        "water": "Lauwarmes Wasser",
+        "salt": "Salz",
+        "molasses": "Melasse (Zuckerrübensirup)",
+        "caraway-seeds": "Kümmel",
+        "coriander": "Gemahlener Koriander"
+      },
+      "steps": [
+        "Den Sauerteig mit Roggenmehl, Vollkornmehl, Wasser, Salz, Melasse, Kümmel und Koriander vermengen.",
+        "8-10 Minuten kneten. Roggenteig bleibt klebriger als Weizenteig — das ist normal.",
+        "In eine gefettete Kastenform geben. Die Oberfläche mit nassen Händen glätten. Zugedeckt 1-2 Stunden gehen lassen.",
+        "Den Ofen auf 220°C vorheizen. Die Oberfläche mit Wasser bestreichen.",
+        "15 Minuten bei 220°C backen, dann auf 180°C reduzieren und weitere 45 Minuten backen.",
+        "10 Minuten in der Form abkühlen lassen, dann auf ein Gitter stürzen. Mindestens 24 Stunden warten vor dem Anschneiden für besten Geschmack."
+      ]
+    },
+    "kornspitz": {
+      "title": "Kornspitz",
+      "description": "Knusprige österreichische Mehrkorn-Weckerl mit spitzen Enden, bedeckt mit einer Mischung aus Körnern — ein gesundes, nussig schmeckendes Gebäck, das in keiner Bäckerei fehlt.",
+      "ingredients": {
+        "wheat-flour": "Weizenmehl",
+        "rye-flour": "Roggenmehl",
+        "whole-wheat-flour": "Vollkornmehl",
+        "fresh-yeast": "Frischer Germ",
+        "water": "Lauwarmes Wasser",
+        "salt": "Salz",
+        "sunflower-seeds": "Sonnenblumenkerne",
+        "sesame-seeds": "Sesamsamen",
+        "flax-seeds": "Leinsamen"
+      },
+      "steps": [
+        "Den Germ in lauwarmem Wasser auflösen. Alle drei Mehlsorten mit Salz vermengen.",
+        "Das Germwasser hinzufügen und 10 Minuten zu einem glatten, elastischen Teig kneten.",
+        "Die Hälfte der Körner einkneten. Zugedeckt 1 Stunde gehen lassen.",
+        "In 8 Stücke teilen. Jedes zu einer rauten-/länglichen Form mit spitzen Enden formen.",
+        "Mit Wasser bestreichen und in den restlichen Körnern wälzen. Auf ein mit Backpapier ausgelegtes Blech legen.",
+        "30 Minuten gehen lassen. Bei 220°C 18-20 Minuten backen bis dunkel und knusprig."
+      ]
+    },
+    "sonnenblumenkernenweckerl": {
+      "title": "Sonnenblumenkernenweckerl",
+      "description": "Weiche österreichische Brötchen, großzügig mit Sonnenblumenkernen bestreut — golden-knusprig außen, fluffig-weiß innen. Ein Frühstücks-Liebling.",
+      "ingredients": {
+        "flour": "Weizenmehl",
+        "fresh-yeast": "Frischer Germ",
+        "water": "Lauwarmes Wasser",
+        "salt": "Salz",
+        "sugar": "Zucker",
+        "sunflower-seeds": "Sonnenblumenkerne",
+        "butter": "Butter (weich)"
+      },
+      "steps": [
+        "Den Germ in lauwarmem Wasser mit Zucker auflösen. Mehl, Salz und weiche Butter vermengen.",
+        "Das Germgemisch hinzufügen und 10 Minuten zu einem glatten Teig kneten.",
+        "Die Hälfte der Sonnenblumenkerne einkneten. Zugedeckt 1 Stunde gehen lassen.",
+        "In 8 Stücke teilen und runde Weckerl formen. Mit Wasser bestreichen und die Oberseite in die restlichen Sonnenblumenkerne drücken.",
+        "Mit der Kernen-Seite nach oben auf ein Backblech setzen. 30 Minuten gehen lassen. Bei 220°C 18-20 Minuten goldbraun backen."
+      ]
+    },
+    "laugenstangerl": {
+      "title": "Laugenstangerl",
+      "description": "Österreichische Laugenstangerl mit glänzender, dunkelbrauner Kruste und fluffigem Inneren — in Lauge getaucht für den typischen Brezelgeschmack, bestreut mit grobem Salz.",
+      "ingredients": {
+        "flour": "Weizenmehl",
+        "fresh-yeast": "Frischer Germ",
+        "water": "Lauwarmes Wasser",
+        "butter": "Butter (weich)",
+        "salt": "Salz",
+        "sugar": "Zucker",
+        "baking-soda": "Natron (für das Laugenbad)",
+        "coarse-salt": "Grobes Salz (zum Bestreuen)"
+      },
+      "steps": [
+        "Den Germ in lauwarmem Wasser mit Zucker auflösen. Mehl und Salz vermengen, Germwasser und weiche Butter hinzufügen.",
+        "10 Minuten zu einem glatten, elastischen Teig kneten. Zugedeckt 1 Stunde gehen lassen.",
+        "In 8 gleiche Stücke teilen. Jedes zu einer Stange von ca. 20 cm Länge rollen.",
+        "Das Laugenbad vorbereiten: Natron in 1 Liter kochendem Wasser auflösen. Etwas abkühlen lassen.",
+        "Jede Stange kurz ins Laugenbad tauchen (ca. 30 Sekunden). Auf ein mit Backpapier ausgelegtes Blech legen.",
+        "Jedes Stangerl oben mit einem scharfen Messer einschneiden. Mit grobem Salz bestreuen.",
+        "Bei 220°C 12-15 Minuten backen bis dunkelbraun und glänzend."
+      ]
+    },
+    "currywurst": {
+      "title": "Currywurst",
+      "description": "Ein beliebter Imbiss-Klassiker — gegrillte Bratwurst in Scheiben, übergossen mit einer pikanten Curry-Ketchup-Sauce, serviert mit knusprigen Pommes frites.",
+      "ingredients": {
+        "bratwurst": "Bratwürstel",
+        "ketchup": "Ketchup",
+        "curry-powder": "Currypulver",
+        "paprika": "Edelsüßes Paprikapulver",
+        "onion": "Zwiebel (fein gewürfelt)",
+        "worcestershire-sauce": "Worcestersauce",
+        "sugar": "Zucker",
+        "oil": "Öl (zum Braten)"
+      },
+      "steps": [
+        "Die Zwiebel fein würfeln. Öl in einem kleinen Topf erhitzen und die Zwiebel glasig dünsten.",
+        "Ketchup, die Hälfte des Currypulvers, Paprika, Worcestersauce und Zucker hinzufügen. Die Currysauce bei niedriger Hitze 10 Minuten köcheln lassen.",
+        "Die Bratwürstel in der Pfanne oder am Grill rundherum goldbraun und durchgebraten braten.",
+        "Die gebratenen Würstel in mundgerechte Scheiben schneiden. In einem Servierteller anrichten.",
+        "Die warme Currysauce großzügig über die Wurstscheiben gießen. Mit dem restlichen Currypulver bestreuen. Mit Pommes frites servieren."
+      ]
+    },
+    "frankfurter": {
+      "title": "Frankfurter Würstel",
+      "description": "Klassische österreichische Brühwürstel, einfach serviert mit süßem Senf, frisch geriebenem Kren und einer Semmel — das typische Würstelstand-Erlebnis.",
+      "ingredients": {
+        "frankfurter-sausages": "Frankfurter Würstel",
+        "sweet-mustard": "Süßer Senf",
+        "horseradish": "Frischer Kren (gerieben)",
+        "semmel": "Semmeln"
+      },
+      "steps": [
+        "Wasser in einem Topf erhitzen, bis es knapp unter dem Siedepunkt ist (ca. 75°C). Frankfurter niemals kochen — sie platzen und verlieren ihren Biss.",
+        "Die Würstel in das heiße Wasser legen und 8-10 Minuten durchziehen lassen.",
+        "Sofort auf einem Teller mit einem großzügigen Klecks süßem Senf, frisch geriebenem Kren und einer frischen Semmel servieren."
+      ]
+    }
+  }
+}

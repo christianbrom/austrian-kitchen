@@ -1,0 +1,1715 @@
+{
+  "meta": {
+    "title": "Austrian Kitchen — Traditional Recipes",
+    "description": "Discover authentic Austrian recipes with step-by-step cooking instructions"
+  },
+  "home": {
+    "hero": "Austrian Kitchen",
+    "subtitle": "Traditional recipes from the heart of Austria",
+    "searchPlaceholder": "Search recipes...",
+    "noResults": "No recipes found in this category.",
+    "cookTime": "min",
+    "prepTime": "Prep",
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    }
+  },
+  "categories": {
+    "all": "All",
+    "main-course": "Main Course",
+    "knodel": "Knödel",
+    "soup": "Soups",
+    "pancakes": "Desserts",
+    "dessert": "Cakes & Sweets",
+    "bakery": "Bread & Bakery",
+    "street-food": "Street Food"
+  },
+  "recipe": {
+    "backToHome": "← Back to recipes",
+    "servings": "Servings",
+    "ingredients": "Ingredients",
+    "shoppingList": "Shopping List",
+    "steps": "Preparation",
+    "step": "Step",
+    "prepTime": "Prep Time",
+    "cookTime": "Cook Time",
+    "totalTime": "Total Time",
+    "minutes": "min",
+    "difficulty": "Difficulty"
+  },
+  "languages": {
+    "en": "English",
+    "de": "Deutsch",
+    "ru": "Русский"
+  },
+  "recipes": {
+    "wiener-schnitzel": {
+      "title": "Wiener Schnitzel",
+      "description": "The quintessential Austrian dish — a perfectly golden, crispy breaded veal cutlet served with lemon and potato salad.",
+      "ingredients": {
+        "veal-cutlets": "Veal cutlets (or pork)",
+        "flour": "All-purpose flour",
+        "eggs": "Eggs",
+        "breadcrumbs": "Fine breadcrumbs",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "lemon": "Lemon (for serving)",
+        "oil": "Vegetable oil or clarified butter (for frying)",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Place the veal cutlets between two sheets of plastic wrap and pound them with a meat mallet until they are about 4mm thin. This ensures even cooking and maximum crispiness.",
+        "Season both sides of each cutlet generously with salt and freshly ground black pepper.",
+        "Set up a breading station with three shallow dishes: flour in the first, beaten eggs in the second, and fine breadcrumbs in the third.",
+        "Coat each cutlet first in flour, shaking off any excess. Then dip it into the beaten eggs, letting the excess drip off. Finally, press it into the breadcrumbs, coating evenly on both sides. Do not press the breadcrumbs too firmly — a loose coating creates the signature wavy, crispy crust.",
+        "Heat a generous amount of oil or clarified butter in a large skillet over medium-high heat. The fat should be about 1-2 cm deep and reach approximately 170°C (340°F).",
+        "Carefully place the breaded cutlets into the hot fat. Gently swirl the pan to let the fat wash over the top of the schnitzel — this is the secret to the crust puffing up beautifully.",
+        "Fry for about 2-3 minutes on each side until golden brown. The crust should be crispy and slightly wavy, not flat against the meat.",
+        "Remove the schnitzel and place it on a wire rack or paper towels to drain briefly. Never cover it — this keeps the crust crispy.",
+        "Serve immediately on a warm plate with a wedge of fresh lemon, garnished with parsley. Traditionally served with potato salad or parsley potatoes."
+      ]
+    },
+    "pariser-schnitzel": {
+      "title": "Pariser Schnitzel",
+      "description": "An elegant Austrian classic — veal dipped only in flour and egg (no breadcrumbs), pan-fried to a delicate golden crust in butter. Simpler yet refined.",
+      "ingredients": {
+        "veal-cutlets": "Veal cutlets",
+        "flour": "All-purpose flour",
+        "eggs": "Eggs",
+        "butter": "Butter",
+        "oil": "Vegetable oil",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "lemon": "Lemon (for serving)"
+      },
+      "steps": [
+        "Pound the veal cutlets between plastic wrap to about 5mm thickness. The Pariser Schnitzel is slightly thicker than the Wiener version since it has no breadcrumb coating.",
+        "Season both sides with salt and freshly ground black pepper.",
+        "Set up two stations: flour in the first dish, well-beaten eggs (seasoned with a pinch of salt) in the second. No breadcrumbs needed — that's what makes this 'Pariser' style.",
+        "Coat each cutlet in flour, shaking off all excess. Then dip into the beaten eggs, ensuring a thorough, even coating.",
+        "Heat butter and a splash of oil in a large skillet over medium heat. The temperature should be moderate — butter burns at high heat, and we want a gentle, golden sear.",
+        "Fry the cutlets for about 2-3 minutes per side until the egg coating sets into a beautiful golden crust. The coating will be thinner and more delicate than a breaded schnitzel.",
+        "Serve immediately on warm plates with lemon wedges. Pairs beautifully with rice, parsley potatoes, or a fresh mixed salad."
+      ]
+    },
+    "cordon-bleu": {
+      "title": "Cordon Bleu",
+      "description": "A luxurious stuffed schnitzel — tender pork filled with ham and melting Emmental cheese, breaded and fried to golden perfection. A true Austrian Wirtshaus classic.",
+      "ingredients": {
+        "pork-cutlets": "Thick pork cutlets (from the loin)",
+        "ham": "Cooked ham slices",
+        "emmental": "Emmental cheese slices",
+        "flour": "All-purpose flour",
+        "eggs": "Eggs",
+        "breadcrumbs": "Fine breadcrumbs",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "oil": "Vegetable oil (for deep frying)",
+        "lemon": "Lemon (for serving)",
+        "toothpicks": "Toothpicks"
+      },
+      "steps": [
+        "Butterfly each pork cutlet: cut horizontally through the center almost all the way through, then open it like a book. Place between plastic wrap and gently pound to an even thickness (about 6mm). Be careful not to create holes.",
+        "Season the inside of each cutlet with salt and pepper. Layer a slice of ham and a slice of Emmental on one half. Fold the other half over to close. Press the edges firmly together.",
+        "Secure the edges with toothpicks to prevent the filling from leaking during frying. Make sure the seal is tight — any gap means cheese will escape into the hot oil.",
+        "Set up the breading station: flour, beaten eggs, and fine breadcrumbs. Coat each stuffed cutlet carefully — first flour, then egg, then breadcrumbs. Handle gently to keep the seal intact.",
+        "For extra security and crunch, double-bread: after the first coating, dip in egg and breadcrumbs a second time.",
+        "Heat oil in a deep skillet or pot to 160-165°C (320-330°F). Slightly lower temperature than a regular schnitzel because the thicker meat needs more time to cook through and the cheese needs time to melt.",
+        "Fry for about 5-6 minutes per side until deep golden brown. The cheese inside should be fully melted and the pork cooked through.",
+        "Drain on a wire rack. Remember to remove the toothpicks before serving!",
+        "Serve immediately with lemon wedges and French fries or potato salad. When cut open, the melted cheese should stretch beautifully."
+      ]
+    },
+    "tafelspitz": {
+      "title": "Tafelspitz",
+      "description": "Emperor Franz Joseph's favorite dish — prime boiled beef simmered for hours in aromatic broth, served with apple-horseradish cream and chive sauce. The pinnacle of Viennese cuisine.",
+      "ingredients": {
+        "beef-tafelspitz": "Beef Tafelspitz cut (tri-tip or rump cap)",
+        "beef-bones": "Beef marrow bones",
+        "onions": "Onions (halved, unpeeled)",
+        "carrots": "Carrots",
+        "celery-root": "Celery root (Sellerieknolle)",
+        "leek": "Leek",
+        "parsnip": "Parsnip",
+        "bay-leaves": "Bay leaves",
+        "peppercorns": "Black peppercorns",
+        "salt": "Salt",
+        "chives": "Fresh chives",
+        "horseradish": "Fresh horseradish root",
+        "apples": "Tart apples (for Apfelkren)",
+        "sour-cream": "Sour cream"
+      },
+      "steps": [
+        "Place the beef bones in a large pot, cover with cold water (about 4 litres) and bring to a boil. Skim off any grey foam that rises — this is crucial for a clear, golden broth.",
+        "Halve the onions (leave skin on for color), and char the cut sides in a dry skillet until dark brown. This traditional trick gives the broth a beautiful amber color and deep flavor.",
+        "Add the charred onions, bay leaves, and peppercorns to the broth. Simmer gently for 30 minutes to build a flavor base before adding the meat.",
+        "Add the beef Tafelspitz piece to the gently simmering broth. Important: the water should never boil vigorously — only gentle bubbles. A rolling boil will make the meat tough and the broth cloudy.",
+        "After 1 hour of gentle simmering, add the carrots, celery root, leek, and parsnip. These root vegetables (Wurzelwerk) are essential for the authentic Austrian flavor.",
+        "Continue simmering for another 1.5-2 hours until the meat is fork-tender but not falling apart. Test by inserting a fork — it should slide in easily but the meat should hold its shape.",
+        "While the meat cooks, prepare the Apfelkren (apple-horseradish): grate the apples and fresh horseradish finely, mix with a tablespoon of lemon juice and a pinch of sugar. The grated apple should balance the horseradish's heat.",
+        "Prepare the Schnittlauchsauce (chive sauce): mix sour cream with finely chopped chives, a splash of the beef broth, salt, and a dash of vinegar.",
+        "Remove the cooked Tafelspitz from the broth, slice it against the grain into thick slices. Arrange on warmed plates.",
+        "Serve the sliced beef with Apfelkren and chive sauce. Ladle some clear broth with root vegetables into bowls alongside. Traditionally accompanied by creamed spinach and rösti or boiled potatoes."
+      ]
+    },
+    "zwiebelrostbraten": {
+      "title": "Zwiebelrostbraten",
+      "description": "A Viennese steakhouse classic — pan-seared beef steak crowned with towering crispy fried onion rings, served with rich pan gravy and roast potatoes.",
+      "ingredients": {
+        "beef-steaks": "Beef steaks (Rostbraten, rib-eye or sirloin)",
+        "onions": "Large onions (for fried onion rings)",
+        "flour": "All-purpose flour",
+        "butter": "Butter",
+        "oil": "Vegetable oil",
+        "beef-stock": "Beef stock",
+        "red-wine": "Red wine (dry)",
+        "mustard": "Dijon mustard",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Remove the steaks from the fridge 30 minutes before cooking. Lightly score the edges to prevent curling. Season generously with salt and pepper on both sides.",
+        "Slice the onions into thin rings. Separate them and toss lightly with flour, shaking off the excess. The flour coating is what creates that irresistible crunch.",
+        "Deep-fry the floured onion rings in batches at 170°C (340°F) oil until deeply golden and crispy — about 3-4 minutes. Drain on paper towels and season with a pinch of salt. These can be prepared slightly ahead.",
+        "Spread a thin layer of mustard on both sides of each steak — this is the classic Viennese trick that adds depth without being detectable as 'mustard flavor'.",
+        "Heat butter and oil in a heavy skillet over high heat until smoking. Sear the steaks for 2-3 minutes per side for medium-rare (adjust to preference). Don't move them while they sear — you need a deep, dark crust.",
+        "Remove steaks and rest on a warm plate. In the same pan, deglaze with red wine, scraping up all the brown bits. Add beef stock and reduce by half to create a rich jus.",
+        "Swirl in a knob of cold butter to finish the sauce — this gives it a glossy, velvety consistency.",
+        "Place each steak on a warm plate, pour the pan jus over and around. Crown with a generous pile of crispy fried onion rings.",
+        "Garnish with fresh parsley. Serve immediately with roasted potatoes (Braterdäpfel) or bread dumplings."
+      ]
+    },
+    "schweinsbraten": {
+      "title": "Schweinsbraten",
+      "description": "The ultimate Austrian Sunday roast — slow-roasted pork shoulder with impossibly crispy crackling, served with bread dumplings and sauerkraut. Pure comfort food.",
+      "ingredients": {
+        "pork-shoulder": "Pork shoulder with skin (Schopfbraten)",
+        "onions": "Onions (quartered)",
+        "garlic": "Garlic cloves",
+        "carrots": "Carrots (chunked)",
+        "caraway": "Caraway seeds",
+        "salt": "Coarse salt",
+        "pepper": "Black pepper",
+        "dark-beer": "Dark beer (Dunkles)",
+        "beef-stock": "Beef stock",
+        "bay-leaves": "Bay leaves"
+      },
+      "steps": [
+        "Score the pork skin in a tight crosshatch pattern (about 1cm apart) using a very sharp knife. Cut through the skin and fat but not into the meat. This is essential for perfect crackling.",
+        "Rub coarse salt generously into the scored skin, pushing it into every cut. Mix garlic (minced), caraway, pepper, and more salt, then rub this spice mixture into the meat side (not the skin).",
+        "Place the pork skin-side down in a cold roasting pan with the quartered onions, carrots, and bay leaves underneath. Pour in the dark beer and half the stock.",
+        "Roast at 180°C (350°F) for about 1 hour with the skin side down. This initial steam-roasting renders the fat and pre-cooks the skin from below.",
+        "Flip the roast so the skin faces up. The skin should now be soft and pliable. Brush it with a little salted water.",
+        "Increase the oven to 220°C (430°F). Roast for another 30-45 minutes, regularly checking the crackling. If it's not puffing up evenly, baste with pan juices in the flat areas.",
+        "When the crackling is golden and crispy all over, reduce heat back to 170°C (340°F) and continue roasting until the internal temperature reaches 75°C (167°F), about another 30-45 minutes.",
+        "Remove the roast and rest for 15 minutes (don't cover — it softens the crackling).",
+        "For the gravy: strain the pan juices, skim off excess fat, add remaining stock, and reduce on the stovetop until richly flavored. Season with salt and pepper.",
+        "Carve the roast in thick slices, making sure each has a strip of golden crackling. Serve with Semmelknödel (bread dumplings) and warm sauerkraut, ladle gravy generously."
+      ]
+    },
+    "backhendl": {
+      "title": "Backhendl",
+      "description": "Austria's answer to fried chicken — bone-in chicken pieces marinated in lemon, breaded in fine crumbs and fried until shatteringly crispy. A Viennese classic since the 18th century.",
+      "ingredients": {
+        "chicken-pieces": "Whole chicken (cut into 8 pieces)",
+        "flour": "All-purpose flour",
+        "eggs": "Eggs",
+        "breadcrumbs": "Fine breadcrumbs",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "paprika": "Sweet paprika",
+        "lemon": "Lemon (for marinating and serving)",
+        "oil": "Vegetable oil (for deep frying)",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Cut the chicken into 8 pieces (2 breasts halved, 2 thighs, 2 drumsticks, 2 wings). Rinse and pat completely dry — this is crucial for the breading to stick.",
+        "Marinate the chicken pieces in lemon juice, salt, pepper, and sweet paprika for at least 30 minutes (up to 2 hours in the fridge). The lemon tenderizes the meat and adds the signature Viennese tang.",
+        "Remove chicken from marinade and pat dry thoroughly. Any moisture prevents the breading from adhering properly.",
+        "Set up the classic Viennese breading station: flour, beaten eggs, and fine breadcrumbs. Season the flour with a pinch of salt and paprika.",
+        "Coat each piece: flour first (shake off excess), then egg (let drip), then breadcrumbs. Apply the breadcrumbs loosely — the same technique as Wiener Schnitzel.",
+        "Heat oil in a deep pot or Dutch oven to 160°C (320°F). The lower temperature (compared to schnitzel) is essential because the chicken pieces are thicker and need more time to cook through without burning the crust.",
+        "Fry the chicken in batches: dark meat (thighs, drumsticks) first for 12-14 minutes, then white meat (breast, wings) for 10-12 minutes. Turn occasionally for even browning.",
+        "The chicken is done when the internal temperature reaches 75°C (167°F) and the crust is deep golden brown. Drain on a wire rack.",
+        "Serve on a warm platter with lemon wedges and fresh parsley. Traditional accompaniment is Viennese potato salad with pumpkin seed oil."
+      ]
+    },
+    "gulasch": {
+      "title": "Wiener Gulasch",
+      "description": "The foundation of Austrian comfort food — tender beef simmered for hours in a rich paprika-onion sauce. The secret: equal parts onions to meat. No vegetables, no potatoes — just pure gulasch.",
+      "ingredients": {
+        "beef-chuck": "Beef chuck (cut into 3cm cubes)",
+        "onions": "Onions (finely diced)",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "tomato-paste": "Tomato paste",
+        "garlic": "Garlic cloves",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "vinegar": "Red wine vinegar",
+        "beef-stock": "Beef stock",
+        "lard": "Lard or vegetable oil",
+        "salt": "Salt"
+      },
+      "steps": [
+        "The golden rule of Wiener Gulasch: use equal weight of onions and beef. Dice the onions finely — they will dissolve into the sauce and create the thick, luscious consistency that defines this dish.",
+        "Heat lard in a heavy Dutch oven. Add the diced onions and cook over medium-low heat for 20-25 minutes, stirring often, until deeply golden brown. Do not rush this step — properly caramelized onions are the soul of the gulasch.",
+        "Remove from heat, add the sweet paprika and stir immediately. Paprika burns easily and turns bitter — off-heat addition protects the flavor. Add a splash of vinegar right away to 'bloom' the paprika and intensify its color.",
+        "Return to heat, add the tomato paste, minced garlic, caraway, and marjoram. Stir for 1 minute until fragrant.",
+        "Add the beef cubes. Unlike most stews, do NOT brown the meat first — in authentic Wiener Gulasch, the meat goes in raw and cooks entirely in the onion-paprika sauce.",
+        "Pour in the beef stock, just enough to cover the meat. Season with salt, bring to a gentle simmer, cover, and cook for 2-2.5 hours. Stir occasionally to prevent sticking.",
+        "The gulasch is ready when the beef is fork-tender and the sauce is thick, rich, and has an almost creamy consistency from the dissolved onions. If too thin, cook uncovered for 15 minutes to reduce.",
+        "Serve in deep bowls with a generous swirl of sauce. Traditional accompaniment is a Semmelknödel (bread dumpling) or Nockerl. A dollop of sour cream is optional but welcome."
+      ]
+    },
+    "saftgulasch": {
+      "title": "Saftgulasch",
+      "description": "The extra-saucy version of Viennese goulash — even MORE onions than usual, creating an intensely rich, velvety sauce. The king of gulasch variations, designed to soak bread dumplings.",
+      "ingredients": {
+        "beef-chuck": "Beef chuck (cut into 3cm cubes)",
+        "onions": "Onions (finely diced — extra amount!)",
+        "paprika-sweet": "Sweet Hungarian paprika (generous)",
+        "tomato-paste": "Tomato paste",
+        "garlic": "Garlic cloves",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "vinegar": "Red wine vinegar",
+        "beef-stock": "Beef stock (less than regular gulasch)",
+        "lard": "Lard or vegetable oil",
+        "salt": "Salt",
+        "lemon-zest": "Lemon zest"
+      },
+      "steps": [
+        "Saftgulasch means 'juice goulash' — the sauce is the star. Use 1:1 or even more onions than meat. Dice them extremely finely so they melt completely into the sauce.",
+        "Heat lard in a heavy Dutch oven. Cook the vast amount of diced onions over medium-low heat for 25-30 minutes until deeply caramelized and almost paste-like. This is the secret to the signature 'Saft' (juice).",
+        "Remove from heat, add the generous amount of sweet paprika and stir immediately. Add vinegar to bloom the paprika. The color should be a deep, vibrant red.",
+        "Add tomato paste, minced garlic, caraway, marjoram, and a pinch of lemon zest. The lemon zest adds a subtle brightness that lifts the heavy sauce.",
+        "Add the beef cubes (raw, no browning) and stir to coat with the onion-paprika mixture.",
+        "Add only enough beef stock to barely cover the meat — less liquid than regular gulasch because the dissolved onions will create plenty of sauce.",
+        "Simmer very gently, covered, for 2.5-3 hours. Stir occasionally. The long slow cook lets the onions dissolve completely into a thick, almost silky sauce.",
+        "The finished Saftgulasch should have notably more sauce than pieces of meat, and the sauce should coat a spoon thickly. Serve with Semmelknödel to soak up every drop."
+      ]
+    },
+    "fiakergulasch": {
+      "title": "Fiakergulasch",
+      "description": "Named after Vienna's horse-carriage drivers — a hearty goulash served with a fried egg, a Frankfurter sausage, a bread dumpling, and a gherkin fan. The most baroque of all gulasch presentations.",
+      "ingredients": {
+        "beef-chuck": "Beef chuck (cut into 3cm cubes)",
+        "onions": "Onions (finely diced)",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "tomato-paste": "Tomato paste",
+        "garlic": "Garlic cloves",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "vinegar": "Red wine vinegar",
+        "beef-stock": "Beef stock",
+        "lard": "Lard or vegetable oil",
+        "eggs": "Eggs (for frying)",
+        "frankfurters": "Frankfurter sausages",
+        "gherkins": "Pickled gherkins (for garnish)",
+        "semmelknoedel": "Semmelknödel (bread dumplings)"
+      },
+      "steps": [
+        "Prepare a classic Wiener Gulasch base: cook the finely diced onions in lard over medium-low heat for 20-25 minutes until deeply caramelized.",
+        "Remove from heat, add sweet paprika, splash of vinegar, and stir. Add tomato paste, garlic, caraway, and marjoram.",
+        "Add the raw beef cubes, pour in beef stock to cover. Season with salt, bring to a gentle simmer, cover, and cook for 2-2.5 hours until the meat is fork-tender and the sauce is thick.",
+        "About 15 minutes before serving, heat the Frankfurter sausages in simmering (not boiling!) water. Boiling water bursts the skins — always keep below 75°C.",
+        "Prepare the bread dumplings (Semmelknödel) according to recipe, or use pre-made ones heated in simmering water.",
+        "Fry the eggs sunny-side up in butter — the yolks should be runny, as they will mix into the gulasch sauce for extra richness.",
+        "Fan the pickled gherkins: make thin lengthwise cuts along each gherkin without cutting through the base, then fan out. This is the classic Viennese garnish.",
+        "Assemble: ladle the gulasch into a deep plate. Place a bread dumpling to one side, the heated Frankfurter alongside.",
+        "Crown the gulasch with the fried egg. Arrange the gherkin fan on the plate.",
+        "The Fiaker (coachman) would eat this with one hand while driving his horse carriage through Vienna — hearty, complete, and deeply satisfying."
+      ]
+    },
+    "rindsgulasch": {
+      "title": "Rindsgulasch",
+      "description": "A heartier version of Viennese goulash using beef shin with bone marrow for extra depth, plus a touch of roasted bell pepper for color and sweetness.",
+      "ingredients": {
+        "beef-shin": "Beef shin (cut into chunks)",
+        "onions": "Onions (finely diced)",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "paprika-hot": "Hot paprika (spicy)",
+        "tomato-paste": "Tomato paste",
+        "garlic": "Garlic cloves",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "vinegar": "Red wine vinegar",
+        "beef-stock": "Beef stock",
+        "lard": "Lard or vegetable oil",
+        "salt": "Salt",
+        "bell-pepper": "Red bell pepper"
+      },
+      "steps": [
+        "Dice onions finely (equal weight to the meat). Roast the bell pepper over an open flame or under the broiler until charred, then peel, deseed, and dice.",
+        "Heat lard in a heavy Dutch oven. Cook onions for 20-25 minutes over medium-low heat until deeply golden. Patience here creates the rich, thick sauce.",
+        "Remove from heat, add sweet paprika and hot paprika, stir immediately. Add vinegar to bloom the spices and prevent burning.",
+        "Add tomato paste, minced garlic, caraway, marjoram, and the diced roasted bell pepper.",
+        "Add the beef shin pieces (raw, no browning). The shin's connective tissue and marrow will melt into the sauce, creating extraordinary body and richness.",
+        "Pour in beef stock to cover. Season with salt. Bring to a gentle simmer, cover, and cook for 2.5-3 hours. Beef shin needs longer than chuck but the result is more flavorful and succulent.",
+        "The gulasch is done when the meat is completely tender and the sauce has an almost gelatinous richness from the dissolved collagen.",
+        "Serve in deep bowls with Semmelknödel or fresh bread. The combination of sweet and hot paprika gives this version a more complex flavor profile than standard Wiener Gulasch."
+      ]
+    },
+    "paprikahendl": {
+      "title": "Paprikahendl",
+      "description": "Austria's beloved chicken paprikash — tender chicken braised in creamy paprika sauce with a generous dollop of sour cream, served over fluffy Nockerl (tiny dumplings).",
+      "ingredients": {
+        "chicken-pieces": "Whole chicken (cut into 8 pieces)",
+        "onions": "Onions (finely diced)",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "tomato-paste": "Tomato paste",
+        "sour-cream": "Sour cream",
+        "flour": "All-purpose flour",
+        "garlic": "Garlic cloves",
+        "bell-pepper": "Green bell pepper",
+        "chicken-stock": "Chicken stock",
+        "butter": "Butter",
+        "salt": "Salt",
+        "pepper": "Black pepper"
+      },
+      "steps": [
+        "Season the chicken pieces generously with salt and pepper. In a heavy Dutch oven, brown the chicken in butter on all sides until golden — about 4 minutes per side. Remove and set aside.",
+        "In the same pot, add the finely diced onions and cook for 8-10 minutes until soft and translucent. Add the minced garlic and diced bell pepper, cook for 2 more minutes.",
+        "Remove from heat, add the sweet paprika and stir immediately — off-heat to prevent burning. Add the tomato paste and stir well.",
+        "Return to heat, nestle the browned chicken pieces back into the pot. Pour in the chicken stock. Bring to a gentle simmer, cover, and cook for 35-40 minutes until the chicken is cooked through.",
+        "Remove the chicken pieces. Mix the sour cream with a tablespoon of flour (this prevents curdling), then stir into the sauce. Simmer for 5 minutes until thickened.",
+        "Return the chicken to the sauce, cook gently for 5 more minutes so the flavors meld. The sauce should be creamy, vibrant red-orange, and coat the chicken beautifully.",
+        "Adjust seasoning — Paprikahendl should be well-seasoned with a pronounced paprika flavor balanced by the cream.",
+        "Serve over Nockerl (tiny egg noodle dumplings), Spätzle, or wide egg noodles. Top with a final dollop of sour cream and a dusting of paprika."
+      ]
+    },
+    "beuschel": {
+      "title": "Beuschel",
+      "description": "A classic Viennese offal dish — a refined, tangy ragout of veal lungs and heart in a creamy sauce with capers and lemon. Old-world Viennese cuisine at its finest.",
+      "ingredients": {
+        "veal-lung": "Veal lung",
+        "veal-heart": "Veal heart",
+        "onions": "Onion",
+        "carrots": "Carrot",
+        "celery": "Celery stalk",
+        "bay-leaves": "Bay leaves",
+        "peppercorns": "Peppercorns",
+        "butter": "Butter",
+        "flour": "All-purpose flour",
+        "vinegar": "White wine vinegar",
+        "capers": "Capers",
+        "anchovy-paste": "Anchovy paste (Sardellenpaste)",
+        "lemon-juice": "Lemon juice",
+        "sour-cream": "Sour cream",
+        "mustard": "Dijon mustard",
+        "sugar": "Sugar",
+        "salt": "Salt"
+      },
+      "steps": [
+        "Place the whole veal lung and heart into a large pot with cold water. Add the onion (halved), carrot, celery, bay leaves, and peppercorns. Bring slowly to a simmer.",
+        "Simmer gently for about 1.5 hours until the lung and heart are fully tender. Never let the water boil hard — the lung becomes rubbery at high temperatures.",
+        "Remove the cooked organs and let cool slightly. Strain and reserve 500ml of the cooking broth. Slice the lung and heart into thin strips (about 5mm wide).",
+        "Make the Einmach (roux): melt butter in a saucepan, stir in flour, and cook for 2-3 minutes until blond. This is a classic Viennese roux — the foundation of the sauce.",
+        "Gradually whisk in the reserved broth until smooth. Add vinegar, capers, anchovy paste, lemon juice, and mustard. The combination of tangy, briny, and savory flavors is what makes Beuschel unique.",
+        "Simmer the sauce for 10 minutes. Add the sour cream and a pinch of sugar to balance the acidity. Adjust salt.",
+        "Add the sliced lung and heart strips to the sauce. Simmer together for 10-15 minutes so the meat absorbs the flavors.",
+        "The sauce should be creamy, tangy, and complex. Taste and adjust the balance of vinegar, lemon, and sugar — there should be a pleasant sourness.",
+        "Serve with Semmelknödel (bread dumplings), which are essential for soaking up the rich sauce. Garnish with fresh parsley."
+      ]
+    },
+    "geselchtes-mit-kraut": {
+      "title": "Geselchtes mit Kraut",
+      "description": "Smoked pork with sauerkraut — a rustic Austrian farmhouse classic. The smoky, salty meat paired with tangy-sweet sauerkraut is pure Alpine comfort food.",
+      "ingredients": {
+        "smoked-pork": "Smoked pork (Geselchtes)",
+        "sauerkraut": "Sauerkraut",
+        "onions": "Onion (diced)",
+        "lard": "Lard or goose fat",
+        "caraway": "Caraway seeds",
+        "juniper-berries": "Juniper berries",
+        "bay-leaf": "Bay leaf",
+        "potatoes": "Potatoes (for boiling)",
+        "water": "Water or light beer",
+        "salt": "Salt",
+        "pepper": "Black pepper"
+      },
+      "steps": [
+        "Place the smoked pork in a pot, cover with cold water, and bring to a gentle simmer. Cook for about 60-90 minutes (depending on thickness) until the meat is tender but still holds its shape.",
+        "Meanwhile, prepare the sauerkraut: heat the lard in a separate pot. Sauté the diced onion until translucent. Add the sauerkraut (drained but not pressed dry), caraway seeds, juniper berries, and bay leaf.",
+        "Add water or light beer to the sauerkraut until it's just covered. Simmer gently for 45-60 minutes, stirring occasionally. The kraut should be tender and the liquid mostly absorbed.",
+        "Peel potatoes and boil in salted water until fork-tender. Some regions serve this with bread dumplings instead.",
+        "Remove the smoked pork from its cooking liquid and slice it thickly (about 1cm slices). The meat should be moist and smoky-pink inside.",
+        "Check the sauerkraut seasoning — it should have a balanced tang. If too sour, add a pinch of sugar. If too bland, add a splash of vinegar.",
+        "Arrange the sliced Geselchtes on top of the sauerkraut on warm plates, with boiled potatoes alongside. Optionally add a dollop of sharp mustard."
+      ]
+    },
+    "blunzngroestl": {
+      "title": "Blunzngröstl",
+      "description": "A hearty Austrian pan-fry of blood sausage, crispy potatoes, and onions, crowned with a fried egg. Peasant food elevated to a beloved Wirtshaus classic.",
+      "ingredients": {
+        "blood-sausage": "Blood sausage (Blunzn)",
+        "potatoes": "Waxy potatoes (pre-boiled)",
+        "onions": "Onions (sliced)",
+        "lard": "Lard or clarified butter",
+        "eggs": "Eggs (for frying on top)",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Boil the potatoes in their skin until just tender (not falling apart) — ideally the day before. Cold potatoes fry better and get crispier. Peel and slice them about 5mm thick.",
+        "Peel the blood sausage and slice into 1cm thick rounds. Handle gently — blood sausage is soft and breaks apart easily.",
+        "Heat lard generously in a large cast iron skillet or heavy pan. Add the sliced onions and cook until golden, about 8 minutes.",
+        "Add the potato slices in a single layer. Let them fry without moving for 3-4 minutes to develop a golden crust, then flip. Season with caraway and marjoram.",
+        "Once the potatoes are golden and crispy, gently fold in the blood sausage slices. Cook for 3-4 minutes until the sausage is heated through. Handle carefully to keep the slices mostly intact.",
+        "Push the Gröstl to one side, crack the eggs into the empty space. Fry sunny-side up until the whites set but yolks remain runny. Season with salt and pepper.",
+        "Serve the Gröstl directly from the skillet or plated with the fried egg on top, generous chives scattered over. The runny egg yolk mixes into the dish as you eat it."
+      ]
+    },
+    "tiroler-groestl": {
+      "title": "Tiroler Gröstl",
+      "description": "Tyrol's famous pan-fried hash — yesterday's boiled beef and potatoes reborn into a crispy, golden skillet dish topped with a sunny-side-up egg. The ultimate leftover transformation.",
+      "ingredients": {
+        "boiled-beef": "Leftover boiled beef (or roast beef)",
+        "potatoes": "Waxy potatoes (pre-boiled)",
+        "onions": "Onions (sliced into rings)",
+        "butter": "Butter (or clarified butter)",
+        "eggs": "Eggs (for frying on top)",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "chives": "Fresh chives",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Slice the pre-boiled potatoes (ideally cooked the day before) into 5mm rounds. Slice the leftover beef into thin strips or small cubes.",
+        "Heat butter generously in a large cast iron skillet. Add the sliced onions and fry until deep golden, about 8-10 minutes. In Tyrol, they say the onions should 'sing' in the pan.",
+        "Add the potato slices in a single layer. Resist the urge to stir — let them develop a deep golden crust on the bottom, about 4-5 minutes. Season with caraway and marjoram.",
+        "Flip the potatoes, then add the beef strips. Continue cooking for another 4-5 minutes until the beef is heated through and the potatoes are crispy on both sides.",
+        "Create wells in the mixture and crack eggs into them. Cover briefly (1-2 minutes) to let the whites set while keeping the yolks runny.",
+        "Season everything with salt, pepper, and a generous shower of chopped chives and parsley.",
+        "Serve directly from the skillet at the table — this is mountain food, meant to be enjoyed communally. In Tyrol, a green salad with pumpkin seed oil dressing is the traditional accompaniment."
+      ]
+    },
+    "jaegerpfanne": {
+      "title": "Jägerpfanne",
+      "description": "The hunter's pan — tender pork medallions with wild mushrooms, bell peppers, and a rich cream sauce. A rustic Austrian dish from the Alpine forest tradition.",
+      "ingredients": {
+        "pork-medallions": "Pork tenderloin (cut into medallions)",
+        "mushrooms": "Mixed mushrooms (button, chanterelle)",
+        "onions": "Onions (diced)",
+        "bell-pepper": "Bell peppers (red and green, sliced)",
+        "cream": "Heavy cream",
+        "beef-stock": "Beef stock",
+        "butter": "Butter",
+        "flour": "All-purpose flour",
+        "paprika-sweet": "Sweet paprika",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Slice the pork tenderloin into 2cm thick medallions. Season generously with salt, pepper, and sweet paprika. Clean and slice the mushrooms; slice the bell peppers.",
+        "Heat butter in a large heavy skillet. Sear the pork medallions over high heat for 2 minutes per side until golden brown. Remove and set aside — they'll finish cooking in the sauce.",
+        "In the same skillet, add the diced onions and cook until translucent, about 3 minutes. Add the mushrooms and cook until they release their liquid and start to brown, about 5-6 minutes.",
+        "Add the bell pepper strips and cook for 2-3 minutes until slightly softened but still colorful.",
+        "Dust the vegetables with flour, stir for 1 minute, then pour in the beef stock. Scrape up any brown bits from the pan — this deglazing step captures maximum flavor.",
+        "Add the cream and bring to a gentle simmer. The sauce should thicken to a velvety, coating consistency. Season with salt, pepper, and paprika.",
+        "Return the pork medallions to the pan, nestle them into the sauce. Simmer gently for 5-7 minutes to finish cooking the pork and meld all the flavors.",
+        "Garnish with plenty of fresh parsley. Serve with Semmelknödel (bread dumplings), Nockerl, or fresh crusty bread to soak up the rich hunter's sauce."
+      ]
+    },
+    "knoedel-mit-ei": {
+      "title": "Knödel mit Ei",
+      "description": "The ultimate Austrian comfort meal — leftover bread dumplings sliced and pan-fried with fluffy scrambled eggs and fresh chives. Simple, satisfying, and deeply loved across Austria.",
+      "ingredients": {
+        "bread-dumplings": "Bread dumplings (leftover, day-old)",
+        "eggs": "Eggs",
+        "butter": "Butter",
+        "milk": "Milk",
+        "chives": "Fresh chives",
+        "salt": "Salt",
+        "pepper": "Black pepper"
+      },
+      "steps": [
+        "Use day-old Semmelknödel (bread dumplings) — they hold their shape much better when sliced and fried. If using fresh ones, let them cool completely first. Slice them into rounds about 1cm thick.",
+        "Heat butter generously in a large non-stick skillet over medium heat. When it foams, add the dumpling slices in a single layer. Fry for 3-4 minutes per side until golden and slightly crispy on the edges.",
+        "While the dumplings fry, whisk the eggs vigorously with a splash of milk, salt, and pepper. The milk makes the scramble extra fluffy.",
+        "Push the fried dumpling slices to one side of the pan, or remove temporarily. Pour in the egg mixture and let it set on the bottom for about 30 seconds before gently stirring.",
+        "Mix the scrambled eggs with the dumpling slices, folding gently. The eggs should be softly set — creamy, not dry.",
+        "Remove from heat while the eggs are still slightly underdone — residual heat will finish them perfectly.",
+        "Serve immediately on warm plates, generously showered with freshly cut chives. A green salad with pumpkin seed oil dressing is the classic side dish."
+      ]
+    },
+    "hascheehoernchen": {
+      "title": "Hascheehörnchen",
+      "description": "Austria's beloved hash-horn pasta — elbow pasta tossed with savory seasoned ground beef, sweet caramelized onions, and a generous dusting of paprika. A weeknight classic in every Austrian home.",
+      "ingredients": {
+        "elbow-pasta": "Hörnchen (elbow pasta)",
+        "ground-beef": "Ground beef (or mixed beef/pork)",
+        "onions": "Onions (finely diced)",
+        "garlic": "Garlic cloves",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "tomato-paste": "Tomato paste",
+        "marjoram": "Dried marjoram",
+        "oil": "Vegetable oil",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Cook the elbow pasta in a large pot of salted boiling water until al dente — about 1 minute less than package directions. Drain, reserving a cup of pasta water.",
+        "Heat oil in a large skillet. Add the finely diced onions and cook over medium heat for 8-10 minutes until deeply golden and sweet. This caramelization is crucial.",
+        "Add the ground beef, breaking it into fine crumbles with a wooden spoon. Cook until browned, about 8 minutes. Season with salt and pepper.",
+        "Add the garlic and cook for 1 minute. Stir in the tomato paste and cook for another minute.",
+        "Remove from heat, add the paprika and marjoram, stir immediately. Adding paprika off-heat prevents it from burning — the same technique used for gulasch.",
+        "Add the drained pasta to the skillet and toss everything together over medium heat for 2-3 minutes. Add splashes of reserved pasta water if the mixture seems dry.",
+        "Taste and adjust seasoning — Hascheehörnchen should be robustly seasoned with a pronounced paprika flavor. Serve garnished with fresh parsley."
+      ]
+    },
+    "reisfleisch": {
+      "title": "Reisfleisch",
+      "description": "Austrian-style rice with meat — a hearty, paprika-red one-pot dish where tender pork simmers with rice in a flavorful broth. Think risotto meets gulasch — pure Austrian comfort food.",
+      "ingredients": {
+        "pork-shoulder": "Pork shoulder (cut into 2cm cubes)",
+        "rice": "Long-grain rice",
+        "onions": "Onions (finely diced)",
+        "garlic": "Garlic cloves",
+        "bell-pepper": "Red bell pepper (diced)",
+        "tomato-paste": "Tomato paste",
+        "paprika-sweet": "Sweet Hungarian paprika",
+        "beef-stock": "Beef stock (warm)",
+        "oil": "Vegetable oil",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Cut the pork into small 2cm cubes. Season generously with salt, pepper, and 1 tablespoon of paprika. Heat oil in a heavy Dutch oven over high heat.",
+        "Brown the pork cubes on all sides in batches — don't overcrowd or they'll steam. Remove and set aside.",
+        "In the same pot, sauté the onions until soft and golden, about 5-6 minutes. Add the garlic and diced bell pepper, cook for 2 more minutes.",
+        "Remove from heat, add the remaining paprika and tomato paste, stir well. Return to medium heat and cook for 1 minute until fragrant.",
+        "Return the pork to the pot. Add the unwashed rice and stir to coat everything in the paprika mixture.",
+        "Pour in the warm beef stock, stir once, bring to a simmer. Cover tightly and cook on low heat for 20-25 minutes until the rice is tender.",
+        "Fluff with a fork, taste for seasoning. The consistency should be moist and creamy. Serve garnished with fresh parsley."
+      ]
+    },
+    "faschierte-laibchen": {
+      "title": "Faschierte Laibchen",
+      "description": "Austrian meat patties — a blend of beef and pork mixed with softened bread roll, formed into thick patties and pan-fried to a crispy golden crust. Every Austrian grandma's recipe.",
+      "ingredients": {
+        "ground-beef-pork": "Mixed ground beef and pork",
+        "bread-roll": "Day-old bread roll (Semmel)",
+        "eggs": "Egg",
+        "onions": "Onion (finely diced)",
+        "garlic": "Garlic clove",
+        "mustard": "Austrian mustard (medium-hot)",
+        "marjoram": "Dried marjoram",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "oil": "Vegetable oil",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Soak the day-old bread roll in warm water or milk for 10 minutes until completely soft. Squeeze out all excess liquid thoroughly — this soaked bread is the secret to juicy, tender Laibchen.",
+        "Finely dice the onion and sauté in a little oil until translucent and slightly golden, about 5 minutes. Let cool completely.",
+        "In a large bowl, combine the ground meat, squeezed bread roll (crumbled), cooled onions, egg, minced garlic, mustard, marjoram, salt, and pepper. Mix thoroughly with your hands.",
+        "Let the mixture rest in the refrigerator for 15-20 minutes. Cold meat is easier to shape and holds together better.",
+        "With wet hands, form 8 thick, flat patties about 2cm thick. Make a slight indentation in the center to prevent puffing up while cooking.",
+        "Heat oil in a large skillet over medium-high heat. Fry for 4-5 minutes per side until a deep golden-brown crust forms.",
+        "Reduce heat to medium-low and continue cooking for another 3-4 minutes to ensure they're cooked through.",
+        "Serve immediately with creamy mashed potatoes, lingonberry jam, and a green salad."
+      ]
+    },
+    "grenadiermarsch": {
+      "title": "Grenadiermarsch",
+      "description": "Named after Austrian military grenadiers — a thrifty, filling dish of pasta and potatoes fried with caramelized onions and smoky bacon. Soldier's food that conquered civilian hearts.",
+      "ingredients": {
+        "potatoes": "Waxy potatoes (peeled, cubed)",
+        "short-pasta": "Short pasta (Fleckerl or penne)",
+        "onions": "Onions (sliced into rings)",
+        "smoked-bacon": "Smoked bacon (Speck), diced",
+        "butter": "Butter",
+        "caraway": "Caraway seeds",
+        "marjoram": "Dried marjoram",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Cook the potatoes in salted water until just tender, about 15 minutes. Separately, cook the pasta until al dente. Drain both and let steam dry.",
+        "Render the diced Speck in a large heavy pan over medium heat until crispy, about 5-6 minutes. Remove the crispy bits and reserve.",
+        "Add butter to the bacon fat. Fry the sliced onions until deeply golden and caramelized — 8-10 minutes. The sweet onions are essential.",
+        "Add the cooked potato cubes in a single layer. Let them develop a golden crust without stirring for 3-4 minutes. Season with caraway and marjoram.",
+        "Add the cooked pasta, toss everything together. Continue cooking, occasionally pressing to create more crispy bits.",
+        "Return the crispy Speck bits. Season with salt and pepper.",
+        "Serve hot, garnished with fresh parsley. A green salad with vinegar and oil is the classic accompaniment."
+      ]
+    },
+    "eiernockerl": {
+      "title": "Eiernockerl",
+      "description": "A beloved Austrian pub classic — soft, buttery Nockerl (small dumplings) tossed with golden scrambled eggs and heaped with fresh chives. Simple, fast, and irresistibly comforting.",
+      "ingredients": {
+        "flour": "All-purpose flour",
+        "eggs": "Eggs",
+        "milk": "Milk",
+        "butter": "Butter",
+        "salt": "Salt",
+        "nutmeg": "Freshly grated nutmeg",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Make the Nockerl batter: whisk together flour, 1 egg, milk, a pinch of salt, and a grating of nutmeg until smooth and thick. Let it rest for 10 minutes.",
+        "Bring a large pot of salted water to a rolling boil. Using a Nockerl slicer or a small cutting board and knife, cut small pieces of batter directly into the boiling water.",
+        "The Nockerl will sink then float to the surface when done — about 3-4 minutes. Remove with a slotted spoon and drain well.",
+        "Melt generous butter in a large skillet until it foams. Add the drained Nockerl and toss, letting some edges turn slightly golden and crispy.",
+        "Beat the remaining eggs with a splash of milk, salt, and pepper. Pour over the buttered Nockerl.",
+        "Gently fold the eggs into the Nockerl, keeping the scramble soft and creamy. Remove from heat while still slightly moist.",
+        "Pile onto warm plates and shower generously with freshly cut chives. Serve with a simple green salad."
+      ]
+    },
+    "krautfleckerl": {
+      "title": "Krautfleckerl",
+      "description": "Square pasta tossed with slowly caramelized, sweet-savory cabbage — one of Austria's iconic vegetarian comfort foods. The magic is in the patience: slow cooking transforms humble cabbage into something extraordinary.",
+      "ingredients": {
+        "fleckerl-pasta": "Fleckerl (square pasta)",
+        "white-cabbage": "White cabbage (finely shredded)",
+        "onions": "Onion (diced)",
+        "sugar": "Sugar (for caramelization)",
+        "lard": "Lard or butter",
+        "caraway": "Caraway seeds",
+        "vinegar": "White wine vinegar",
+        "salt": "Salt",
+        "pepper": "Black pepper"
+      },
+      "steps": [
+        "Core the cabbage, remove the tough outer leaves, and shred very finely — the thinner the shreds, the better they caramelize.",
+        "Melt the lard in a large, wide pan. Add the sugar and let it melt and start to turn golden amber — this is the caramelization base that gives the cabbage its distinctive sweet-savory flavor.",
+        "Add the shredded cabbage — it will seem enormous but shrinks dramatically. Toss well, season with salt, pepper, and caraway seeds.",
+        "Cook slowly over medium-low heat for 30-40 minutes, stirring occasionally. The cabbage will gradually soften, shrink, turn golden-brown, and develop deep, sweet flavors. Patience is everything.",
+        "Meanwhile, cook the Fleckerl pasta in salted boiling water until al dente. Drain, reserving some pasta water.",
+        "When the cabbage is deeply caramelized and golden, add a splash of vinegar to brighten the flavors.",
+        "Toss the cooked pasta with the caramelized cabbage. Add a splash of pasta water if needed. Serve hot — Krautfleckerl is even better the next day."
+      ]
+    },
+    "schinkenfleckerl": {
+      "title": "Schinkenfleckerl",
+      "description": "Austria's ultimate comfort casserole — square pasta baked with diced ham in a rich egg-cream-sour cream custard until golden and bubbly on top. The kind of dish that makes you feel at home anywhere.",
+      "ingredients": {
+        "fleckerl-pasta": "Fleckerl (square pasta)",
+        "ham": "Cooked ham (diced into small cubes)",
+        "eggs": "Eggs (separated)",
+        "sour-cream": "Sour cream",
+        "cream": "Heavy cream",
+        "butter": "Butter",
+        "cheese": "Grated Emmentaler or Gruyère",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "nutmeg": "Freshly grated nutmeg",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Cook the Fleckerl pasta in salted boiling water until just barely al dente — they'll continue cooking in the oven. Drain well and toss with butter.",
+        "Preheat your oven to 180°C (350°F). Butter a large baking dish generously.",
+        "Separate the eggs. Mix the yolks with sour cream, heavy cream, salt, pepper, and nutmeg. This custard base makes Schinkenfleckerl luxuriously creamy.",
+        "Beat the egg whites until stiff peaks form. This is the Austrian secret — folding in beaten whites makes the casserole puff up beautifully.",
+        "Fold the egg whites gently into the yolk-cream mixture. Don't overmix — keep as much air as possible.",
+        "Combine the pasta, diced ham, and the egg-cream mixture in a large bowl. Mix gently. Pour into the buttered baking dish.",
+        "Sprinkle grated cheese evenly over the top. Dot with small pieces of butter.",
+        "Bake for 25-30 minutes until the top is golden brown and puffed up. Let rest for 5 minutes before cutting. Serve with a green salad."
+      ]
+    },
+    "semmelknoedel": {
+      "title": "Semmelknödel",
+      "description": "The foundation of Austrian cuisine — soft, fluffy bread dumplings made from day-old rolls soaked in milk and eggs. The perfect companion to roasts, gulasch, and mushroom sauces.",
+      "ingredients": {
+        "bread-rolls": "Day-old bread rolls (Semmeln), cubed",
+        "milk": "Warm milk",
+        "eggs": "Eggs",
+        "onions": "Onion (finely diced)",
+        "butter": "Butter",
+        "flour": "All-purpose flour",
+        "parsley": "Fresh parsley (chopped)",
+        "salt": "Salt",
+        "nutmeg": "Freshly grated nutmeg"
+      },
+      "steps": [
+        "Cut the day-old bread rolls into small cubes (about 1cm). The bread must be stale — fresh bread makes soggy, heavy dumplings. Spread the cubes in a large bowl.",
+        "Warm the milk gently (not hot, just warm). Pour over the bread cubes and mix gently. Let it soak for 15-20 minutes. The bread should be moist but not swimming in liquid.",
+        "Meanwhile, finely dice the onion and sauté in butter until translucent and lightly golden, about 5 minutes. Let cool slightly.",
+        "Beat the eggs and add to the soaked bread along with the cooled onions, chopped parsley, flour, salt, and a grating of nutmeg. Mix everything gently with your hands — don't overmix or the dumplings will be dense.",
+        "Let the mixture rest for 10 minutes. It should hold together when you squeeze a handful. If too wet, add a little more flour; if too dry, add a splash of milk.",
+        "With wet hands, form the mixture into tennis-ball-sized dumplings. Don't pack them too tightly — loose shaping gives lighter results.",
+        "Bring a large pot of salted water to a gentle simmer (not a rolling boil — that would tear them apart). Carefully lower the dumplings in. Cook for 15-20 minutes uncovered. They'll float when done.",
+        "Remove with a slotted spoon and serve immediately. Classic pairings: Schweinsbraten with gravy, mushroom cream sauce, or simply with brown butter and crispy breadcrumbs."
+      ]
+    },
+    "serviettenknoedel": {
+      "title": "Serviettenknödel",
+      "description": "A bread dumpling loaf wrapped in a cloth napkin and simmered — then sliced into thick rounds. Elegant, easier than individual Knödel, and perfect for soaking up rich sauces.",
+      "ingredients": {
+        "bread-rolls": "Day-old bread rolls (Semmeln), cubed",
+        "milk": "Warm milk",
+        "eggs": "Eggs (separated)",
+        "onions": "Onion (finely diced)",
+        "butter": "Butter",
+        "flour": "All-purpose flour",
+        "parsley": "Fresh parsley (chopped)",
+        "salt": "Salt",
+        "nutmeg": "Freshly grated nutmeg"
+      },
+      "steps": [
+        "Cut day-old bread rolls into small cubes. Warm the milk and pour over the bread. Let it soak for 15-20 minutes until the bread is soft but not mushy.",
+        "Sauté finely diced onion in butter until translucent. Let cool slightly.",
+        "Separate the eggs. Beat the yolks with salt and nutmeg, then mix into the soaked bread along with the cooled onions, parsley, and flour.",
+        "Beat the egg whites until stiff peaks form. Gently fold them into the bread mixture — this is what makes Serviettenknödel light and airy compared to regular Semmelknödel.",
+        "Lay out a large, clean cotton cloth (traditionally a napkin — hence the name). Dampen it and dust with flour. Shape the mixture into a long log (about 7cm diameter) and place on the cloth.",
+        "Roll up the cloth tightly around the dumpling log and tie both ends securely with kitchen string, like a large sausage. It will expand during cooking.",
+        "Lower into a large pot of gently simmering salted water. Cook for 25-30 minutes, turning once halfway through. The water should just barely simmer, never boil.",
+        "Remove, unwrap, and let rest for 5 minutes. Slice into 2cm-thick rounds with a sharp knife or — the traditional way — with thread. Serve with mushroom sauce, roast gravy, or creamed spinach."
+      ]
+    },
+    "kartoffelknoedel": {
+      "title": "Kartoffelknödel",
+      "description": "Silky-smooth potato dumplings — boiled potatoes worked into a delicate dough and formed into perfect spheres. Lighter than they look, these are the dreamy side dish for roasts and gravy.",
+      "ingredients": {
+        "potatoes": "Floury potatoes (Mehlige Erdäpfel)",
+        "potato-starch": "Potato starch",
+        "eggs": "Egg yolk",
+        "flour": "All-purpose flour",
+        "butter": "Butter (for topping)",
+        "breadcrumbs": "Fine breadcrumbs (for topping)",
+        "salt": "Salt",
+        "nutmeg": "Freshly grated nutmeg"
+      },
+      "steps": [
+        "Cook the potatoes whole, unpeeled, in salted water until completely tender, about 25-30 minutes. The key is using floury (starchy) potatoes — waxy ones won't give you the right texture.",
+        "Drain and peel while still hot (use a kitchen towel to hold them). Pass through a potato ricer or fine food mill immediately while steaming hot. Never use a blender or food processor — that creates glue.",
+        "Spread the riced potatoes on a clean surface and let them steam dry for a few minutes. This removes excess moisture and prevents gummy dumplings.",
+        "Add the egg yolk, potato starch, flour, salt, and nutmeg to the cooled potatoes. Knead gently into a smooth dough — handle it as little as possible. The dough should be soft but not sticky.",
+        "Divide the dough into portions and roll each into a ball about the size of a tennis ball with floured hands. If you want a surprise center, push a crouton cube into the middle.",
+        "Bring a large pot of salted water to a gentle simmer. Carefully slide in the Knödel. They'll sink first, then float to the surface after about 15-18 minutes — that's when they're done.",
+        "While the Knödel cook, melt butter in a small pan and toast the breadcrumbs until golden and fragrant.",
+        "Remove the Knödel with a slotted spoon, arrange on a warm plate, and drizzle generously with the toasted breadcrumb butter. Serve alongside roast pork, beef, or with a rich mushroom sauce."
+      ]
+    },
+    "speckknoedel": {
+      "title": "Speckknödel",
+      "description": "Tyrolean bacon bread dumplings — the classic Semmelknödel enriched with smoky Speck and served swimming in clear golden beef broth. Mountain food at its finest — hearty, warming, and deeply satisfying.",
+      "ingredients": {
+        "bread-rolls": "Day-old bread rolls (Semmeln), cubed",
+        "smoked-bacon": "Smoked Tyrolean Speck (cubed)",
+        "milk": "Warm milk",
+        "eggs": "Eggs",
+        "onions": "Onion (finely diced)",
+        "butter": "Butter",
+        "flour": "All-purpose flour",
+        "chives": "Fresh chives",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "beef-stock": "Clear beef broth (for serving)"
+      },
+      "steps": [
+        "Cut bread rolls into small cubes and place in a large bowl. Warm the milk and pour over. Let soak for 15-20 minutes.",
+        "Cut the Speck into small cubes (about 5mm). In a skillet, render the Speck over medium heat until the edges are lightly crispy and the fat is released, about 5 minutes. Don't overcook — you want them chewy, not crunchy.",
+        "In the same pan with the Speck fat, sauté the diced onion until translucent, about 3 minutes. Let the Speck and onion mixture cool slightly.",
+        "Beat the eggs and add to the soaked bread along with the Speck-onion mixture, flour, chopped chives, salt, and pepper. Mix gently with your hands until everything is combined. Don't overwork.",
+        "Let the mixture rest for 10 minutes. Test by forming a small dumpling — if it falls apart, add a touch more flour. If it's too firm, add a splash of milk.",
+        "With wet hands, form tennis-ball-sized dumplings. The Speck pieces should be visible throughout — that's the beauty of Speckknödel.",
+        "Lower into gently simmering salted water. Cook for 18-20 minutes. They should float near the surface when done.",
+        "Meanwhile, heat the clear beef broth. Serve the Speckknödel in deep bowls, ladle the hot broth over them, and garnish with freshly cut chives. In Tyrol, this is served as a main course."
+      ]
+    },
+    "frittatensuppe": {
+      "title": "Frittatensuppe",
+      "description": "Austria's most beloved soup — thin, savory herb crêpes cut into noodle-like ribbons and served in crystal-clear beef broth. The ultimate Austrian starter, found on every traditional menu.",
+      "ingredients": {
+        "eggs": "Eggs",
+        "flour": "All-purpose flour",
+        "milk": "Milk",
+        "butter": "Butter (for frying)",
+        "salt": "Salt",
+        "chives": "Fresh chives",
+        "beef-stock": "Clear beef broth"
+      },
+      "steps": [
+        "Make the crêpe batter: whisk together eggs, flour, milk, and a pinch of salt until completely smooth — no lumps. The batter should be thin, like heavy cream. Let it rest for 10 minutes.",
+        "Heat a thin layer of butter in a non-stick pan over medium heat. Pour in just enough batter to coat the bottom thinly. Swirl the pan to spread evenly.",
+        "Cook until the underside is golden, about 1-2 minutes. Flip and cook the other side for another minute. The Fritatten should be thin and lightly golden, not thick like American pancakes.",
+        "Stack the finished crêpes on a plate and let them cool slightly. You should get 4-5 thin crêpes from this batter.",
+        "Roll each crêpe up tightly into a cigar shape, then slice crosswise into thin strips (about 5mm wide). These are your Fritatten — the 'noodles' of the soup.",
+        "Heat the clear beef broth until it's steaming hot. The quality of the broth is everything — use the best homemade or store-bought clear broth you can find.",
+        "Divide the Fritatten strips among warm bowls, ladle the hot broth over them, and garnish generously with freshly cut chives. Serve immediately."
+      ]
+    },
+    "leberknoedelsuppe": {
+      "title": "Leberknödelsuppe",
+      "description": "Hearty liver dumplings swimming in fragrant beef broth — a rustic Austrian classic that transforms humble liver into something deeply savory and comforting. A true Wirtshausküche staple.",
+      "ingredients": {
+        "beef-liver": "Beef liver (finely ground or minced)",
+        "bread-rolls": "Day-old bread rolls (Semmeln)",
+        "eggs": "Egg",
+        "onions": "Onion (finely diced)",
+        "butter": "Butter",
+        "marjoram": "Dried marjoram",
+        "parsley": "Fresh parsley (chopped)",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "beef-stock": "Clear beef broth"
+      },
+      "steps": [
+        "Remove any sinew from the liver and grind it finely using a meat grinder or food processor. It should be a smooth paste — any chunks will make the dumplings unpleasant.",
+        "Cut the stale bread rolls into small cubes. They should be genuinely stale — this is crucial for the right texture and binding.",
+        "Finely dice the onion and sauté in butter until translucent and lightly golden, about 5 minutes. Let cool.",
+        "In a large bowl, combine the ground liver, bread cubes, cooled onions, egg, marjoram, chopped parsley, salt, and pepper. Mix thoroughly with your hands until everything is well combined.",
+        "Let the mixture rest for 15-20 minutes so the bread absorbs the moisture. It should be firm enough to hold its shape but still moist.",
+        "With wet hands, form the mixture into dumplings about the size of a tennis ball. Don't pack them too tightly.",
+        "Bring a large pot of salted water to a gentle simmer. Carefully lower the dumplings in and cook for 15-18 minutes. They'll firm up and float when done.",
+        "Heat the clear beef broth. Place one or two Leberknödel in each bowl, ladle the hot broth over, and garnish with chives and parsley."
+      ]
+    },
+    "griessnockerlsuppe": {
+      "title": "Grießnockerlsuppe",
+      "description": "Fluffy semolina dumplings floating in golden beef broth — impossibly light and buttery. This elegant soup is the essence of Austrian Suppenküche, simple yet deeply satisfying.",
+      "ingredients": {
+        "butter": "Soft butter (room temperature)",
+        "semolina": "Fine semolina (Grieß)",
+        "eggs": "Egg",
+        "salt": "Salt",
+        "nutmeg": "Freshly grated nutmeg",
+        "chives": "Fresh chives",
+        "beef-stock": "Clear beef broth"
+      },
+      "steps": [
+        "Beat the soft butter until light and fluffy — this is the secret to airy Nockerl. The butter must be at room temperature, not melted.",
+        "Beat in the egg thoroughly until fully incorporated. Add salt and a grating of nutmeg.",
+        "Gradually stir in the semolina until you have a smooth, thick batter. Don't overmix — just fold it in gently.",
+        "Cover and refrigerate for at least 30 minutes (up to 2 hours). This resting time is essential — it allows the semolina to swell and the dumplings to hold their shape.",
+        "Bring the beef broth to a gentle simmer. With two teaspoons dipped in hot broth, form small oval Nockerl and slide them directly into the simmering broth.",
+        "Cook gently for 10-12 minutes with the lid slightly ajar. They'll puff up and nearly double in size. Never let the broth boil — that would make them fall apart.",
+        "Serve immediately in the broth, garnished with freshly cut chives. The Nockerl should be fluffy inside and silky outside."
+      ]
+    },
+    "erdaepfelsuppe": {
+      "title": "Erdäpfelsuppe",
+      "description": "Creamy Austrian potato soup — humble, warming, and wonderfully comforting. Made velvety smooth with a hint of marjoram and finished with a drizzle of pumpkin seed oil. Every grandmother's go-to recipe.",
+      "ingredients": {
+        "potatoes": "Floury potatoes (peeled, diced)",
+        "onions": "Onion (diced)",
+        "garlic": "Garlic cloves",
+        "carrots": "Carrot (diced)",
+        "celery": "Celery stalk (diced)",
+        "butter": "Butter",
+        "cream": "Heavy cream",
+        "beef-stock": "Beef broth",
+        "marjoram": "Dried marjoram",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Melt butter in a large pot over medium heat. Sauté the diced onion until translucent, about 5 minutes. Add the garlic and cook for another minute.",
+        "Add the diced potatoes, carrot, and celery. Stir and cook for 2-3 minutes to coat everything in the butter.",
+        "Pour in the beef broth and add the marjoram. Bring to a boil, then reduce to a simmer. Cook for 20-25 minutes until all vegetables are completely soft.",
+        "Blend until smooth using an immersion blender. For an extra-silky result, pass through a fine sieve. Stir in the cream.",
+        "Season generously with salt, pepper, and a bit more marjoram if needed. The soup should be velvety and creamy — add more broth if too thick.",
+        "For an authentic Austrian touch, make croutons: cube stale bread, fry in butter until golden and crispy on all sides.",
+        "Serve in warm bowls topped with croutons, a drizzle of Styrian pumpkin seed oil, and plenty of fresh chives."
+      ]
+    },
+    "kuerbiscremesuppe": {
+      "title": "Kürbiscremesuppe",
+      "description": "Vibrant orange pumpkin cream soup — the quintessential Styrian autumn dish, finished with a swirl of cream and a generous drizzle of dark green Kürbiskernöl. Velvet-smooth, warming, and unmistakably Austrian.",
+      "ingredients": {
+        "hokkaido-pumpkin": "Hokkaido pumpkin (seeded, cubed)",
+        "onions": "Onion (diced)",
+        "garlic": "Garlic cloves",
+        "ginger": "Fresh ginger (peeled)",
+        "butter": "Butter",
+        "cream": "Heavy cream",
+        "vegetable-stock": "Vegetable broth",
+        "pumpkin-seed-oil": "Styrian pumpkin seed oil",
+        "pumpkin-seeds": "Toasted pumpkin seeds",
+        "salt": "Salt",
+        "pepper": "White pepper",
+        "nutmeg": "Freshly grated nutmeg"
+      },
+      "steps": [
+        "If using Hokkaido pumpkin, you can leave the skin on — it cooks down and blends beautifully. Remove seeds, cut into 2cm cubes. For other pumpkin varieties, peel first.",
+        "Melt butter in a large pot. Sauté the diced onion until translucent. Add garlic and grated ginger, cook for 1 minute until fragrant.",
+        "Add the pumpkin cubes, stir to coat in the butter, and cook for 3-4 minutes. This builds deeper flavor than just boiling.",
+        "Pour in the vegetable broth. Bring to a boil, then reduce to a simmer. Cook for 20-25 minutes until the pumpkin is completely soft and falling apart.",
+        "Blend until silky smooth with an immersion blender. Stir in the cream and season with salt, white pepper, and nutmeg. The soup should be vibrant orange and velvety.",
+        "Toast the pumpkin seeds in a dry pan until they start to pop and turn golden, about 3-4 minutes. Watch carefully — they burn quickly.",
+        "Serve in warm bowls with a swirl of cream, a generous drizzle of Styrian pumpkin seed oil (the dark green kind — this is non-negotiable), and scattered toasted pumpkin seeds."
+      ]
+    },
+    "germknoedel": {
+      "title": "Germknödel",
+      "description": "A heavenly steamed yeast dumpling filled with dark plum jam (Powidl), drowned in melted butter, poppy seeds, and powdered sugar — the king of Austrian sweet dumplings.",
+      "ingredients": {
+        "flour": "Plain Flour",
+        "milk": "Whole Milk (lukewarm)",
+        "butter": "Butter (melted)",
+        "fresh-yeast": "Fresh Yeast",
+        "egg-yolks": "Egg Yolks",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "plum-jam": "Plum Jam (Powidl)",
+        "poppy-seeds": "Ground Poppy Seeds",
+        "powdered-sugar": "Powdered Sugar",
+        "vanilla-sugar": "Vanilla Sugar"
+      },
+      "steps": [
+        "Warm the milk to body temperature — it should feel neutral on your wrist. Crumble the fresh yeast into the milk with a pinch of sugar and let it foam for 10 minutes. This is your test: if it doesn't foam, the yeast is dead.",
+        "Sift the flour into a large bowl, make a well. Pour in the yeast mixture, melted butter, egg yolks, sugar, vanilla sugar, and a pinch of salt. Knead for a good 10 minutes until the dough is silky smooth, elastic, and pulls away from the bowl cleanly.",
+        "Cover with a damp cloth and let rise in a warm place for about 1 hour until doubled in size. The dough should be pillowy and alive.",
+        "Punch down the dough and divide into 4 equal portions (or 8 for smaller Knödel). Flatten each piece, place a generous tablespoon of Powidl in the center, and carefully seal by pinching the edges together. Roll into smooth balls with floured hands.",
+        "Let the filled Knödel rest on a floured surface for another 15-20 minutes, covered, until they puff up slightly.",
+        "Steam over simmering water for about 15-18 minutes (larger ones up to 20 minutes). DO NOT open the lid during steaming — the sudden temperature drop will cause them to collapse. They should be glossy, puffed, and spring back when gently touched.",
+        "Serve immediately: drown each Germknödel in a pool of hot melted butter, shower generously with ground poppy seeds and powdered sugar. Cut open at the table to reveal the dark Powidl filling."
+      ]
+    },
+    "mohnnudeln": {
+      "title": "Mohnnudeln",
+      "description": "Soft potato noodles—finger-shaped dumplings—tossed in melted butter with ground poppy seeds and powdered sugar. A beloved Austrian sweet main course.",
+      "ingredients": {
+        "potatoes": "Floury Potatoes",
+        "flour": "Plain Flour",
+        "egg": "Egg",
+        "butter": "Butter",
+        "poppy-seeds": "Ground Poppy Seeds",
+        "powdered-sugar": "Powdered Sugar",
+        "salt": "Salt",
+        "potato-starch": "Potato Starch"
+      },
+      "steps": [
+        "Boil the potatoes in their skins until tender, about 25-30 minutes. Drain and peel while still hot — use a kitchen towel to hold them. Press through a potato ricer immediately. The key is working with them while hot for the smoothest dough.",
+        "Let the riced potatoes cool slightly, then add flour, potato starch, egg, and a pinch of salt. Knead quickly into a smooth dough — don't overwork it or the Nudeln will become tough and gummy.",
+        "Roll portions of dough into long ropes about 2cm thick on a lightly floured surface. Cut into finger-length pieces (about 5-6cm) and gently roll each one, tapering the ends slightly to create the classic torpedo shape.",
+        "Bring a large pot of lightly salted water to a gentle simmer (not a rolling boil!). Cook the Nudeln in batches — they're done when they float to the surface, about 3-4 minutes. Remove with a slotted spoon.",
+        "Meanwhile, melt the butter in a large pan over medium heat. In a separate bowl, mix the ground poppy seeds with powdered sugar.",
+        "Toss the cooked Nudeln gently in the melted butter until well coated and slightly golden. Transfer to a serving plate and roll generously in the poppy seed-sugar mixture. Dust with extra powdered sugar and serve warm."
+      ]
+    },
+    "topfenknoedel": {
+      "title": "Topfenknödel",
+      "description": "Light and fluffy quark cheese dumplings coated in golden buttered breadcrumbs, dusted with powdered sugar, and served with tangy berry compote.",
+      "ingredients": {
+        "quark": "Quark (Topfen, well-drained)",
+        "butter": "Butter",
+        "egg": "Eggs",
+        "semolina": "Fine Semolina",
+        "breadcrumbs": "Breadcrumbs (fine)",
+        "sugar": "Sugar",
+        "vanilla-sugar": "Vanilla Sugar",
+        "lemon-zest": "Lemon Zest",
+        "salt": "Salt",
+        "powdered-sugar": "Powdered Sugar",
+        "berry-compote": "Berry Compote"
+      },
+      "steps": [
+        "The Topfen must be very well drained — if it's wet, the Knödel will fall apart. Press it through a sieve or wrap in a clean cloth and squeeze out excess moisture. This step is critical.",
+        "Cream 40g of soft butter with sugar, vanilla sugar, and lemon zest until fluffy. Beat in the eggs one at a time. Fold in the well-drained Topfen, then gently stir in the semolina. Season with a tiny pinch of salt.",
+        "Let the dough rest in the fridge for at least 30 minutes — the semolina needs to absorb moisture. The dough should be firm enough to shape but still soft.",
+        "With wet hands, form the dough into round dumplings about the size of a tennis ball. Don't compress them too tightly — they should be light.",
+        "Simmer (don't boil!) in lightly salted water for about 12-15 minutes. They will float when nearly done. Test one — the center should be fluffy, not dense.",
+        "While the Knödel cook, melt the remaining butter in a pan and toast the breadcrumbs until deep golden and fragrant. Roll the cooked Knödel in the buttered breadcrumbs, dust with powdered sugar, and serve with warm berry compote on the side."
+      ]
+    },
+    "palatschinken": {
+      "title": "Palatschinken",
+      "description": "Paper-thin Austrian crêpes filled with apricot jam and dusted with powdered sugar — the essence of Viennese Mehlspeise tradition.",
+      "ingredients": {
+        "flour": "Plain Flour",
+        "milk": "Whole Milk",
+        "eggs": "Eggs",
+        "butter": "Butter (melted, + extra for pan)",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "vanilla-sugar": "Vanilla Sugar",
+        "apricot-jam": "Apricot Jam (Marillenmarmelade)",
+        "powdered-sugar": "Powdered Sugar"
+      },
+      "steps": [
+        "Whisk the eggs with sugar, vanilla sugar, and salt until smooth. Gradually whisk in the milk, then sift in the flour while whisking to prevent lumps. Add the melted butter last. The batter should be thin — like heavy cream. Let it rest for 20 minutes.",
+        "Heat a flat crêpe pan or non-stick skillet over medium-high heat. Brush with a very thin layer of butter — just enough so it doesn't stick. The pan must be hot but not smoking.",
+        "Pour a thin layer of batter into the pan, immediately swirling to coat the bottom evenly. Cook until the underside is golden (about 45-60 seconds), then flip with a spatula or a confident wrist flick. Cook the other side for about 30 seconds.",
+        "Spread each Palatschinke with a generous layer of apricot jam while still warm, then roll up tightly. Keep warm in a low oven while making the rest.",
+        "Arrange 2-3 rolled Palatschinken per plate, dust generously with powdered sugar, and serve immediately. For a restaurant touch, briefly caramelize the sugar under a broiler."
+      ]
+    },
+    "kaiserschmarrn": {
+      "title": "Kaiserschmarrn",
+      "description": "The Emperor's torn, fluffy caramelized pancake — golden shreds dusted with powdered sugar and served with dark plum compote. Austria's most famous dessert.",
+      "ingredients": {
+        "flour": "Plain Flour",
+        "milk": "Whole Milk",
+        "eggs": "Eggs (separated)",
+        "butter": "Butter",
+        "sugar": "Sugar",
+        "raisins": "Raisins",
+        "rum": "Rum (for soaking raisins)",
+        "vanilla-sugar": "Vanilla Sugar",
+        "salt": "Salt",
+        "powdered-sugar": "Powdered Sugar",
+        "plum-compote": "Plum Compote (Zwetschkenröster)"
+      },
+      "steps": [
+        "Soak the raisins in rum for at least 30 minutes (overnight is even better). This transforms them from sad dried fruit into little flavor bombs.",
+        "Separate the eggs. Beat the yolks with sugar, vanilla sugar, and a pinch of salt until thick and creamy. Stir in the milk, then fold in the flour until just combined — a few lumps are fine, don't overmix.",
+        "Beat the egg whites with a pinch of salt until stiff peaks form. This is the secret to fluffy Kaiserschmarrn — they must be properly stiff. Gently fold into the batter in three additions, preserving as much air as possible.",
+        "Melt a generous amount of butter in a large, oven-safe skillet over medium heat. Pour in the batter, scatter the rum-soaked raisins over the top, and cook until the bottom is golden, about 3-4 minutes.",
+        "Transfer the pan to a preheated oven at 200°C (400°F) for about 8-10 minutes until puffed and golden on top. The middle should be just set, not dried out.",
+        "Using two forks, tear the pancake into rough, irregular pieces directly in the pan. Return to the stovetop, add another knob of butter, and toss the pieces over high heat to caramelize them lightly. Dust very generously with powdered sugar and serve straight from the pan with warm plum compote."
+      ]
+    },
+    "sachertorte": {
+      "title": "Sachertorte",
+      "description": "Vienna's legendary chocolate cake — a dense, rich chocolate sponge layered with apricot jam under a mirror-smooth dark chocolate glaze, served with unsweetened whipped cream.",
+      "ingredients": {
+        "dark-chocolate": "Dark Chocolate (70% cocoa)",
+        "butter": "Butter (soft, room temp)",
+        "powdered-sugar": "Powdered Sugar",
+        "egg-yolks": "Egg Yolks",
+        "egg-whites": "Egg Whites",
+        "flour": "Plain Flour",
+        "sugar": "Granulated Sugar",
+        "apricot-jam": "Apricot Jam (sieved)",
+        "chocolate-glaze": "Dark Chocolate (for glaze)",
+        "heavy-cream": "Heavy Cream (for glaze + Schlagobers)",
+        "vanilla-sugar": "Vanilla Sugar"
+      },
+      "steps": [
+        "Preheat oven to 170°C (340°F). Butter and flour a 26cm round springform pan. Melt 200g dark chocolate gently over a water bath — it must not get too hot or it will seize. Let cool slightly.",
+        "Cream the soft butter with powdered sugar and vanilla sugar until pale and fluffy — a good 5 minutes with an electric mixer. Beat in the egg yolks one at a time, fully incorporating each before adding the next. Fold in the melted chocolate.",
+        "In a separate, spotlessly clean bowl, whip the egg whites with the granulated sugar until stiff, glossy peaks form. The bowl must be grease-free or they won't whip properly.",
+        "Sift the flour over the chocolate mixture and fold gently. Then fold in the whipped egg whites in three additions — use a large spatula, cutting through the center and folding over. Preserve as much air as possible.",
+        "Pour into the prepared pan and smooth the top. Bake for 50-60 minutes until a skewer comes out with just a few moist crumbs. Do NOT overbake — the Torte should be dense and fudgy, not dry. Cool in the pan for 10 minutes, then turn out.",
+        "When completely cool, slice the cake horizontally into two layers. Warm the apricot jam (sieved!) and brush a generous layer on the bottom half. Place the top layer back on and brush the entire outside of the cake with more warm apricot jam. This seals the cake and gives the glaze something to stick to.",
+        "For the glaze: bring 200ml cream just to a simmer and pour over 200g chopped dark chocolate. Let sit for 2 minutes, then stir from the center outward until perfectly smooth and glossy. Pour over the cake in one go, using a palette knife to smooth the top and sides. Let set at room temperature — do NOT refrigerate or the glaze will lose its shine.",
+        "Serve at room temperature with a generous dollop of completely unsweetened whipped cream (Schlagobers). This is non-negotiable — sweetened cream would ruin the balance."
+      ]
+    },
+    "apfelstrudel": {
+      "title": "Apfelstrudel",
+      "description": "Hand-pulled paper-thin strudel dough wrapped around spiced apples, raisins, and buttered breadcrumbs — the crown jewel of Viennese pastry, served warm with vanilla sauce.",
+      "ingredients": {
+        "flour": "Strong Bread Flour",
+        "oil": "Vegetable Oil",
+        "water": "Warm Water",
+        "salt": "Salt",
+        "apples": "Tart Apples (Boskop or Granny Smith)",
+        "breadcrumbs": "Breadcrumbs",
+        "butter": "Butter",
+        "sugar": "Sugar",
+        "raisins": "Raisins (rum-soaked)",
+        "cinnamon": "Ground Cinnamon",
+        "lemon-juice": "Lemon Juice",
+        "rum": "Rum",
+        "powdered-sugar": "Powdered Sugar"
+      },
+      "steps": [
+        "Soak the raisins in rum. For the dough: mix flour, a pinch of salt, oil, and warm water. Knead vigorously for 10 minutes until silky smooth and elastic — it should slap against the counter without sticking. Form a ball, brush with oil, cover, and rest at room temperature for at least 30 minutes.",
+        "Peel, core, and thinly slice the apples. Toss immediately with lemon juice, sugar, and cinnamon.",
+        "Toast the breadcrumbs in about 50g butter until golden and fragrant. This is the layer that absorbs apple juices and keeps the strudel crisp — don't skip it.",
+        "Cover a large table with a clean cloth and dust with flour. Place the dough in the center and roll it out as thin as you can. Then, using the backs of your hands (remove rings!), gently stretch the dough from underneath, working from the center outward. Walk around the table, stretching evenly until you can read a newspaper through it. Trim thick edges.",
+        "Brush the entire stretched dough with melted butter. Spread the toasted breadcrumbs in a strip along one long edge, leaving a broad margin on the other sides. Layer the apple mixture over the breadcrumbs.",
+        "Using the cloth to help, roll the strudel away from you, starting from the apple side, folding in the side edges as you go. Roll it seam-side down onto a parchment-lined baking sheet, curving it into a crescent if needed to fit.",
+        "Brush generously with melted butter. Bake at 190°C (375°F) for 35-40 minutes, brushing with butter twice more during baking. The strudel is done when deep golden and crackling-crisp.",
+        "Let cool for 10 minutes, then dust generously with powdered sugar. Serve warm with vanilla ice cream or warm Vanillesauce. The strudel should shatter when you cut it."
+      ]
+    },
+    "linzer-torte": {
+      "title": "Linzer Torte",
+      "description": "The world's oldest known cake recipe — a spiced nut tart with a distinctive lattice top over vibrant redcurrant jam, from the Austrian city of Linz.",
+      "ingredients": {
+        "flour": "Plain Flour",
+        "ground-almonds": "Ground Almonds",
+        "ground-hazelnuts": "Ground Hazelnuts",
+        "butter": "Butter (cold, cubed)",
+        "sugar": "Sugar",
+        "egg-yolks": "Egg Yolks",
+        "cinnamon": "Ground Cinnamon",
+        "cloves": "Ground Cloves",
+        "lemon-zest": "Lemon Zest",
+        "redcurrant-jam": "Redcurrant Jam (Ribiselmarmelade)",
+        "powdered-sugar": "Powdered Sugar"
+      },
+      "steps": [
+        "Mix the flour, ground almonds, ground hazelnuts, sugar, cinnamon, cloves, and lemon zest in a large bowl. Add the cold cubed butter and rub together with your fingertips until it resembles coarse breadcrumbs. Add the egg yolks and quickly bring together into a dough. Don't overwork — it should be crumbly and short.",
+        "Wrap the dough in cling film and refrigerate for at least 1 hour (overnight is ideal). This makes it much easier to handle and prevents shrinking during baking.",
+        "Press two-thirds of the dough into the bottom and up the sides of a 26cm tart pan (about 3cm high). The base should be about 5mm thick. Spread the redcurrant jam generously and evenly over the base — be generous, this is the heart of the Torte.",
+        "Roll the remaining dough between two sheets of parchment and cut into 1cm strips. Arrange in a classic cross-hatch lattice pattern over the jam. Press the strip ends into the edge to seal. Brush the lattice with a beaten egg yolk for shine.",
+        "Bake at 175°C (350°F) for 45-50 minutes until the lattice is deep golden brown and the jam is bubbling through. The nut crust gives off an incredible aroma when done.",
+        "Let cool completely in the pan — the jam needs to set. Dust lightly with powdered sugar before serving. Linzer Torte actually improves over 2-3 days as the spices and jam meld together."
+      ]
+    },
+    "marillenknoedel": {
+      "title": "Marillenknödel",
+      "description": "Golden potato dumplings wrapped around whole fresh apricots with a sugar cube inside, rolled in buttered breadcrumbs — the taste of Austrian summer.",
+      "ingredients": {
+        "potatoes": "Floury Potatoes",
+        "flour": "Plain Flour",
+        "egg": "Egg",
+        "butter": "Butter",
+        "apricots": "Fresh Apricots (ripe but firm)",
+        "sugar-cubes": "Sugar Cubes",
+        "breadcrumbs": "Breadcrumbs (fine)",
+        "powdered-sugar": "Powdered Sugar",
+        "cinnamon": "Ground Cinnamon",
+        "salt": "Salt"
+      },
+      "steps": [
+        "Boil the potatoes in their skins until tender. Drain, peel while hot, and press through a potato ricer. Let cool completely — this is important, warm potatoes make sticky dough.",
+        "Mix the cooled riced potatoes with flour, egg, and a pinch of salt. Knead gently into a smooth dough. Don't overwork it — the less you handle it, the lighter the Knödel.",
+        "Wash the apricots, pit them carefully (try to keep them whole — make a small cut along the seam and twist out the stone). Place a sugar cube inside each apricot where the pit was.",
+        "Roll out the dough about 1cm thick on a floured surface. Cut into squares large enough to wrap around an apricot. Place an apricot in the center of each square, bring up the edges, and seal completely. Roll gently into smooth balls with floured hands.",
+        "Simmer (don't boil!) the Knödel in a large pot of lightly salted water for about 12-15 minutes. They'll float when done. Remove with a slotted spoon.",
+        "Melt the butter in a large pan and toast the breadcrumbs until golden. Roll each Knödel in the buttered breadcrumbs, dust with powdered sugar mixed with cinnamon, and serve immediately. The apricot inside should be soft and jammy."
+      ]
+    },
+    "topfenstrudel": {
+      "title": "Topfenstrudel",
+      "description": "A golden crispy strudel pastry filled with sweet quark cheese, raisins, and lemon zest — the elegant sister of the Apfelstrudel, served with warm vanilla custard.",
+      "ingredients": {
+        "strudel-dough": "Strudel Dough Sheets (or homemade)",
+        "quark": "Quark (Topfen, well-drained)",
+        "butter": "Butter (melted)",
+        "sour-cream": "Sour Cream (Sauerrahm)",
+        "egg-yolks": "Egg Yolks",
+        "egg-whites": "Egg Whites",
+        "sugar": "Sugar",
+        "vanilla-sugar": "Vanilla Sugar",
+        "raisins": "Raisins",
+        "lemon-zest": "Lemon Zest",
+        "powdered-sugar": "Powdered Sugar"
+      },
+      "steps": [
+        "Preheat oven to 180°C (360°F). If using homemade strudel dough, prepare and stretch it following the Apfelstrudel method. Otherwise, carefully unfold store-bought sheets.",
+        "Cream the egg yolks with sugar, vanilla sugar, and soft butter until fluffy. Fold in the well-drained Topfen and sour cream, then add the raisins and lemon zest. The filling should be smooth, creamy, and not too wet.",
+        "Beat the egg whites to stiff peaks and gently fold into the Topfen mixture. This makes the filling light and soufflé-like when baked.",
+        "Brush the strudel dough sheets with melted butter, overlapping them slightly. Spread the Topfen filling in a strip along one long edge, leaving 5cm margins on the sides.",
+        "Roll up carefully using the cloth or parchment underneath. Tuck in the side edges as you go. Transfer seam-side down to a parchment-lined baking sheet. Brush the top generously with melted butter.",
+        "Bake for 30-35 minutes until golden and crispy. The filling should be just set but still creamy inside. Dust generously with powdered sugar and serve warm, ideally with warm Vanillesauce."
+      ]
+    },
+    "salzstangerl": {
+      "title": "Salzstangerl",
+      "description": "Classic Austrian crescent-shaped salt sticks made from puff pastry — crispy, buttery, and topped with coarse salt and caraway seeds. Perfect as a snack or side.",
+      "ingredients": {
+        "puff-pastry": "Puff pastry sheets",
+        "egg-yolk": "Egg yolk (for brushing)",
+        "coarse-salt": "Coarse salt",
+        "caraway-seeds": "Caraway seeds"
+      },
+      "steps": [
+        "Preheat the oven to 200°C (390°F). Line a baking sheet with parchment paper.",
+        "Roll out the puff pastry and cut into long triangles (like croissant shapes).",
+        "Roll each triangle from the wide end to the tip, bending slightly into a crescent shape.",
+        "Place on the baking sheet, brush with beaten egg yolk, and sprinkle generously with coarse salt and caraway seeds.",
+        "Bake for 12-15 minutes until golden brown and puffed up. Serve warm."
+      ]
+    },
+    "semmel": {
+      "title": "Semmel",
+      "description": "The iconic Austrian Kaiser roll — a round bread roll with the distinctive five-fold star pattern, crispy golden crust, and light airy interior. The foundation of every Austrian breakfast.",
+      "ingredients": {
+        "flour": "Strong White Bread Flour",
+        "fresh-yeast": "Fresh Yeast",
+        "water": "Water (lukewarm)",
+        "butter": "Butter (soft)",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "malt": "Barley Malt Powder (optional)"
+      },
+      "steps": [
+        "Dissolve the yeast and sugar in lukewarm water. Let stand 5 minutes until foamy. If using malt powder, dissolve it in the water as well — this gives the crust its characteristic golden color and subtle sweetness.",
+        "Mix flour and salt in a large bowl. Add the yeast mixture and soft butter. Knead vigorously for 10-12 minutes — the dough must be very smooth, elastic, and slightly tacky but not sticky. This extensive kneading creates the light, airy crumb.",
+        "Cover and let rise for 1 hour until doubled. The dough should be bouncy and full of air.",
+        "Divide into 10 equal pieces (about 80g each). Shape each into a tight, smooth ball by tucking the edges under. This creates surface tension for a good rise.",
+        "For the classic Kaisersemmel pattern: flatten each ball slightly, then using a special stamp or the handle of a wooden spoon, press 5 deep lines radiating from the center like a star. Or: roll 5 tabs and fold them over the center, tucking them under. The pattern should be deep enough that it stays visible after baking.",
+        "Place on a floured baking sheet, cover, and let rise 20-25 minutes. Preheat oven to 230°C (450°F) with a bowl of water for steam.",
+        "Bake for 16-18 minutes until golden brown and crisp. The Semmel should feel very light for their size and sound hollow when tapped. Cool on a wire rack — the crust continues to crisp as they cool."
+      ]
+    },
+    "mohnflesserl": {
+      "title": "Mohnflesserl",
+      "description": "Beautifully braided Austrian bread rolls generously coated with poppy seeds — soft, slightly sweet yeast dough in an elegant twisted shape. A beloved Austrian bakery classic.",
+      "ingredients": {
+        "flour": "Strong White Bread Flour",
+        "fresh-yeast": "Fresh Yeast",
+        "milk": "Milk (lukewarm)",
+        "butter": "Butter (soft)",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "egg": "Egg",
+        "poppy-seeds": "Poppy Seeds",
+        "egg-yolk": "Egg Yolk (for glaze)"
+      },
+      "steps": [
+        "Warm the milk to body temperature. Crumble the yeast into the milk with the sugar, stir, and let stand 5-10 minutes until frothy.",
+        "Mix flour and salt in a large bowl. Add the yeast mixture, soft butter, and egg. Knead for 10 minutes until smooth and elastic. The dough should be slightly richer than a plain bread dough. Cover and let rise 45-60 minutes until doubled.",
+        "Divide the dough into 8 equal pieces. Roll each piece into a long strand about 40cm long. Fold the strand in half and twist it together, then bring the ends together to form a small wreath shape (the classic Flesserl shape). Alternatively, braid three thin strands together.",
+        "Brush each Flesserl with beaten egg yolk (for the poppy seeds to stick). Immediately roll or dip the top generously in poppy seeds, pressing gently to ensure good coverage. The contrast of dark poppy seeds against golden dough is the hallmark.",
+        "Place on a parchment-lined baking sheet, cover, and let rise 20 minutes. Preheat oven to 200°C (400°F).",
+        "Bake for 16-18 minutes until golden brown underneath (the poppy-seed top will stay dark). The rolls should feel light and sound hollow. Cool on a wire rack — Mohnflesserl are wonderful still slightly warm with butter."
+      ]
+    },
+    "leberkaesesemmel": {
+      "title": "Leberkäsesemmel",
+      "description": "Austria's ultimate street food — a thick slab of freshly baked Leberkäse with a caramelized crust, served in a crispy Semmel with a generous stripe of sweet mustard. Every sausage stand's bestseller.",
+      "ingredients": {
+        "pork-belly": "Pork Belly (minced)",
+        "beef": "Beef (minced)",
+        "bacon": "Bacon (smoked)",
+        "onion": "Onion",
+        "salt": "Curing Salt",
+        "pepper": "White Pepper",
+        "marjoram": "Marjoram (dried)",
+        "nutmeg": "Nutmeg",
+        "water": "Ice Water",
+        "semmel": "Semmel (Kaiser rolls)",
+        "sweet-mustard": "Sweet Mustard (Süßer Senf)"
+      },
+      "steps": [
+        "Have the butcher mince the pork belly, beef, and bacon very finely (or use a food processor in batches, processing until completely smooth — this is key). The mixture must become a very fine, emulsified paste, not chunky.",
+        "Mix the finely minced meat with curing salt, white pepper, marjoram, and a pinch of nutmeg. Finely dice the onion and add it. Pour in the ice water gradually while mixing vigorously — this creates the characteristic smooth, bouncy texture.",
+        "Line a loaf pan (about 30cm) with parchment paper. Pack the meat mixture in firmly, pressing out any air pockets. Smooth the top and brush with a little water.",
+        "Bake at 180°C for about 75 minutes. The top should develop a deeply caramelized, golden-brown crust — this is the best part. The internal temperature should reach 70°C.",
+        "Let rest 10 minutes before slicing. The Leberkäse should be smooth and uniform inside, with a satisfying snap.",
+        "Cut thick slices (at least 1.5cm) and serve in fresh Semmel with a generous stripe of sweet mustard. The contrast of hot, juicy Leberkäse against the crispy roll is what makes this iconic."
+      ]
+    },
+    "bosna": {
+      "title": "Bosna",
+      "description": "Salzburg's legendary street food — a grilled Bratwurst in a white bread roll with raw onions, mustard, and curry powder. Invented at a Salzburg sausage stand in the 1950s, now a cult classic.",
+      "ingredients": {
+        "bratwurst": "Bratwurst (pork or veal)",
+        "white-bread-roll": "White Bread Rolls (oblong, soft)",
+        "onion": "Onions (white, thinly sliced)",
+        "mustard": "Yellow Mustard",
+        "curry-powder": "Curry Powder"
+      },
+      "steps": [
+        "Grill or pan-fry the Bratwurst over medium-high heat until beautifully charred and cooked through, about 8-10 minutes. Turn frequently for even browning. The casing should be crispy and snapping.",
+        "While the sausage cooks, slice the onions into thin rings. Warm the bread rolls briefly on the grill or in the oven — they should be soft and slightly toasty.",
+        "Slit each roll lengthwise without cutting all the way through. Squeeze a generous line of mustard inside.",
+        "Place the grilled Bratwurst in the roll, top with a generous pile of raw onion rings, and dust with curry powder. The combination of charred sausage, sharp raw onion, tangy mustard, and warming curry is what makes the Bosna addictive."
+      ]
+    },
+    "kaesekrainer": {
+      "title": "Käsekrainer",
+      "description": "The Viennese cheese-filled sausage — coarsely ground pork studded with cubes of Emmental cheese that melt into irresistible pockets of gooey goodness. Essential late-night Würstelstand fare.",
+      "ingredients": {
+        "pork": "Pork Shoulder (coarsely ground)",
+        "bacon": "Pork Back Fat",
+        "emmental": "Emmental Cheese (cubed, 5mm)",
+        "salt": "Salt",
+        "pepper": "Black Pepper",
+        "garlic": "Garlic Cloves",
+        "caraway-seeds": "Caraway Seeds (ground)",
+        "sausage-casing": "Natural Sausage Casings (pork)",
+        "bread": "Crusty Bread Rolls",
+        "mustard": "Sweet and Hot Mustard"
+      },
+      "steps": [
+        "Chill all meat and equipment beforehand — cold temps are essential for a good bind. Coarsely grind the pork shoulder and back fat through a medium plate. The grind should be distinctly chunky, not fine.",
+        "Mix the ground meat with salt, pepper, finely minced garlic, and ground caraway seeds until the mixture becomes sticky and well-bound. Fold in the cubed Emmental cheese — cut into 5mm cubes so they create distinct pockets when melted.",
+        "Stuff into natural pork casings, twisting into links about 15cm long. Prick any air bubbles with a pin. Let the sausages rest overnight in the fridge for the flavors to meld.",
+        "Grill over medium heat, turning frequently, for about 15-20 minutes. The key is patience — too high heat will burst the casing and all the melted cheese will escape. You want the casing to char while the cheese inside becomes molten and gooey.",
+        "Serve immediately on a plate with a crusty bread roll, sweet and hot mustard on the side. Cut into the sausage to release the rivers of melted cheese. A cold beer is not optional."
+      ]
+    },
+    "langos": {
+      "title": "Langos",
+      "description": "Golden, crispy deep-fried flatbread from the Austrian Christmas market tradition — topped with garlic sour cream and a mountain of grated cheese. Crunchy outside, pillowy inside.",
+      "ingredients": {
+        "flour": "All-Purpose Flour",
+        "fresh-yeast": "Fresh Yeast",
+        "milk": "Milk (lukewarm)",
+        "salt": "Salt",
+        "sugar": "Sugar",
+        "oil": "Vegetable Oil (for deep frying)",
+        "sour-cream": "Sour Cream",
+        "garlic": "Garlic Cloves",
+        "cheese": "Cheese (grated, Emmental or Gouda)"
+      },
+      "steps": [
+        "Dissolve the yeast and sugar in lukewarm milk. Let stand 5 minutes until foamy. Mix with flour and salt to form a soft, slightly sticky dough. Knead 5 minutes. Cover and let rise 30-40 minutes until doubled.",
+        "Crush the garlic cloves and mix into the sour cream with a pinch of salt. Let this sit while the dough rises — the garlic flavor will intensify beautifully.",
+        "Divide the dough into 6 equal pieces. On a floured surface, stretch each piece with your hands into a flat disc about 20cm across. Pull gently from the center — the middle should be thinner than the edges.",
+        "Heat the oil to 180°C in a deep pan or pot. Carefully slide in one Langos at a time. Fry 2-3 minutes per side until deeply golden brown and puffed up. The edges should be crispy and bubbly while the center stays soft.",
+        "Drain briefly on paper towels. Immediately spread generously with garlic sour cream, then pile on the grated cheese while the Langos is still blazing hot so the cheese melts slightly. Eat immediately — Langos waits for no one."
+      ]
+    },
+    "faschierter-braten": {
+      "title": "Faschierter Braten",
+      "description": "A hearty Austrian meatloaf made from a well-seasoned mixture of ground pork and beef, baked until golden with a crackled crust. Served with gravy and potato purée.",
+      "ingredients": {
+        "ground-pork": "Ground pork",
+        "ground-beef": "Ground beef",
+        "onion": "Onion (finely diced)",
+        "eggs": "Eggs",
+        "breadcrumbs": "Breadcrumbs",
+        "mustard": "Medium-hot mustard",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "paprika": "Sweet paprika",
+        "marjoram": "Dried marjoram",
+        "parsley": "Fresh parsley"
+      },
+      "steps": [
+        "Preheat the oven to 180°C (350°F). Finely dice the onion and sauté in a little butter until translucent. Let cool.",
+        "In a large bowl, combine the ground pork and beef. Add the cooled onions, eggs, breadcrumbs, mustard, and all spices. Mix thoroughly but don't overwork the meat.",
+        "Finely chop the parsley and fold it into the mixture. Season generously with salt and pepper.",
+        "Shape the mixture into a compact loaf on a lined baking sheet or in a loaf pan. Smooth the surface with wet hands.",
+        "Brush the top with a little water and bake for about 50-60 minutes until the internal temperature reaches 72°C.",
+        "After 30 minutes, add a cup of beef broth to the pan for the gravy. Baste the loaf occasionally.",
+        "Let rest for 10 minutes before slicing. Strain the pan juices to make a simple gravy. Serve with potato purée and a green salad."
+      ]
+    },
+    "wurstknoedel": {
+      "title": "Wurstknödel",
+      "description": "Hearty Austrian bread dumplings filled with chunks of smoked sausage — a simple, satisfying meal served in clear beef broth with fresh chives.",
+      "ingredients": {
+        "stale-bread-rolls": "Stale bread rolls (cubed)",
+        "smoked-sausage": "Smoked sausage (e.g., Extrawurst or Braunschweiger)",
+        "milk": "Warm milk",
+        "eggs": "Eggs",
+        "onion": "Onion (finely diced)",
+        "butter": "Butter",
+        "parsley": "Fresh parsley",
+        "salt": "Salt",
+        "pepper": "Black pepper",
+        "flour": "All-purpose flour"
+      },
+      "steps": [
+        "Cut the stale bread rolls into small cubes and place in a large bowl. Cut the sausage into small dice.",
+        "Warm the milk and pour over the bread cubes. Let soak for 15 minutes.",
+        "Sauté the diced onion in butter until translucent. Add to the bread mixture along with the diced sausage.",
+        "Add the eggs, chopped parsley, salt, pepper, and flour. Mix well until the dough holds together. Let rest for 10 minutes.",
+        "Form the mixture into round dumplings with wet hands (about the size of a tennis ball).",
+        "Lower the dumplings into gently simmering salted water or beef broth. Cook for about 20 minutes without letting the water boil. Serve in clear beef broth with fresh chives."
+      ]
+    },
+    "rindsuppe": {
+      "title": "Rindsuppe",
+      "description": "The queen of Austrian soups — a crystal-clear golden beef broth simmered for hours with root vegetables. The base for countless classic soup garnishes.",
+      "ingredients": {
+        "beef-bones": "Beef bones (marrow bones)",
+        "beef-brisket": "Beef brisket (Tafelspitz cut)",
+        "carrots": "Carrots",
+        "celery-root": "Celery root (Knollensellerie)",
+        "leek": "Leek",
+        "onion": "Onion (halved, unpeeled)",
+        "parsley-root": "Parsley root",
+        "bay-leaf": "Bay leaves",
+        "peppercorns": "Black peppercorns",
+        "salt": "Salt",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Place the beef bones in cold water and bring to a boil. Skim off all the foam thoroughly — this is the key to a clear broth.",
+        "Add the beef brisket. Reduce heat and simmer gently for at least 2 hours. The broth should never boil rapidly.",
+        "Cut the onion in half and char the cut side in a dry pan until blackened — this gives the broth its golden color.",
+        "After 2 hours, add all the vegetables (carrots, celery root, leek, parsley root, charred onion), bay leaves, and peppercorns. Simmer for another hour.",
+        "Season with salt to taste. Strain the broth through a fine sieve or cheesecloth for perfect clarity.",
+        "Serve the clear broth garnished with finely chopped chives. Classic garnishes include thin egg noodles, Frittaten, Leberknödel, or Grießnockerl."
+      ]
+    },
+    "knoblauchcremesuppe": {
+      "title": "Knoblauchcremesuppe",
+      "description": "A silky, velvety garlic cream soup — a beloved Austrian classic. Rich and aromatic, topped with crispy croutons and fresh herbs.",
+      "ingredients": {
+        "garlic": "Garlic cloves",
+        "potatoes": "Potatoes (for thickening)",
+        "butter": "Butter",
+        "cream": "Heavy cream",
+        "vegetable-broth": "Vegetable broth",
+        "white-bread": "White bread (for croutons)",
+        "salt": "Salt",
+        "pepper": "White pepper",
+        "nutmeg": "Nutmeg",
+        "chives": "Fresh chives"
+      },
+      "steps": [
+        "Peel and roughly chop the garlic. Peel and dice the potatoes into small cubes.",
+        "Melt butter in a pot and gently sauté the garlic on low heat — don't let it brown or it will turn bitter.",
+        "Add the diced potatoes and vegetable broth. Simmer for about 20 minutes until the potatoes are soft.",
+        "Blend until silky smooth with an immersion blender. Stir in the cream, season with salt, white pepper, and a pinch of nutmeg.",
+        "Cut good white bread into small cubes and fry in butter until golden and crispy. Serve the soup topped with croutons and fresh chives."
+      ]
+    },
+    "topfencreme": {
+      "title": "Topfencreme",
+      "description": "A light, fluffy Austrian sweet quark cream — the perfect accompaniment to Palatschinken, or served on its own with fresh berry compote as a refreshing dessert.",
+      "ingredients": {
+        "quark": "Quark (Topfen, full-fat)",
+        "cream": "Heavy cream",
+        "powdered-sugar": "Powdered sugar",
+        "vanilla-sugar": "Vanilla sugar",
+        "lemon-zest": "Lemon zest",
+        "berries": "Fresh mixed berries"
+      },
+      "steps": [
+        "Pass the quark through a fine sieve for an extra-smooth texture. This step makes all the difference.",
+        "Whip the heavy cream until it holds stiff peaks. In a separate bowl, mix the sieved quark with powdered sugar, vanilla sugar, and lemon zest.",
+        "Gently fold the whipped cream into the quark mixture in two batches. Be careful not to deflate the cream — use light, sweeping motions.",
+        "Chill for at least 30 minutes before serving. Serve in glass bowls topped with fresh berry compote or whole berries. Can also be used as a filling for Palatschinken."
+      ]
+    },
+    "buchteln": {
+      "title": "Buchteln",
+      "description": "Golden Austrian sweet yeast buns filled with plum jam (Powidl), baked together until soft and fluffy. Served dusted with powdered sugar and warm vanilla custard.",
+      "ingredients": {
+        "flour": "All-purpose flour",
+        "fresh-yeast": "Fresh yeast",
+        "milk": "Warm milk",
+        "butter": "Butter (melted)",
+        "sugar": "Sugar",
+        "eggs": "Eggs",
+        "salt": "Salt",
+        "vanilla-sugar": "Vanilla sugar",
+        "lemon-zest": "Lemon zest",
+        "plum-jam": "Plum jam (Powidl)",
+        "powdered-sugar": "Powdered sugar"
+      },
+      "steps": [
+        "Dissolve the yeast in warm milk with a pinch of sugar. Let stand for 10 minutes until frothy.",
+        "Mix flour, sugar, vanilla sugar, salt, and lemon zest. Add the yeast mixture, eggs, and half the melted butter. Knead into a smooth, soft dough.",
+        "Cover and let rise in a warm place for about 1 hour until doubled in size.",
+        "Divide the dough into 12 equal pieces. Flatten each piece, place a teaspoon of Powidl in the center, and pinch the edges closed to form a ball.",
+        "Dip each Buchtel in melted butter and place seam-side down in a buttered baking dish, snug together.",
+        "Let rise for another 20 minutes. Preheat oven to 180°C (350°F).",
+        "Bake for 20-25 minutes until golden brown on top. Dust generously with powdered sugar and serve warm with vanilla custard sauce (Vanillesauce)."
+      ]
+    },
+    "krapfen": {
+      "title": "Krapfen",
+      "description": "Austrian deep-fried doughnuts filled with apricot jam — the iconic Carnival treat (Faschingskrapfen). Light, fluffy, with a distinctive pale ring around the middle.",
+      "ingredients": {
+        "flour": "All-purpose flour",
+        "fresh-yeast": "Fresh yeast",
+        "milk": "Warm milk",
+        "butter": "Butter (softened)",
+        "egg-yolks": "Egg yolks",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "rum": "Rum",
+        "lemon-zest": "Lemon zest",
+        "apricot-jam": "Smooth apricot jam (Marillenmarmelade)",
+        "oil": "Oil (for deep frying)",
+        "powdered-sugar": "Powdered sugar"
+      },
+      "steps": [
+        "Dissolve the yeast in warm milk with a pinch of sugar. Let stand 10 minutes until frothy.",
+        "Mix flour, sugar, salt, and lemon zest in a large bowl. Add the yeast mixture, egg yolks, rum, and softened butter.",
+        "Knead vigorously for at least 10 minutes until the dough is silky smooth and elastic. This is crucial for the texture.",
+        "Cover and let rise for about 1 hour until doubled.",
+        "Roll out to about 1.5 cm thickness. Cut circles with a round cutter (about 8 cm diameter). Place a teaspoon of jam in the center of half the circles, cover with remaining circles, and press edges firmly.",
+        "Let the filled Krapfen rise on a floured cloth for another 20 minutes.",
+        "Heat oil to 160°C. Fry the Krapfen covered for about 3 minutes (this creates the pale ring), then flip and fry uncovered for another 3 minutes.",
+        "Drain on paper towels and dust generously with powdered sugar while still warm."
+      ]
+    },
+    "punschkrapfen": {
+      "title": "Punschkrapfen",
+      "description": "The iconic Austrian petit four — cube-shaped pastries with rum-soaked sponge, apricot jam, a glossy pink fondant top, and a dark chocolate base. A Viennese patisserie classic.",
+      "ingredients": {
+        "eggs": "Eggs",
+        "sugar": "Sugar",
+        "flour": "All-purpose flour",
+        "cocoa": "Cocoa powder",
+        "apricot-jam": "Smooth apricot jam",
+        "rum": "Dark rum",
+        "powdered-sugar": "Powdered sugar (for fondant)",
+        "dark-chocolate": "Dark chocolate",
+        "pink-food-coloring": "Pink food coloring",
+        "lemon-juice": "Lemon juice"
+      },
+      "steps": [
+        "Bake a chocolate sponge cake: whisk eggs and sugar until thick, fold in flour and cocoa. Bake at 180°C in a sheet pan for 12-15 minutes. Let cool completely.",
+        "Crumble the cooled sponge cake into fine crumbs. Reserve some neat slices for the top and bottom layers.",
+        "Mix the crumbs with apricot jam and generous amounts of rum until you get a moist, moldable mixture.",
+        "Line a small square mold or cut out rectangles. Layer: sponge base, rum-soaked crumb mixture, sponge top.",
+        "Brush all sides with warm apricot jam (Aprikotur) for a smooth finish.",
+        "Prepare the pink fondant: mix powdered sugar with lemon juice and a drop of pink food coloring until glossy. Dip the top of each Krapfen.",
+        "Melt dark chocolate and dip the bottom of each Krapfen.",
+        "Let set completely on a wire rack. The finished Punschkrapfen should have a pink top, chocolate bottom, and be perfectly square."
+      ]
+    },
+    "gugelhupf": {
+      "title": "Gugelhupf",
+      "description": "The classic Austrian marble Bundt cake with its iconic fluted ring shape — a beloved Sunday afternoon coffee cake with swirls of vanilla and chocolate.",
+      "ingredients": {
+        "butter": "Butter (room temperature)",
+        "sugar": "Sugar",
+        "eggs": "Eggs",
+        "flour": "All-purpose flour",
+        "milk": "Milk",
+        "baking-powder": "Baking powder",
+        "vanilla-sugar": "Vanilla sugar",
+        "cocoa": "Cocoa powder",
+        "rum": "Rum",
+        "powdered-sugar": "Powdered sugar (for dusting)"
+      },
+      "steps": [
+        "Preheat oven to 170°C (340°F). Generously butter and flour a Gugelhupf (Bundt) mold.",
+        "Beat the room-temperature butter with sugar and vanilla sugar until very light and fluffy — at least 5 minutes.",
+        "Add eggs one at a time, beating well after each addition.",
+        "Mix flour with baking powder. Alternately fold in the flour mixture and milk in three additions.",
+        "Divide the batter in half. Mix one half with cocoa and rum.",
+        "Spoon alternating layers of light and dark batter into the mold. Use a knife to create a marble swirl pattern.",
+        "Bake for 45-50 minutes until a skewer comes out clean. Let cool in the mold for 15 minutes, then invert. Dust generously with powdered sugar."
+      ]
+    },
+    "bauernbrot": {
+      "title": "Bauernbrot",
+      "description": "Rustic Austrian farmhouse bread with a thick, crackled crust and a dense, flavorful crumb — made with a mix of rye and wheat flour and real sourdough.",
+      "ingredients": {
+        "rye-flour": "Rye flour",
+        "wheat-flour": "Wheat flour",
+        "sourdough-starter": "Active sourdough starter",
+        "water": "Lukewarm water",
+        "salt": "Salt",
+        "caraway-seeds": "Caraway seeds",
+        "bread-spice": "Bread spice (Brotgewürz)"
+      },
+      "steps": [
+        "Mix the sourdough starter with the flours, water, salt, caraway seeds, and bread spice. Knead for about 10 minutes until smooth.",
+        "Cover and let the dough rise at room temperature for at least 2 hours (or overnight in the fridge for more flavor).",
+        "Shape the dough into a round loaf on a floured surface. Place on a baking sheet or in a proofing basket.",
+        "Let proof for another 45 minutes. Preheat the oven to 240°C (465°F) with a pan of water on the bottom rack for steam.",
+        "Score the top of the loaf with a sharp knife or razor blade.",
+        "Bake for 15 minutes at 240°C, then reduce to 200°C (390°F) and bake for another 35 minutes until the crust is deep brown.",
+        "The bread is done when it sounds hollow when tapped on the bottom. Let cool completely on a wire rack before slicing."
+      ]
+    },
+    "schwarzbrot": {
+      "title": "Schwarzbrot",
+      "description": "Dense, dark Austrian rye bread — slow-baked with a rich, slightly sweet flavor from molasses. A traditional bread that pairs perfectly with butter, cold cuts, and cheese.",
+      "ingredients": {
+        "rye-flour": "Dark rye flour",
+        "whole-wheat-flour": "Whole wheat flour",
+        "sourdough-starter": "Active rye sourdough starter",
+        "water": "Lukewarm water",
+        "salt": "Salt",
+        "molasses": "Molasses (Zuckerrübensirup)",
+        "caraway-seeds": "Caraway seeds",
+        "coriander": "Ground coriander"
+      },
+      "steps": [
+        "Combine the sourdough starter with rye flour, whole wheat flour, water, salt, molasses, caraway, and coriander. Mix well.",
+        "Knead for 8-10 minutes. Rye dough will remain stickier than wheat dough — this is normal.",
+        "Place in a greased loaf pan. Smooth the top with wet hands. Cover and let rise for 1-2 hours.",
+        "Preheat oven to 220°C (430°F). Brush the top with water.",
+        "Bake for 15 minutes at 220°C, then reduce to 180°C (350°F) and bake for another 45 minutes.",
+        "Let cool in the pan for 10 minutes, then turn out onto a wire rack. Wait at least 24 hours before slicing for the best flavor and texture."
+      ]
+    },
+    "kornspitz": {
+      "title": "Kornspitz",
+      "description": "Crunchy Austrian multigrain bread rolls with pointed ends, covered in a mix of seeds — a wholesome, nutty-flavored roll that's a staple at every Austrian bakery.",
+      "ingredients": {
+        "wheat-flour": "Wheat flour",
+        "rye-flour": "Rye flour",
+        "whole-wheat-flour": "Whole wheat flour",
+        "fresh-yeast": "Fresh yeast",
+        "water": "Lukewarm water",
+        "salt": "Salt",
+        "sunflower-seeds": "Sunflower seeds",
+        "sesame-seeds": "Sesame seeds",
+        "flax-seeds": "Flax seeds"
+      },
+      "steps": [
+        "Dissolve the yeast in lukewarm water. Combine all three flours with salt.",
+        "Add the yeast water and knead for 10 minutes until smooth and elastic.",
+        "Fold in half of the seeds. Cover and let rise for 1 hour.",
+        "Divide into 8 pieces. Shape each into a diamond/elongated roll with pointed ends.",
+        "Brush with water and roll in the remaining seeds. Place on a lined baking sheet.",
+        "Let rise for 30 minutes. Bake at 220°C (430°F) for 18-20 minutes until dark and crusty."
+      ]
+    },
+    "sonnenblumenkernenweckerl": {
+      "title": "Sonnenblumenkernenweckerl",
+      "description": "Soft Austrian bread rolls generously coated with sunflower seeds — golden-crusted on the outside, fluffy white on the inside. A breakfast favorite.",
+      "ingredients": {
+        "flour": "All-purpose flour",
+        "fresh-yeast": "Fresh yeast",
+        "water": "Lukewarm water",
+        "salt": "Salt",
+        "sugar": "Sugar",
+        "sunflower-seeds": "Sunflower seeds",
+        "butter": "Butter (softened)"
+      },
+      "steps": [
+        "Dissolve the yeast in lukewarm water with the sugar. Mix flour, salt, and softened butter.",
+        "Add the yeast mixture and knead for 10 minutes until smooth.",
+        "Fold in half the sunflower seeds. Cover and let rise for 1 hour.",
+        "Divide into 8 pieces and shape into round rolls. Brush with water and press the tops into the remaining sunflower seeds.",
+        "Place seed-side up on a lined baking sheet. Let rise 30 minutes. Bake at 220°C (430°F) for 18-20 minutes until golden."
+      ]
+    },
+    "laugenstangerl": {
+      "title": "Laugenstangerl",
+      "description": "Austrian pretzel sticks with a glossy, dark mahogany crust and fluffy interior — dipped in lye solution for that distinctive pretzel flavor and topped with coarse salt.",
+      "ingredients": {
+        "flour": "All-purpose flour",
+        "fresh-yeast": "Fresh yeast",
+        "water": "Lukewarm water",
+        "butter": "Butter (softened)",
+        "salt": "Salt",
+        "sugar": "Sugar",
+        "baking-soda": "Baking soda (for lye bath)",
+        "coarse-salt": "Coarse salt (for topping)"
+      },
+      "steps": [
+        "Dissolve the yeast in lukewarm water with sugar. Mix flour and salt, add yeast mixture and softened butter.",
+        "Knead for 10 minutes until smooth and elastic. Cover and let rise for 1 hour.",
+        "Divide into 8 equal pieces. Roll each into a stick about 20 cm long.",
+        "Prepare the lye bath: dissolve baking soda in 1 liter of boiling water. Let cool slightly.",
+        "Briefly dip each stick into the lye bath (about 30 seconds). Place on a lined baking sheet.",
+        "Score each Stangerl across the top with a sharp knife. Sprinkle with coarse salt.",
+        "Bake at 220°C (430°F) for 12-15 minutes until deep brown and glossy."
+      ]
+    },
+    "currywurst": {
+      "title": "Currywurst",
+      "description": "A beloved street food classic — grilled bratwurst sliced and smothered in a tangy curry ketchup sauce, served with crispy French fries.",
+      "ingredients": {
+        "bratwurst": "Bratwurst sausages",
+        "ketchup": "Ketchup",
+        "curry-powder": "Curry powder",
+        "paprika": "Sweet paprika",
+        "onion": "Onion (finely diced)",
+        "worcestershire-sauce": "Worcestershire sauce",
+        "sugar": "Sugar",
+        "oil": "Oil (for frying)"
+      },
+      "steps": [
+        "Finely dice the onion. Heat oil in a small saucepan and sauté the onion until translucent.",
+        "Add ketchup, half the curry powder, paprika, Worcestershire sauce, and sugar. Simmer the curry sauce for 10 minutes on low heat.",
+        "Pan-fry or grill the bratwurst until cooked through and golden brown on all sides.",
+        "Slice the cooked bratwurst into bite-sized pieces. Arrange in a serving tray.",
+        "Pour the warm curry sauce generously over the sliced sausage. Sprinkle with remaining curry powder. Serve with French fries."
+      ]
+    },
+    "frankfurter": {
+      "title": "Frankfurter Würstel",
+      "description": "Classic Austrian boiled pork sausages served simply with sweet mustard, freshly grated horseradish, and a Semmel — the quintessential Würstelstand experience.",
+      "ingredients": {
+        "frankfurter-sausages": "Frankfurter sausages (Wiener Würstel)",
+        "sweet-mustard": "Sweet mustard (Süßer Senf)",
+        "horseradish": "Fresh horseradish (grated)",
+        "semmel": "Semmel bread rolls"
+      },
+      "steps": [
+        "Heat water in a pot until just below boiling (about 75°C/167°F). Never boil Frankfurter — they will burst and lose their snap.",
+        "Place the sausages in the hot water and let them warm through for 8-10 minutes.",
+        "Serve immediately on a plate with a generous dollop of sweet mustard, freshly grated horseradish, and a fresh Semmel on the side."
+      ]
+    }
+  }
+}
