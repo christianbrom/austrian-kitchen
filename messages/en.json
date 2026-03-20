@@ -1711,5 +1711,29 @@
         "Serve immediately on a plate with a generous dollop of sweet mustard, freshly grated horseradish, and a fresh Semmel on the side."
       ]
     }
+  },
+  "units": {
+    "g": "g",
+    "kg": "kg",
+    "ml": "ml",
+    "l": "L",
+    "L": "L",
+    "tsp": "tsp",
+    "tbsp": "tbsp",
+    "pcs": "pcs",
+    "pinch": "pinch",
+    "bunch": "bunch",
+    "clove": "clove",
+    "cloves": "cloves",
+    "cm": "cm",
+    "m": "m",
+    "drop": "drop",
+    "jar": "jar",
+    "sachet": "sachet",
+    "sachets": "sachets",
+    "sheets": "sheets",
+    "slices": "slices",
+    "stalk": "stalk",
+    "whole": "whole"
   }
 }

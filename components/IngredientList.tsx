@@ -24,6 +24,7 @@ export default function IngredientList({
 }: IngredientListProps) {
   const t = useTranslations("recipe");
   const ingredientT = useTranslations(`recipes.${recipeSlug}.ingredients`);
+  const unitT = useTranslations("units");
   const ratio = servings / defaultServings;
 
   return (
@@ -32,14 +33,22 @@ export default function IngredientList({
         {t("ingredients")}
       </h3>
       <ul className="ingredient-list">
-        {ingredients.map((ing) => (
-          <li key={ing.key} className="ingredient-item">
-            <span className="ingredient-name">{ingredientT(ing.key)}</span>
-            <span className="ingredient-amount">
-              {formatAmount(ing.amount * ratio)} {ing.unit}
-            </span>
-          </li>
-        ))}
+        {ingredients.map((ing) => {
+          let translatedUnit = ing.unit;
+          try {
+            translatedUnit = unitT(ing.unit);
+          } catch {
+            // fallback to raw unit if no translation exists
+          }
+          return (
+            <li key={ing.key} className="ingredient-item">
+              <span className="ingredient-name">{ingredientT(ing.key)}</span>
+              <span className="ingredient-amount">
+                {formatAmount(ing.amount * ratio)} {translatedUnit}
+              </span>
+            </li>
+          );
+        })}
       </ul>
     </div>
   );

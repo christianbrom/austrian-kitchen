@@ -1711,5 +1711,29 @@
         "Sofort auf einem Teller mit einem großzügigen Klecks süßem Senf, frisch geriebenem Kren und einer frischen Semmel servieren."
       ]
     }
+  },
+  "units": {
+    "g": "g",
+    "kg": "kg",
+    "ml": "ml",
+    "l": "L",
+    "L": "L",
+    "tsp": "TL",
+    "tbsp": "EL",
+    "pcs": "Stk",
+    "pinch": "Prise",
+    "bunch": "Bund",
+    "clove": "Zehe",
+    "cloves": "Zehen",
+    "cm": "cm",
+    "m": "m",
+    "drop": "Tropfen",
+    "jar": "Glas",
+    "sachet": "Päckchen",
+    "sachets": "Päckchen",
+    "sheets": "Blätter",
+    "slices": "Scheiben",
+    "stalk": "Stange",
+    "whole": "ganz"
   }
 }

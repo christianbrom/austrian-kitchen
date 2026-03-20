@@ -25,6 +25,7 @@ export default function ShoppingList({
 }: ShoppingListProps) {
   const t = useTranslations("recipe");
   const ingredientT = useTranslations(`recipes.${recipeSlug}.ingredients`);
+  const unitT = useTranslations("units");
   const ratio = servings / defaultServings;
   const [checked, setChecked] = useState<Record<string, boolean>>({});
 
@@ -38,7 +39,14 @@ export default function ShoppingList({
         {t("shoppingList")}
       </h3>
       <ul className="ingredient-list">
-        {ingredients.map((ing) => (
+        {ingredients.map((ing) => {
+          let translatedUnit = ing.unit;
+          try {
+            translatedUnit = unitT(ing.unit);
+          } catch {
+            // fallback to raw unit
+          }
+          return (
           <li
             key={ing.key}
             className={`shopping-item ${checked[ing.key] ? "checked" : ""}`}
@@ -52,10 +60,11 @@ export default function ShoppingList({
             />
             <span className="shopping-text">{ingredientT(ing.key)}</span>
             <span className="shopping-amount">
-              {formatAmount(ing.amount * ratio)} {ing.unit}
+              {formatAmount(ing.amount * ratio)} {translatedUnit}
             </span>
           </li>
-        ))}
+          );
+        })}
       </ul>
     </div>
   );
